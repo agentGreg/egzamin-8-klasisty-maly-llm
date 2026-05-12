@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+
+# Local-only / drafts
+temp/
+.claude/
+data/zadania_raw.json
+
+# Arkusz CKE — do pobrania z arkusze.pl (link w README)
+matematyka-2026-egzamin-osmoklasisty.pdf

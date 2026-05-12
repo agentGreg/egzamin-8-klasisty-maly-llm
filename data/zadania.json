@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Test z matematyki składa się z 40 zadań. Na diagramie przedstawiono procentowy podział liczby zadań w teście na zadania z pięciu działów: algebry, planimetrii, stereometrii, arytmetyki, statystyki.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nLiczba zadań z arytmetyki w tym teście jest równa",
+    "opcje": {"A": "14", "B": "18", "C": "26", "D": "35"},
+    "obrazek": "data/obrazki/z01.png",
+    "opis_obrazka": "Wykres kołowy. Pokazane procenty: statystyka 20%, algebra 25%, planimetria 15%, stereometria 5%. Wycinek arytmetyki nie ma podpisanego procentu (pozostała część do 100%).",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Ola otwiera swoją szafkę za pomocą czterocyfrowego kodu YXXY, gdzie X jest największym wspólnym dzielnikiem liczb 18 i 27, a Y jest najmniejszą wspólną wielokrotnością liczb 2 i 4.\n\nJaki jest kod do otwarcia szafki Oli? Wybierz właściwą odpowiedź spośród podanych.",
+    "opcje": {"A": "4334", "B": "4994", "C": "8338", "D": "8998"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dane są cztery liczby:\nw = √(100 − 64) − 2\nx = 12 − √(64 + 36)\ny = √(25 − 16) − 3\nz = 7 − √(9 + 16)\n\nKtóra z tych liczb jest równa 0? Wybierz właściwą odpowiedź spośród podanych.",
+    "opcje": {"A": "w", "B": "x", "C": "y", "D": "z"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nWartość wyrażenia 2^5 · 3 · 3^4 · 2^3 jest równa wartości wyrażenia",
+    "opcje": {"A": "2^8 · 3^5", "B": "4^8 · 9^5", "C": "2^15 · 3^4", "D": "4^15 · 9^4"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "W pewnej hodowli rasowy kocur kosztuje x złotych, a rasowa kotka kosztuje y złotych. Janek kupił z tej hodowli rasowego kocura ze zniżką 40% oraz rasową kotkę ze zniżką 20%.\n\nKtóre wyrażenie poprawnie opisuje, ile złotych zapłacił Janek za te koty? Wybierz właściwą odpowiedź spośród podanych.",
+    "opcje": {"A": "0,4x + 0,2y", "B": "0,2x + 0,4y", "C": "0,8x + 0,6y", "D": "0,6x + 0,8y"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "W pudełku było jedenaście kul ponumerowanych kolejnymi liczbami naturalnymi od 1 do 11. Z tego pudełka wylosowano pięć kul. Suma liczb na dowolnych dwóch kulach, które pozostały w pudełku, jest parzysta.\n\nUzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.\n\nPo losowaniu w pudełku zostały wyłącznie kule ponumerowane liczbami [AB].\n  A. nieparzystymi    B. parzystymi\n\nSuma liczb na pięciu wylosowanych kulach jest równa [CD].\n  C. 30    D. 36",
+    "opcje": {"A": "nieparzystymi", "B": "parzystymi", "C": "30", "D": "36"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "dwa_wybory"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Do 10 pustych koszy włożono jabłka i pomarańcze, łącznie 400 sztuk tych owoców. W każdym koszu łączna liczba owoców jest taka sama oraz w każdym koszu liczba jabłek jest o 6 większa od liczby pomarańczy.\n\nIle sztuk jabłek jest łącznie w tych 10 koszach? Wybierz właściwą odpowiedź spośród podanych.",
+    "opcje": {"A": "210", "B": "230", "C": "240", "D": "260"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Sumę S = 1 + 2 + 3 + … + n kolejnych liczb naturalnych od 1 do n można obliczyć ze wzoru:\nS = (1/2) · n · (n + 1)\n\nUzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.\n\nSuma stu kolejnych liczb naturalnych od 1 do 100 jest równa [AB].\n  A. 5001    B. 5050\n\nWzór na sumę S po poprawnym przekształceniu ma postać [CD].\n  C. S = (1/2)n^2 + 1    D. S = (1/2)n^2 + (1/2)n",
+    "opcje": {"A": "5001", "B": "5050", "C": "S = (1/2)n^2 + 1", "D": "S = (1/2)n^2 + (1/2)n"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "dwa_wybory"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Średnia arytmetyczna dwóch liczb x i y jest równa 4, a średnia arytmetyczna trzech liczb x, y, z jest równa 5.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nLiczba z jest równa",
+    "opcje": {"A": "4", "B": "5", "C": "6", "D": "7"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dany jest trójkąt równoboczny o boku długości 2 cm.\n\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.\n\nZdanie 1: Wysokość tego trójkąta jest równa √3 cm.\nZdanie 2: Pole tego trójkąta jest równe √3 cm^2.",
+    "opcje": {"P1": "Prawda zdania 1", "F1": "Fałsz zdania 1", "P2": "Prawda zdania 2", "F2": "Fałsz zdania 2"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "PF_PF"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Kąty wewnętrzne czworokąta oznaczono: α, β, γ oraz δ. Miara kąta β jest o 70° większa od miary kąta α, miara kąta γ jest dwukrotnie większa od miary kąta α. Kąt δ jest kątem prostym.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nMiara kąta β jest równa",
+    "opcje": {"A": "50°", "B": "85°", "C": "120°", "D": "155°"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Na kartce w kratkę Jurek wykonał rysunek. Na tym rysunku punkty M, W, S oznaczają położenia odpowiednio: muzeum, wieży widokowej oraz schroniska. Wieża widokowa znajduje się 3 km na północ i 4 km na zachód od schroniska. Muzeum znajduje się 5 km na wschód od schroniska.\n\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.\n\nZdanie 1: Odległość w linii prostej schroniska od muzeum jest równa odległości w linii prostej schroniska od wieży widokowej.\nZdanie 2: Odległość w linii prostej muzeum od wieży widokowej jest mniejsza niż 10 km.",
+    "opcje": {"P1": "Prawda zdania 1", "F1": "Fałsz zdania 1", "P2": "Prawda zdania 2", "F2": "Fałsz zdania 2"},
+    "obrazek": "data/obrazki/z12.png",
+    "opis_obrazka": "Mapa w skali 1 kratka = 1 km. Schronisko S w środku układu współrzędnych. Wieża W położona o 4 kratki na zachód i 3 kratki na północ od S. Muzeum M położone 5 kratek na wschód od S. Narysowano odcinki SW, WM oraz SM.",
+    "podtyp": "PF_PF"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Przekątna AD dzieli pięciokąt ABCDE na trójkąt ADE i na kwadrat ABCD (zobacz rysunek). Pole trójkąta ADE jest równe 28, a wysokość poprowadzona z wierzchołka E na bok AD jest równa 7.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nPole kwadratu ABCD jest równe",
+    "opcje": {"A": "16", "B": "32", "C": "49", "D": "64"},
+    "obrazek": "data/obrazki/z13.png",
+    "opis_obrazka": "Pięciokąt złożony z dolnego kwadratu ABCD (B w lewym dolnym rogu, C w prawym dolnym, D w prawym górnym, A w lewym górnym) oraz trójkąta ADE 'dachu' opartego na boku AD, z wierzchołkiem E powyżej środka AD.",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Trzy jednakowe sześciany o krawędzi długości 5 ustawiono jeden na drugim i otrzymano prostopadłościan (zobacz rysunek).\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nPole powierzchni całkowitej otrzymanego prostopadłościanu jest równe",
+    "opcje": {"A": "350", "B": "375", "C": "400", "D": "450"},
+    "obrazek": "data/obrazki/z14.png",
+    "opis_obrazka": "Prostopadłościan pionowy złożony z trzech identycznych sześcianów ustawionych jeden na drugim. Każdy sześcian ma krawędź 5. Wymiary całego prostopadłościanu: 5 × 5 × 15.",
+    "podtyp": "ABCD"
+  },
+  {
+    "id": 15,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "tresc": "Do wykonania origami Ela przygotowała łącznie 160 kartek. Każda z tych kartek była w jednym z czterech kolorów: białym, niebieskim, zielonym lub czerwonym. Kartek białych było 37. Kartek niebieskich było 1,5 raza więcej niż czerwonych, a kartek zielonych było o 10 mniej niż czerwonych.\n\nOblicz, ile kartek niebieskich przygotowała Ela. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "obliczenia"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "tresc": "Z Polanki do Dębiny prowadzi jedna droga przez Jodłowo i ma długość 123 km. Droga z Polanki do Jodłowa ma długość 48 km i samochód przejechał ją w czasie 40 minut. Drogę z Jodłowa do Dębiny ten samochód pokonał z taką samą prędkością, jak drogę z Polanki do Jodłowa.\n\nUzasadnij, że przejazd tego samochodu z Jodłowa do Dębiny trwał dłużej niż godzinę. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "uzasadnienie"
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "tresc": "Podczas Dnia Sportu w pewnej szkole rozegrano trzy turnieje sportowe. Każde dziecko, które było uczestnikiem tego Dnia Sportu, wzięło udział w dokładnie jednym turnieju sportowym. W tabeli podano informacje dotyczące liczby dzieci biorących udział w poszczególnych turniejach. Łączna liczba dziewcząt była o 8 większa od łącznej liczby chłopców uczestniczących w tym Dniu Sportu.\n\nTabela:\n                     | Turniej piłki nożnej | Turniej tańca | Turniej tenisa stołowego\nLiczba dziewcząt     |          15          |       65      |            ?\nLiczba chłopców      |          46          |       16      |           34\n\nOblicz, ile procent liczby wszystkich uczestników Dnia Sportu stanowi liczba dzieci, które brały udział w turnieju tenisa stołowego. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "data/obrazki/z17.png",
+    "opis_obrazka": "Tabela 2 wiersze (dziewczęta, chłopcy) × 3 kolumny (piłka nożna, taniec, tenis stołowy). Wartości: dziewczęta 15, 65, ?; chłopcy 46, 16, 34.",
+    "podtyp": "obliczenia"
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "tresc": "Dany jest sześcian ABCDEFGH o krawędzi długości a. Punkt S jest środkiem krawędzi DH tego sześcianu. Punkty A, C, D, S są wierzchołkami ostrosłupa trójkątnego (zobacz rysunek).\n\nOblicz, ile razy objętość ostrosłupa ACDS jest mniejsza od objętości sześcianu ABCDEFGH. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "data/obrazki/z18.png",
+    "opis_obrazka": "Sześcian ABCDEFGH: A lewy przedni dolny, B prawy przedni dolny, C prawy tylny dolny, D lewy tylny dolny, E nad A, F nad B, G nad C, H nad D. Punkt S w środku krawędzi DH (czyli na środku pionowej krawędzi z D do H). Ostrosłup ACDS o podstawie trójkątnej ACD (połowa dolnej ściany) i wierzchołku S powyżej D.",
+    "podtyp": "obliczenia"
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "tresc": "Ogródek pani Anny ma kształt trapezu, którego podstawy mają długości 18 m i 12 m, a wysokość jest równa 9 m. Pani Anna chce zmienić swój ogródek w łąkę kwietną. Jedno opakowanie z nasionami wybrane przez panią Annę wystarcza na obsianie 25 m^2 powierzchni i kosztuje 23,80 zł.\n\nOblicz, ile złotych musi zapłacić pani Anna za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "obliczenia"
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "tresc": "Z kartonu wycięto prostokąt ABCD o wymiarach 3 i 9 (zobacz rysunek 1.). Następnie ten prostokąt rozcięto na dwie figury: trapez prostokątny oraz trójkąt prostokątny równoramienny. Z tych figur złożono równoległobok KLMN, który nie jest prostokątem (zobacz rysunek 2.).\n\nOblicz obwód równoległoboku KLMN. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "data/obrazki/z20.png",
+    "opis_obrazka": "Rysunek 1: prostokąt ABCD o wymiarach 3 (krótszy bok) × 9 (dłuższy bok). Wierzchołki: A lewy dolny, B prawy dolny, C prawy górny, D lewy górny. Rysunek 2: równoległobok KLMN (K lewy dolny, L prawy dolny, M prawy górny, N lewy górny). Boki KL i NM są poziome, dłuższe; boki KN i LM są ukośne, krótsze, nachylone pod kątem różnym od 90° (równoległobok nie jest prostokątem). Aby z prostokąta otrzymać taki równoległobok, odcina się trójkąt prostokątny równoramienny przy jednym krótszym boku (obie przyprostokątne równe 3) i dokleja po przeciwnej stronie.",
+    "podtyp": "obliczenia"
+  }
+]

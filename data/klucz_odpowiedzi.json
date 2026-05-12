@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "odpowiedz": "A",
+    "rozwiazanie": "Suma procentów: 100% - (20+25+15+5)% = 35% to arytmetyka. 35% z 40 = 0,35·40 = 14."
+  },
+  {
+    "id": 2,
+    "odpowiedz": "B",
+    "rozwiazanie": "NWD(18,27)=9, więc X=9. NWW(2,4)=4, więc Y=4. Kod YXXY = 4994."
+  },
+  {
+    "id": 3,
+    "odpowiedz": "C",
+    "rozwiazanie": "w=√36-2=6-2=4; x=12-√100=12-10=2; y=√9-3=3-3=0; z=7-√25=7-5=2. Zero to y."
+  },
+  {
+    "id": 4,
+    "odpowiedz": "A",
+    "rozwiazanie": "2^5·2^3 = 2^8 oraz 3·3^4 = 3^5, więc 2^5·3·3^4·2^3 = 2^8·3^5. Opcja A."
+  },
+  {
+    "id": 5,
+    "odpowiedz": "D",
+    "rozwiazanie": "Kocur ze zniżką 40%: 0,6x. Kotka ze zniżką 20%: 0,8y. Razem: 0,6x + 0,8y."
+  },
+  {
+    "id": 6,
+    "odpowiedz": "AC",
+    "rozwiazanie": "Aby suma dowolnych dwóch była parzysta, wszystkie liczby muszą być tej samej parzystości. W pudełku zostało 11-5=6 kul. Liczb parzystych w 1-11 jest 5, nieparzystych 6. Zostały więc nieparzyste: 1,3,5,7,9,11 (suma 36). Wylosowane parzyste: 2+4+6+8+10=30."
+  },
+  {
+    "id": 7,
+    "odpowiedz": "B",
+    "rozwiazanie": "W każdym koszu: 400:10=40 owoców. j+p=40, j-p=6, więc j=23, p=17. Łącznie jabłek: 10·23=230."
+  },
+  {
+    "id": 8,
+    "odpowiedz": "BD",
+    "rozwiazanie": "S=½·100·101=5050. Wzór: S=½n(n+1)=½n²+½n."
+  },
+  {
+    "id": 9,
+    "odpowiedz": "D",
+    "rozwiazanie": "x+y=8, x+y+z=15, więc z=7."
+  },
+  {
+    "id": 10,
+    "odpowiedz": "PP",
+    "rozwiazanie": "Wysokość trójkąta równobocznego: h=a√3/2=2√3/2=√3 cm ✓. Pole: P=a²√3/4=4√3/4=√3 cm² ✓."
+  },
+  {
+    "id": 11,
+    "odpowiedz": "C",
+    "rozwiazanie": "α+β+γ+δ=360°. β=α+70°, γ=2α, δ=90°. α+(α+70°)+2α+90°=360°, 4α=200°, α=50°. β=120°."
+  },
+  {
+    "id": 12,
+    "odpowiedz": "PP",
+    "rozwiazanie": "SM = 5 km. SW = √(3² + 4²) = √25 = 5 km. Odległości równe — zdanie 1 PRAWDA. WM: różnica wschód-zachód 4+5 = 9 km, różnica północ-południe = 3 km. WM = √(9² + 3²) = √90 ≈ 9,49 km < 10 km — zdanie 2 PRAWDA. Odpowiedź PP."
+  },
+  {
+    "id": 13,
+    "odpowiedz": "D",
+    "rozwiazanie": "P=½·AD·7=28, więc AD=8. Bok kwadratu =8, pole=64."
+  },
+  {
+    "id": 14,
+    "odpowiedz": "A",
+    "rozwiazanie": "Prostopadłościan ma wymiary 5×5×15. Pole: 2·(5·5+5·15+5·15)=2·(25+75+75)=2·175=350."
+  },
+  {
+    "id": 15,
+    "odpowiedz": "Ela przygotowała 57 kartek niebieskich.",
+    "rozwiazanie": "Niech c = liczba czerwonych. Niebieskich: 1,5c. Zielonych: c-10. Białych: 37. Razem: 37 + 1,5c + c + (c-10) = 160. 3,5c + 27 = 160. 3,5c = 133. c = 38. Niebieskich: 1,5·38 = 57. Sprawdzenie: 37 + 57 + 38 + 28 = 160 ✓."
+  },
+  {
+    "id": 16,
+    "odpowiedz": "Przejazd z Jodłowa do Dębiny trwał 62,5 minuty, czyli dłużej niż godzinę.",
+    "rozwiazanie": "Prędkość: v=48 km / (40/60 h) = 48·60/40 = 72 km/h. Droga Jodłowo-Dębina: 123-48=75 km. Czas: t=75/72 h = 75·60/72 min = 4500/72 = 62,5 min > 60 min. Zatem przejazd trwał dłużej niż godzinę."
+  },
+  {
+    "id": 17,
+    "odpowiedz": "Liczba dzieci na turnieju tenisa stołowego stanowi 29% wszystkich uczestników.",
+    "rozwiazanie": "Łącznie chłopców: 46 + 16 + 34 = 96. Dziewcząt łącznie: 96 + 8 = 104. Dziewcząt na tenis stołowy: 104 - 15 - 65 = 24. Razem na tenis stołowy: 24 + 34 = 58. Wszyscy uczestnicy: 96 + 104 = 200. Procent: 58/200 = 0,29 = 29%."
+  },
+  {
+    "id": 18,
+    "odpowiedz": "Objętość ostrosłupa ACDS jest 12 razy mniejsza od objętości sześcianu.",
+    "rozwiazanie": "Trójkąt ACD jest połową kwadratu ABCD: P=a²/2. Wysokość ostrosłupa to DS=a/2 (S środek DH). V_ostr=⅓·(a²/2)·(a/2)=a³/12. V_szesc=a³. Stosunek: a³ : a³/12 = 12. Zatem 12 razy mniejsza."
+  },
+  {
+    "id": 19,
+    "odpowiedz": "Pani Anna zapłaci 142,80 zł.",
+    "rozwiazanie": "Pole trapezu: P=½(18+12)·9=½·30·9=135 m². Liczba opakowań: 135/25=5,4, więc trzeba 6 opakowań. Koszt: 6·23,80=142,80 zł."
+  },
+  {
+    "id": 20,
+    "odpowiedz": "Obwód równoległoboku KLMN wynosi 18 + 6√2.",
+    "rozwiazanie": "Prostokąt 3×9 tniemy po skosie od jednego rogu krótszego boku do punktu na dłuższym boku odległego o 3. Otrzymujemy trójkąt prostokątny równoramienny o przyprostokątnych 3 i 3 (przeciwprostokątna 3√2) oraz trapez prostokątny (podstawy 6 i 9, wysokość 3, bok skośny 3√2). Przesuwamy trójkąt na drugi koniec trapezu wzdłuż dłuższego boku — figura złożona to równoległobok o bokach dłuższych 9 (poziome) i krótszych 3√2 (skośne, pod kątem 45°). Sprawdzenie pola: 9 · 3√2 · sin45° = 9 · 3√2 · √2/2 = 27 ✓. Obwód = 2(9 + 3√2) = 18 + 6√2."
+  }
+]

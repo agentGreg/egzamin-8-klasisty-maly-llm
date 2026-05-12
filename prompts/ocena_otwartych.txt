@@ -1,0 +1,34 @@
+Jesteś egzaminatorem CKE oceniającym rozwiązanie zadania otwartego z egzaminu ósmoklasisty z matematyki.
+
+ZADANIE:
+{tresc}
+
+WZORCOWE ROZWIĄZANIE / KLUCZ (wynik prawidłowy):
+{wzorzec}
+
+MAKSYMALNA LICZBA PUNKTÓW: {pkt_max}
+
+ROZWIĄZANIE UCZNIA:
+{odp_modelu}
+
+Oceń rozwiązanie ucznia wg standardowych kryteriów CKE dla zadań otwartych z egzaminu ósmoklasisty:
+
+Dla zadań na 2 punkty (typowo metoda + wynik):
+- 2 pkt — pełna metoda + poprawny wynik (z poprawną jednostką jeśli wymagana)
+- 1 pkt — poprawna metoda lecz błąd rachunkowy / błędny wynik końcowy LUB poprawny wynik bez pełnego uzasadnienia
+- 0 pkt — brak rozwiązania / błędna metoda / odpowiedź "z powietrza"
+
+Dla zadań na 3 punkty (typowo etapy: model matematyczny → obliczenia → wynik):
+- 3 pkt — kompletne, poprawne rozwiązanie z wynikiem
+- 2 pkt — w istocie poprawna metoda, ale błąd w jednym etapie (np. rachunkowy)
+- 1 pkt — istotny postęp (poprawny model lub poprawne częściowe obliczenia), ale dalsze błędy
+- 0 pkt — brak istotnego postępu / błędna metoda
+
+WAŻNE:
+- Drobny błąd zaokrąglenia przy poprawnej metodzie to NIE jest błąd zerujący.
+- Brak jednostki ale prawidłowa liczba — w zadaniach typu "ile złotych" / "ile sztuk" zwykle nie obniża punktacji o 1.
+- Niejasna prezentacja, ale wynik prawidłowy i obliczenia widoczne — uznaj.
+- Wynik podany w innej formie matematycznej równoważnej kluczowi (np. 6√2 + 18 vs 18 + 6√2) — uznaj.
+
+Zwróć ŚCIŚLE JSON (bez żadnego dodatkowego tekstu, bez bloków kodu):
+{{"punkty": <int 0..{pkt_max}>, "uzasadnienie": "<krótkie uzasadnienie po polsku, 1-3 zdania>"}}

@@ -1,0 +1,15 @@
+[project]
+name = "egzamin-8-klasisty"
+version = "0.1.0"
+description = "Benchmark Bielik 4.5B v3 vs Gemma 3 4B na egzaminie ósmoklasisty z matematyki (CKE 2026)"
+authors = [{ name = "Grzegorz Brzezinka", email = "greg@prosit.no" }]
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.101.0",
+    "mlx-lm>=0.31.3",
+    "mlx-vlm>=0.5.0",
+    "pillow>=12.2.0",
+    "pymupdf>=1.27.2.3",
+    "python-dotenv>=1.2.2",
+    "tabulate>=0.10.0",
+]

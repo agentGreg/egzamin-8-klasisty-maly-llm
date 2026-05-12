@@ -1,0 +1,455 @@
+{
+  "sedzia": "claude-opus-4-7",
+  "max_pkt": 30,
+  "modele": [
+    "gemma",
+    "gemma_text",
+    "bielik"
+  ],
+  "gemma": {
+    "suma": 14,
+    "procent": 46.7,
+    "zamk_correct": 8,
+    "zamk_total": 14,
+    "otw_pkt": 6,
+    "otw_max": 16
+  },
+  "gemma_text": {
+    "suma": 18,
+    "procent": 60.0,
+    "zamk_correct": 9,
+    "zamk_total": 14,
+    "otw_pkt": 9,
+    "otw_max": 16
+  },
+  "bielik": {
+    "suma": 24,
+    "procent": 80.0,
+    "zamk_correct": 12,
+    "zamk_total": 14,
+    "otw_pkt": 12,
+    "otw_max": 16
+  },
+  "zadania": [
+    {
+      "id": 1,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "A",
+      "gemma": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      },
+      "gemma_text": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      },
+      "bielik": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      }
+    },
+    {
+      "id": 2,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "B",
+      "gemma": {
+        "odp": "A",
+        "punkty": 0,
+        "porownanie": "A vs B"
+      },
+      "gemma_text": {
+        "odp": "D",
+        "punkty": 0,
+        "porownanie": "D vs B"
+      },
+      "bielik": {
+        "odp": "B",
+        "punkty": 1,
+        "porownanie": "B vs B"
+      }
+    },
+    {
+      "id": 3,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "C",
+      "gemma": {
+        "odp": "C",
+        "punkty": 1,
+        "porownanie": "C vs C"
+      },
+      "gemma_text": {
+        "odp": "C",
+        "punkty": 1,
+        "porownanie": "C vs C"
+      },
+      "bielik": {
+        "odp": "C",
+        "punkty": 1,
+        "porownanie": "C vs C"
+      }
+    },
+    {
+      "id": 4,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "A",
+      "gemma": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      },
+      "gemma_text": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      },
+      "bielik": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      }
+    },
+    {
+      "id": 5,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "D",
+      "gemma": {
+        "odp": "C",
+        "punkty": 0,
+        "porownanie": "C vs D"
+      },
+      "gemma_text": {
+        "odp": "C",
+        "punkty": 0,
+        "porownanie": "C vs D"
+      },
+      "bielik": {
+        "odp": "D",
+        "punkty": 1,
+        "porownanie": "D vs D"
+      }
+    },
+    {
+      "id": 6,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "AC",
+      "gemma": {
+        "odp": "BD",
+        "punkty": 0,
+        "porownanie": "BD vs AC"
+      },
+      "gemma_text": {
+        "odp": "D",
+        "punkty": 0,
+        "porownanie": "D vs AC"
+      },
+      "bielik": {
+        "odp": "BD",
+        "punkty": 0,
+        "porownanie": "BD vs AC"
+      }
+    },
+    {
+      "id": 7,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "B",
+      "gemma": {
+        "odp": "B",
+        "punkty": 1,
+        "porownanie": "B vs B"
+      },
+      "gemma_text": {
+        "odp": "B",
+        "punkty": 1,
+        "porownanie": "B vs B"
+      },
+      "bielik": {
+        "odp": "B",
+        "punkty": 1,
+        "porownanie": "B vs B"
+      }
+    },
+    {
+      "id": 8,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "BD",
+      "gemma": {
+        "odp": "BD",
+        "punkty": 1,
+        "porownanie": "BD vs BD"
+      },
+      "gemma_text": {
+        "odp": "BD",
+        "punkty": 1,
+        "porownanie": "BD vs BD"
+      },
+      "bielik": {
+        "odp": "BD",
+        "punkty": 1,
+        "porownanie": "BD vs BD"
+      }
+    },
+    {
+      "id": 9,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "D",
+      "gemma": {
+        "odp": "C",
+        "punkty": 0,
+        "porownanie": "C vs D"
+      },
+      "gemma_text": {
+        "odp": "D",
+        "punkty": 1,
+        "porownanie": "D vs D"
+      },
+      "bielik": {
+        "odp": "D",
+        "punkty": 1,
+        "porownanie": "D vs D"
+      }
+    },
+    {
+      "id": 10,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "PP",
+      "gemma": {
+        "odp": "P1",
+        "punkty": 0,
+        "porownanie": "P1 vs PP"
+      },
+      "gemma_text": {
+        "odp": "P1",
+        "punkty": 0,
+        "porownanie": "P1 vs PP"
+      },
+      "bielik": {
+        "odp": "PP",
+        "punkty": 1,
+        "porownanie": "PP vs PP"
+      }
+    },
+    {
+      "id": 11,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "C",
+      "gemma": {
+        "odp": "C",
+        "punkty": 1,
+        "porownanie": "C vs C"
+      },
+      "gemma_text": {
+        "odp": "C",
+        "punkty": 1,
+        "porownanie": "C vs C"
+      },
+      "bielik": {
+        "odp": "C",
+        "punkty": 1,
+        "porownanie": "C vs C"
+      }
+    },
+    {
+      "id": 12,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "PP",
+      "gemma": {
+        "odp": "PF",
+        "punkty": 0,
+        "porownanie": "PF vs PP"
+      },
+      "gemma_text": {
+        "odp": "P1",
+        "punkty": 0,
+        "porownanie": "P1 vs PP"
+      },
+      "bielik": {
+        "odp": "PP",
+        "punkty": 1,
+        "porownanie": "PP vs PP"
+      }
+    },
+    {
+      "id": 13,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "D",
+      "gemma": {
+        "odp": "D",
+        "punkty": 1,
+        "porownanie": "D vs D"
+      },
+      "gemma_text": {
+        "odp": "D",
+        "punkty": 1,
+        "porownanie": "D vs D"
+      },
+      "bielik": {
+        "odp": "B",
+        "punkty": 0,
+        "porownanie": "B vs D"
+      }
+    },
+    {
+      "id": 14,
+      "typ": "zamkniete",
+      "punkty_max": 1,
+      "klucz_odp": "A",
+      "gemma": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      },
+      "gemma_text": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      },
+      "bielik": {
+        "odp": "A",
+        "punkty": 1,
+        "porownanie": "A vs A"
+      }
+    },
+    {
+      "id": 15,
+      "typ": "otwarte",
+      "punkty_max": 2,
+      "klucz_odp": "Ela przygotowała 57 kartek niebieskich.",
+      "gemma": {
+        "odp": "Ela przygotowała 57 kartek niebieskich.",
+        "punkty": 1,
+        "uzasadnienie": "Uczeń poprawnie ustawił równanie 3,5c = 133, ale popełnił błąd rachunkowy dzieląc 133/3,5 = 37 zamiast 38. Następnie zamiast poprawić błąd, metodą prób i błędów znalazł właściwy wynik 57. Mimo że końcowa odpowiedź jest poprawna, rozwiązanie zawiera istotny błąd rachunkowy, a poprawny wynik uzyskano przez zgadywanie, a nie konsekwentne rozwiązanie równania."
+      },
+      "gemma_text": {
+        "odp": "Ela przygotowała 57 kartek niebieskich.",
+        "punkty": 2,
+        "uzasadnienie": "Uczeń poprawnie ułożył równanie, prawidłowo je rozwiązał i otrzymał właściwy wynik 57 kartek niebieskich. Rozwiązanie jest kompletne i zawiera sprawdzenie."
+      },
+      "bielik": {
+        "odp": "",
+        "punkty": 2,
+        "uzasadnienie": "Uczeń poprawnie ułożył równanie i otrzymał właściwy wynik 57 kartek niebieskich. Wystąpił drobny błąd rachunkowy przy upraszczaniu (37-10=26 zamiast 27, co dało 134 zamiast 133), ale uczeń sprawdził wynik r=38 i potwierdził poprawność, otrzymując prawidłową odpowiedź końcową."
+      }
+    },
+    {
+      "id": 16,
+      "typ": "otwarte",
+      "punkty_max": 3,
+      "klucz_odp": "Przejazd z Jodłowa do Dębiny trwał 62,5 minuty, czyli dłużej niż godzinę.",
+      "gemma": {
+        "odp": "",
+        "punkty": 3,
+        "uzasadnienie": "Uczeń poprawnie obliczył prędkość (72 km/h), długość drogi Jodłowo-Dębina (75 km) oraz czas przejazdu (62,5 min), prawidłowo uzasadniając, że jest to więcej niż godzina. Rozwiązanie kompletne i poprawne."
+      },
+      "gemma_text": {
+        "odp": "",
+        "punkty": 2,
+        "uzasadnienie": "Uczeń poprawnie obliczył prędkość (72 km/h), długość drogi Jodłowo-Dębina (75 km) oraz czas jako 25/24 godziny. Popełnił jednak błąd przy zamianie na minuty - poprawnie wyliczył 1 godzinę i 2,5 minuty, ale potem błędnie napisał 82,5 minuty zamiast 62,5 minuty. Mimo błędu końcowego wniosek (przejazd trwał dłużej niż godzina) jest poprawny, a metoda w pełni prawidłowa - błąd rachunkowy w jednym etapie."
+      },
+      "bielik": {
+        "odp": "",
+        "punkty": 3,
+        "uzasadnienie": "Uczeń poprawnie obliczył prędkość (72 km/h), długość drogi Jodłowo-Dębina (75 km) oraz czas przejazdu (75/72 h ≈ 1,0417 h), co jest równoważne 62,5 min. Wniosek, że czas jest dłuższy niż godzina, jest prawidłowo uzasadniony."
+      }
+    },
+    {
+      "id": 17,
+      "typ": "otwarte",
+      "punkty_max": 3,
+      "klucz_odp": "Liczba dzieci na turnieju tenisa stołowego stanowi 29% wszystkich uczestników.",
+      "gemma": {
+        "odp": "Liczba procentów wszystkich uczestników Dnia Sportu, jaki stanowi liczba dzieci, które brały udział w turnieju tenisa stołowego, wynosi około 19.23%.",
+        "punkty": 0,
+        "uzasadnienie": "Uczeń pominął kluczową informację, że liczba dziewcząt była o 8 większa od liczby chłopców, i nie obliczył liczby dziewcząt biorących udział w turnieju tenisa stołowego. W efekcie błędnie przyjął, że w turnieju tenisa stołowego brało udział tylko 34 dzieci, co prowadzi do błędnego wyniku 19,23% zamiast 29%. Brak istotnego postępu w prawidłowej metodzie."
+      },
+      "gemma_text": {
+        "odp": "Procent liczby wszystkich uczestników Dnia Sportu, jaki stanowi liczba dzieci, które brały udział w turnieju tenisa stołowego, wynosi 12%.",
+        "punkty": 1,
+        "uzasadnienie": "Uczeń poprawnie ustalił liczbę dziewcząt w turnieju tenisa stołowego (24) oraz łączną liczbę uczestników (200), co stanowi istotny postęp. Jednak w ostatnim kroku błędnie policzył tylko dziewczęta (24) zamiast wszystkich dzieci na turnieju tenisa stołowego (24+34=58), uzyskując błędny wynik 12% zamiast 29%."
+      },
+      "bielik": {
+        "odp": "",
+        "punkty": 2,
+        "uzasadnienie": "Uczeń poprawnie obliczył liczbę dziewcząt na tenisie stołowym (24) oraz łączną liczbę uczestników (200), ale w ostatnim kroku zapomniał dodać 34 chłopców i policzył procent tylko z 24 zamiast z 58, otrzymując błędny wynik 12% zamiast 29%."
+      }
+    },
+    {
+      "id": 18,
+      "typ": "otwarte",
+      "punkty_max": 2,
+      "klucz_odp": "Objętość ostrosłupa ACDS jest 12 razy mniejsza od objętości sześcianu.",
+      "gemma": {
+        "odp": "Objętość ostrosłupa ACDS jest mniejsza od objętości sześcianu ABCDEFGH o współczynniku 0.5.",
+        "punkty": 0,
+        "uzasadnienie": "Uczeń błędnie zidentyfikował podstawę i wysokość ostrosłupa - pomylił wzory, źle przyjął współrzędne punktów (D ma współrzędne (a,a,a) zamiast (0,a,0)), a także zastosował wzór na objętość bez czynnika 1/3. Wynik końcowy (0,5) jest błędny, prawidłowa odpowiedź to 12 razy."
+      },
+      "gemma_text": {
+        "odp": "Objętość ostrosłupa ACDS jest równa objętości sześcianu ABCDEFGH.  Obliczenia:\nV_sześcianu = a³\nV_ostrosłupa = (1/2) * a³\nWspółczynnik = V_sześcianu / V_ostrosłupa = 1",
+        "punkty": 0,
+        "uzasadnienie": "Uczeń poprawnie obliczył pole podstawy (a²/2) i wysokość DS=a/2, ale nie zastosował wzoru na objętość ostrosłupa. Zamiast tego błędnie przyjął, że objętość ostrosłupa to połowa sześcianu, co dało błędny wynik (współczynnik 1 zamiast 12). Metoda i wynik końcowy są błędne."
+      },
+      "bielik": {
+        "odp": "",
+        "punkty": 2,
+        "uzasadnienie": "Uczeń poprawnie obliczył objętość sześcianu (a³) oraz objętość ostrosłupa (a³/12), prawidłowo identyfikując pole podstawy (a²/2) i wysokość (a/2). Stosunek objętości wynosi 12, co jest zgodne z kluczem. Rozwiązanie kompletne i poprawne."
+      }
+    },
+    {
+      "id": 19,
+      "typ": "otwarte",
+      "punkty_max": 3,
+      "klucz_odp": "Pani Anna zapłaci 142,80 zł.",
+      "gemma": {
+        "odp": "Pani Anna musi zapłacić 138,80 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka.",
+        "punkty": 2,
+        "uzasadnienie": "Uczeń poprawnie obliczył pole trapezu (135 m²) oraz prawidłowo wyznaczył liczbę potrzebnych opakowań (6). Popełnił jednak błąd rachunkowy w ostatnim etapie: 6 · 23,80 = 142,80 zł, a nie 138,80 zł. Zgodnie z kryteriami za błąd rachunkowy w jednym etapie przy poprawnej metodzie przyznaje się 2 pkt."
+      },
+      "gemma_text": {
+        "odp": "Pani Anna musi zapłacić 142,80 zł za najmniejszą liczbę opakowań z nasion potrzebnych na obsianie całej powierzchni ogródka.",
+        "punkty": 3,
+        "uzasadnienie": "Uczeń poprawnie obliczył pole trapezu (135 m²), prawidłowo wyznaczył liczbę potrzebnych opakowań (5,4 → 6) oraz obliczył koszt 6·23,80 = 142,80 zł. Rozwiązanie jest kompletne i poprawne."
+      },
+      "bielik": {
+        "odp": "",
+        "punkty": 3,
+        "uzasadnienie": "Uczeń poprawnie obliczył pole trapezu (135 m²), prawidłowo wyznaczył liczbę potrzebnych opakowań z zaokrągleniem w górę (6) oraz obliczył całkowity koszt (142,80 zł). Rozwiązanie jest kompletne i poprawne."
+      }
+    },
+    {
+      "id": 20,
+      "typ": "otwarte",
+      "punkty_max": 3,
+      "klucz_odp": "Obwód równoległoboku KLMN wynosi 18 + 6√2.",
+      "gemma": {
+        "odp": "",
+        "punkty": 0,
+        "uzasadnienie": "Rozwiązanie ucznia jest chaotyczne, zawiera błędne założenia (np. że KL=9 i MN=3, co przeczy definicji równoległoboku) oraz nieskończenie powtarzające się zdanie bez żadnych konkretnych obliczeń prowadzących do wyniku. Nie obliczono obwodu ani nie zidentyfikowano poprawnie boków równoległoboku (9 i 3√2). Brak istotnego postępu."
+      },
+      "gemma_text": {
+        "odp": "Obwód równoległoboku KLMN wynosi 12 + 6√2.",
+        "punkty": 1,
+        "uzasadnienie": "Uczeń poprawnie zidentyfikował trójkąt prostokątny równoramienny o przyprostokątnych 3 i przeciwprostokątnej 3√2. Jednak błędnie wyznaczył długości boków równoległoboku — przyjął, że boki mają długości 3 i 9 zamiast 9 i 3√2 (oba dłuższe boki równoległoboku mają długość 9). W rezultacie otrzymał błędny obwód 12 + 6√2 zamiast 18 + 6√2. Istotny postęp jest, ale wynik końcowy niepoprawny."
+      },
+      "bielik": {
+        "odp": "",
+        "punkty": 0,
+        "uzasadnienie": "Uczeń błędnie określił wymiary trapezu i nie zrozumiał konstrukcji równoległoboku. Założył, że boki równoległoboku to 9 i 3, co dałoby prostokąt (sprzeczne z treścią zadania). Wynik 24 jest błędny, prawidłowy to 18 + 6√2."
+      }
+    }
+  ]
+}
