@@ -1,0 +1,14 @@
+[
+  {
+    "model": "PLLuM-8B base",
+    "format_compliance": 0.429,
+    "conditional_accuracy": 0.143,
+    "total_score": 3
+  },
+  {
+    "model": "PLLuM-8B +LoRA",
+    "format_compliance": 0.929,
+    "conditional_accuracy": 0.143,
+    "total_score": 4
+  }
+]

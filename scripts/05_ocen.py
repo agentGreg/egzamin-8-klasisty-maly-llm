@@ -46,6 +46,8 @@ MODELE: list[tuple[str, Path]] = [
     ("llama_pllum8_2512", ROOT / "results" / "pllum8_2512_odpowiedzi.json"),
     ("pllum12_2512", ROOT / "results" / "pllum12_2512_odpowiedzi.json"),
     ("pllum4_2512", ROOT / "results" / "pllum4_2512_odpowiedzi.json"),
+    # fine-tune spike (LoRA na arkuszach 2021-2023; dopisywane przez 04e_ft)
+    ("llama_pllum8_2512_ft", ROOT / "results" / "pllum8_2512_ft_odpowiedzi.json"),
 ]
 
 SEDZIA = "claude-opus-4-7"
