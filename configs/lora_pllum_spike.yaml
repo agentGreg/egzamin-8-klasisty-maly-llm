@@ -1,0 +1,21 @@
+# LoRA SFT config for the PLLuM 8B 2512 format-not-math spike.
+# Trains a low-rank adapter on the 8-bit base (QLoRA-style) over the
+# transcribed 2021-2023 CKE sheets. Held-out test (2026 main) is NOT here.
+model: "/Users/greg/.cache/huggingface/local-mlx/Llama-PLLuM-8B-instruct-2512-mlx-8bit"
+train: true
+data: "data/finetune"
+adapter_path: "adapters/pllum8_spike"
+fine_tune_type: lora
+num_layers: 16
+iters: 300
+batch_size: 1
+learning_rate: 1.0e-4
+steps_per_report: 20
+steps_per_eval: 60
+save_every: 100
+max_seq_length: 2048
+seed: 42
+lora_parameters:
+  rank: 8
+  scale: 20.0
+  dropout: 0.0

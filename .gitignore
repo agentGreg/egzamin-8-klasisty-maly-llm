@@ -19,3 +19,4 @@ data/zadania_raw.json
 # Arkusz CKE — do pobrania z arkusze.pl (link w README)
 matematyka-2026-egzamin-osmoklasisty.pdf
 .DS_store
+adapters/
