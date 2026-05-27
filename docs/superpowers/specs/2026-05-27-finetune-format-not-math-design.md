@@ -190,3 +190,25 @@ sheets only**: extract → build a tiny dataset → LoRA → fuse → eval on th
 sheet. Goal: confirm the training and eval plumbing works and that format
 compliance moves in the predicted direction, before investing in the full
 archive extraction.
+
+### Spike outcome (2026-05-27) — GO
+
+Executed end-to-end on Llama-PLLuM 8B 2512: LoRA (rank 8, 16 layers, 300 iters)
+on 57 transcribed tasks from the 2021–2023 main sheets, evaluated on the
+held-out 2026 sheet.
+
+| Metric (closed tasks) | base | +LoRA |
+|---|---|---|
+| format-compliance (strict `<odpowiedz>`) | 0.429 | **0.929** |
+| conditional-accuracy (correct / parsed) | 0.143 | **0.143** |
+| total score /30 (judge) | 3 | 4 |
+
+**Hypothesis confirmed.** Format compliance more than doubled; conditional
+accuracy was bit-for-bit unchanged; total score moved +1 (within judge noise).
+The model learned the uniform, not the math.
+
+Secondary finding: on 52 training examples, validation loss bottomed at
+~iter 60 (0.745) then rose to 0.914 by iter 300 while train loss fell to 0.074 —
+clear overfitting. **Plan 2 must add early-stopping (or use the best-val
+checkpoint) and more data**, and revisit the 2023 sheet whose statements were
+partly reconstructed from a corrupted PDF font layer.
