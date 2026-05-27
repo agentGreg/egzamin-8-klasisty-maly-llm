@@ -33,6 +33,22 @@ Pełna tabela per-zadaniowa + wydajność: [`results/raport.md`](results/raport.
 - **Nowy PLLuM 4B = Gemma 3 Google'a** (`Gemma3ForConditionalGeneration` + polski post-training) — ciekawy zwrot architektoniczny, ale nie udało się go uruchomić na MLX.
 - Wszystko offline, na Apple Silicon przez MLX, ~1–3 minuty inferencji per model.
 
+## Czy da się *dotrenować* wynik? (LoRA na dawnych arkuszach)
+
+Dotrenowałem LoRA dwa modele na arkuszach CKE 2019–2023 i przetestowałem na **held-out**
+2024 + 2025 + 2026 (podział chronologiczny, early stopping). Metryka rozdziela **formę**
+(czy model odpowiada w wymaganym kształcie) od **matematyki** (trafność na sparsowanych odpowiedziach):
+
+| Model | Zgodność z formatem | Trafność warunkowa |
+|---|---|---|
+| Llama-PLLuM 8B (bazowy → +LoRA) | 48% → **68%** | 10% → 22% |
+| Bielik-Minitron 7B (bazowy → +LoRA) | 80% → 80% | **57% → 37%** |
+
+**Fine-tuning na arkuszach nie naprawia matematyki.** Słabemu modelowi (PLLuM) podniósł
+formę, ale trafność dalej leży na poziomie losowania. Mocnemu (Bielik) nie dał nic na
+formacie (był już zgodny) i **obniżył trafność** z 57% na 37% — dotrenowanie *zaszkodziło*
+dobremu modelowi (catastrophic forgetting). Szczegóły + wykres: [`results/raport.md`](results/raport.md).
+
 ## 🥇 Wagi MLX dla Bielik-Minitron 7B
 
 Skoro Bielik-Minitron 7B wygrał benchmark, a nie miał oficjalnych wag MLX, opublikowałem zestaw kwantyzacji dla społeczności Apple Silicon (za zgodą zespołu SpeakLeash):

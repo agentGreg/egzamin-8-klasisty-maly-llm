@@ -85,3 +85,34 @@ Format komórek: `odpowiedź (zdobyte_pkt)`. Dla zadań otwartych pole odpowiedz
 - **Llama-PLLuM 8B Instruct 2512** (CYFRAGOVPL): następca 8B z 2412, `LlamaForCausalLM`, 8-bit MLX po lokalnej konwersji.
 - **PLLuM 12B Instruct 2512** (CYFRAGOVPL): następca natywnego 12B, `MistralForCausalLM`, 8-bit MLX po lokalnej konwersji.
 - **PLLuM 4B Instruct 2512** (CYFRAGOVPL): nowy najmniejszy wariant — architektonicznie `Gemma3ForConditionalGeneration`, czyli **zbudowany na Gemmie 3 4B Google'a** + polski post-training. **Nie udało się uruchomić na pipelinie MLX** i pominięto w tabeli: `mlx-vlm` odpada na braku procesora obrazu (repo wydane jako text-only, bez `preprocessor_config.json`), a `mlx-lm` na niezgodności rozmiaru embeddingu w implementacji `gemma3` (oczekuje 262208, wagi mają 262147). Architektura potwierdzona z `config.json`.
+
+## Fine-tuning: forma vs matematyka
+
+Pytanie: czy dotrenowanie (LoRA) małego modelu na **dawnych arkuszach CKE** podniesie
+wynik na egzaminie? Sprawdziłem to na dwóch modelach: słabym (Llama-PLLuM 8B 2512,
+3/30 w benchmarku) i mocnym (Bielik-Minitron 7B, lider 25/30).
+
+**Układ eksperymentu (rygor anty-przeciek):**
+- **Trening**: arkusze główne 2019–2023 (99 zadań z oficjalnymi rozwiązaniami z zasad oceniania).
+- **Test (held-out)**: arkusze główne **2024 + 2025 + 2026** (44 zadania zamknięte w puli) — model nigdy ich nie widział. Podział czysto chronologiczny.
+- **Metoda**: LoRA (rank 8, 16 warstw) na bazie 8-bit/bf16, identyczny przepis dla obu modeli.
+- **Early stopping**: walidacja co 25 iteracji, wybór checkpointu o najniższej stracie walidacyjnej. Oba modele przeuczały się szybko (PLLuM min. w iter 75, Bielik już w iter 25), więc wybór najlepszego checkpointu był konieczny.
+
+**Metryka rozdziela formę od matematyki** (nie sam wynik /30, który przy n=44 jest w granicach szumu):
+- **Zgodność z formatem** — czy model odpowiada w wymaganym kształcie (`<odpowiedz>` + poprawny token). Bez klucza.
+- **Trafność warunkowa** — poprawność wśród sparsowanych odpowiedzi. Izoluje umiejętność liczenia od formy.
+
+| Model | Wariant | Zgodność z formatem | Trafność warunkowa |
+|---|---|---|---|
+| Llama-PLLuM 8B 2512 | bazowy | 47,7% | 9,8% |
+| Llama-PLLuM 8B 2512 | +LoRA | **68,2%** | 21,9% |
+| Bielik-Minitron 7B | bazowy | 79,5% | **56,8%** |
+| Bielik-Minitron 7B | +LoRA | 79,5% | **36,6%** |
+
+**Wniosek: LoRA na dawnych arkuszach nie naprawia matematyki.**
+- **Słaby model (PLLuM)**: forma poszła w górę (48% → 68%), ale trafność dalej leży na podłodze (10% → 22%, czyli wciąż w okolicach losowania przy zadaniach ABCD). Fine-tuning dał *kostium egzaminu*, nie kompetencję.
+- **Mocny model (Bielik)**: zero zysku na formacie (był już zgodny, 80% → 80%), a trafność **spadła** z 57% do 37%. Dotrenowanie *zaszkodziło* dobremu modelowi — adapter ściągnął go w stronę małego, formatowego rozkładu treningowego i degeneracji (na próbce widać kolaps do powtarzanego „A"). Klasyczny catastrophic forgetting.
+
+To mocniejsza wersja tezy ze wstępnego spike'a (PLLuM, sam arkusz 2026: forma 43% → 93%, trafność 14% → 14%): na pełnym, held-out teście fine-tuning na arkuszach okazuje się **kosmetyczny dla słabego modelu i szkodliwy dla mocnego**.
+
+**Zastrzeżenia.** Test to 44 zadania zamknięte — trafność PLLuM (≈10–22%) jest na poziomie losowania, więc niewielki ruch w górę nie świadczy o kompetencji. Wynik dotyczy jednej metody (LoRA rank 8 na dawnych arkuszach), tych modeli i tego egzaminu; nie jest ogólnym werdyktem o każdym fine-tuningu. Wykres: [`wykresy/03_studium.png`](wykresy/03_studium.png). Pełny opis: `docs/superpowers/specs/2026-05-27-finetune-format-not-math-design.md`.
