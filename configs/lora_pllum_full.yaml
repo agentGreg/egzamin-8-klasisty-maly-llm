@@ -1,0 +1,22 @@
+# LoRA SFT — PLLuM 8B 2512, full study, EARLY STOPPING.
+# steps_per_eval == save_every == 25 so every checkpoint has a paired val loss,
+# enabling 12_wybierz_checkpoint.py to pick the min-val-loss adapter.
+# Train set: 2019-2023 (99 tasks). Held-out test (2024/2025/2026) is NOT here.
+model: "/Users/greg/.cache/huggingface/local-mlx/Llama-PLLuM-8B-instruct-2512-mlx-8bit"
+train: true
+data: "data/finetune"
+adapter_path: "adapters/pllum8_full"
+fine_tune_type: lora
+num_layers: 16
+iters: 400
+batch_size: 1
+learning_rate: 1.0e-4
+steps_per_report: 25
+steps_per_eval: 25
+save_every: 25
+max_seq_length: 2048
+seed: 42
+lora_parameters:
+  rank: 8
+  scale: 20.0
+  dropout: 0.05
