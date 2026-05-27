@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 6.56,
+    "raw": "Aby obliczyć liczbę zadań z arytmetyki, muszę najpierw znaleźć procentowy udział arytmetyki w teście. Suma podanych procentów to 20% (statystyka) + 25% (algebra) + 15% (planimetria) + 5% (stereometria) = 65%. Pozostałe 35% to arytmetyka, ponieważ 100% - 65% = 35%.\n\nNastępnie obliczam liczbę zadań z arytmetyki: 35% z 40 zadań to 0,35 * 40 = 14.\n\nOdpowiedź to A. 14.\n\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 13.18,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw znaleźć wartości X i Y.\n\nX jest największym wspólnym dzielnikiem (NWD) liczb 18 i 27.\nAby obliczyć NWD, mogę użyć metody rozkładu na czynniki pierwsze:\n- 18 = 2 × 3²\n- 27 = 3³\n\nNWD to iloczyn wspólnych czynników pierwszych o najmniejszych wykładnikach:\nNWD(18, 27) = 3² = 9\n\nZatem X = 9.\n\nY jest najmniejszą wspólną wielokrotnością (NWW) liczb 2 i 4.\nAby obliczyć NWW, mogę użyć metody rozkładu na czynniki pierwsze:\n- 2 = 2\n- 4 = 2²\n\nNWW to iloczyn wszystkich czynników pierwszych o najwyższych wykładnikach:\nNWW(2, 4) = 2² = 4\n\nZatem Y = 4.\n\nKod do szafki ma postać YXXY, więc podstawiam wartości:\nY = 4, X = 9\nKod = 4 9 9 4 = 4994\n\nSprawdzam odpowiedzi:\nA. 4334\nB. 4994\nC. 8338\nD. 8998\n\nPoprawna odpowiedź to B. 4994.\n\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 13.48,
+    "raw": "Rozwiążę zadanie krok po kroku.\n\nNajpierw obliczę wartości każdej z liczb:\n\n1. **Liczba w**:\n   w = √(100 − 64) − 2\n   Obliczam 100 − 64 = 36\n   w = √36 − 2\n   w = 6 − 2 = 4\n\n2. **Liczba x**:\n   x = 12 − √(64 + 36)\n   Obliczam 64 + 36 = 100\n   x = 12 − √100\n   x = 12 − 10 = 2\n\n3. **Liczba y**:\n   y = √(25 − 16) − 3\n   Obliczam 25 − 16 = 9\n   y = √9 − 3\n   y = 3 − 3 = 0\n\n4. **Liczba z**:\n   z = 7 − √(9 + 16)\n   Obliczam 9 + 16 = 25\n   z = 7 − √25\n   z = 7 − 5 = 2\n\nPo obliczeniach widzę, że tylko liczba y jest równa 0.\n\nSprawdzam odpowiedzi:\n- A. w = 4 (nie jest równa 0)\n- B. x = 2 (nie jest równa 0)\n- C. y = 0 (jest równa 0)\n- D. z = 2 (nie jest równa 0)\n\nOdpowiedź to **C**.\n\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 11.04,
+    "raw": "Aby rozwiązać to zadanie, muszę uprościć wyrażenie 2^5 · 3 · 3^4 · 2^3.\n\nNajpierw, zgodnie z zasadami potęgowania, mogę połączyć wyrazy o tej samej podstawie.\n\nDla podstawy 2: 2^5 · 2^3 = 2^(5+3) = 2^8.\n\nDla podstawy 3: 3 · 3^4 = 3^(1+4) = 3^5.\n\nZatem całe wyrażenie upraszcza się do 2^8 · 3^5.\n\nTeraz porównuję to z opcjami odpowiedzi.\n\nOpcja A: 2^8 · 3^5 - to dokładnie to, co otrzymałem.\n\nOpcja B: 4^8 · 9^5 - to nie jest równe, ponieważ 4 i 9 to inne podstawy.\n\nOpcja C: 2^15 · 3^4 - to nie jest równe, ponieważ wykładniki są inne.\n\nOpcja D: 4^15 · 9^4 - to również nie jest równe.\n\nZatem poprawna odpowiedź to A.\n\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 12.2,
+    "raw": "Aby rozwiązać to zadanie, muszę obliczyć, ile Janek zapłacił za kocura i kotkę po zniżkach.\n\nRasowy kocur kosztuje \\( x \\) złotych, a Janek kupił go ze zniżką 40%. Zniżka 40% oznacza, że płaci 60% ceny oryginalnej. Więc cena kocura po zniżce to \\( 0,6x \\).\n\nRasowa kotka kosztuje \\( y \\) złotych, a Janek kupił ją ze zniżką 20%. Zniżka 20% oznacza, że płaci 80% ceny oryginalnej. Więc cena kotki po zniżce to \\( 0,8y \\).\n\nCałkowita kwota, którą zapłacił Janek, to suma cen kocura i kotki po zniżkach:\n\\[ 0,6x + 0,8y \\]\n\nTeraz porównuję to z podanymi opcjami:\n- A. \\( 0,4x + 0,2y \\)\n- B. \\( 0,2x + 0,4y \\)\n- C. \\( 0,8x + 0,6y \\)\n- D. \\( 0,6x + 0,8y \\)\n\nMoje obliczenia wskazują na opcję D.\n\n<odpowiedz>D</odpowiedz>",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 15.83,
+    "raw": "Aby suma liczb na dowolnych dwóch kulach pozostałych w pudełku była parzysta, wszystkie pozostałe kule muszą mieć ten sam parzystość. Oznacza to, że albo wszystkie pozostałe kule są parzyste, albo wszystkie są nieparzyste.\n\nPonieważ w pudełku było 11 kul (5 parzystych i 6 nieparzystych), a wylosowano 5 kul, to pozostałe kule muszą być wszystkie parzyste. Gdyby pozostały wszystkie nieparzyste, to wylosowane kule musiałyby zawierać co najmniej jedną parzystą, co jest niemożliwe, ponieważ suma dowolnych dwóch pozostałych kul musi być parzysta. Zatem pozostałe kule muszą być parzyste.\n\nOdpowiedź dla pierwszej części to B. parzystymi.\n\nTeraz należy obliczyć sumę wylosowanych kul. Suma wszystkich kul od 1 do 11 wynosi:\n\\[ S = \\frac{11 \\times (11 + 1)}{2} = \\frac{11 \\times 12}{2} = 66 \\]\n\nSuma pozostałych kul musi być parzysta, a ponieważ pozostałe kule to 2, 4, 6, 8, 10 (wszystkie parzyste), ich suma wynosi:\n\\[ 2 + 4 + 6 + 8 + 10 = 30 \\]\n\nZatem suma wylosowanych kul wynosi:\n\\[ 66 - 30 = 36 \\]\n\nOdpowiedź dla drugiej części to D. 36.\n\nOstateczna odpowiedź to B. parzystymi oraz D. 36.\n\n<odpowiedz>BD</odpowiedz>",
+    "odpowiedz": "BD"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 14.27,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw ustalić, ile owoców jest w każdym koszu. Wiem, że w każdym koszu liczba jabłek jest o 6 większa od liczby pomarańczy, a łączna liczba owoców w każdym koszu jest taka sama.\n\nOznaczmy liczbę pomarańczy w koszu jako \\( p \\), a liczbę jabłek jako \\( j \\). Z treści zadania wiemy, że:\n\\[ j = p + 6 \\]\n\nŁączna liczba owoców w koszu to:\n\\[ p + j = p + (p + 6) = 2p + 6 \\]\n\nPonieważ jest 10 koszy i łącznie 400 owoców, łączna liczba owoców w jednym koszu wynosi:\n\\[ \\frac{400}{10} = 40 \\]\n\nZatem:\n\\[ 2p + 6 = 40 \\]\n\nRozwiązuję równanie:\n\\[ 2p + 6 = 40 \\]\n\\[ 2p = 34 \\]\n\\[ p = 17 \\]\n\nLiczba jabłek w koszu:\n\\[ j = p + 6 = 17 + 6 = 23 \\]\n\nŁączna liczba jabłek w 10 koszach:\n\\[ 10 \\times 23 = 230 \\]\n\nSprawdzam odpowiedzi:\nA. 210\nB. 230\nC. 240\nD. 260\n\nPoprawna odpowiedź to B. 230.\n\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 5.46,
+    "raw": "Suma kolejnych liczb naturalnych od 1 do n jest dana wzorem S = (1/2) · n · (n + 1). Dla n = 100,\nS = (1/2) · 100 · (100 + 1) = (1/2) · 100 · 101 = 50 · 101 = 5050.\n\nWzór S = (1/2) · n · (n + 1) można przekształcić do postaci S = (1/2)n^2 + (1/2)n.\n\nOdpowiedź:\n<odpowiedz>BDC</odpowiedz>",
+    "odpowiedz": "BDC"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 11.87,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zapisać równania oparte na definicji średniej arytmetycznej.\n\nŚrednia arytmetyczna dwóch liczb \\( x \\) i \\( y \\) jest równa 4:\n\\[\n\\frac{x + y}{2} = 4\n\\]\nMnożąc obie strony przez 2, otrzymuję:\n\\[\nx + y = 8\n\\]\n\nŚrednia arytmetyczna trzech liczb \\( x \\), \\( y \\), \\( z \\) jest równa 5:\n\\[\n\\frac{x + y + z}{3} = 5\n\\]\nMnożąc obie strony przez 3, otrzymuję:\n\\[\nx + y + z = 15\n\\]\n\nTeraz mam dwa równania:\n1. \\( x + y = 8 \\)\n2. \\( x + y + z = 15 \\)\n\nMogę podstawić pierwsze równanie do drugiego, aby znaleźć \\( z \\):\n\\[\n8 + z = 15\n\\]\nOdejmując 8 od obu stron:\n\\[\nz = 15 - 8 = 7\n\\]\n\nZatem liczba \\( z \\) jest równa 7. Sprawdzam opcje:\n- A. 4\n- B. 5\n- C. 6\n- D. 7\n\nOdpowiedź to D.\n\n<odpowiedz>D</odpowiedz>",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 12.79,
+    "raw": "Aby ocenić prawdziwość zdań, muszę obliczyć wysokość i pole trójkąta równobocznego o boku 2 cm.\n\n**Wysokość trójkąta równobocznego:**\nWysokość \\( h \\) trójkąta równobocznego o boku \\( a \\) jest dana wzorem:\n\\[ h = \\frac{a \\sqrt{3}}{2} \\]\nPodstawiając \\( a = 2 \\) cm:\n\\[ h = \\frac{2 \\sqrt{3}}{2} = \\sqrt{3} \\text{ cm} \\]\nZatem **Zdanie 1 jest prawdziwe**.\n\n**Pole trójkąta równobocznego:**\nPole \\( P \\) trójkąta równobocznego o boku \\( a \\) jest dane wzorem:\n\\[ P = \\frac{a^2 \\sqrt{3}}{4} \\]\nPodstawiając \\( a = 2 \\) cm:\n\\[ P = \\frac{2^2 \\sqrt{3}}{4} = \\frac{4 \\sqrt{3}}{4} = \\sqrt{3} \\text{ cm}^2 \\]\nZatem **Zdanie 2 jest prawdziwe**.\n\nOcena zdań:\n- Zdanie 1: Prawda\n- Zdanie 2: Prawda\n\nOdpowiedź: <odpowiedz>P1. Prawda zdania 1</odpowiedz> <odpowiedz>P2. Prawda zdania 2</odpowiedz>\n\nW formacie wymaganym: <odpowiedz>PP</odpowiedz>\n\n\\boxed{PP}",
+    "odpowiedz": "P1. Prawda zdania 1"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 14.09,
+    "raw": "Rozwiążę zadanie krok po kroku.\n\nMamy czworokąt z kątami wewnętrznymi α, β, γ i δ. Wiemy, że:\n- β = α + 70°\n- γ = 2α\n- δ = 90° (kąt prosty)\n\nSuma kątów wewnętrznych czworokąta wynosi 360°. Możemy więc zapisać równanie:\nα + β + γ + δ = 360°\n\nPodstawiamy znane zależności:\nα + (α + 70°) + 2α + 90° = 360°\n\nUpraszczamy:\nα + α + 70° + 2α + 90° = 360°\n4α + 160° = 360°\n\nOdejmujemy 160° od obu stron:\n4α = 200°\n\nDzielimy przez 4:\nα = 50°\n\nTeraz obliczamy β:\nβ = α + 70° = 50° + 70° = 120°\n\nSprawdzamy, czy suma kątów się zgadza:\nα = 50°, β = 120°, γ = 2α = 100°, δ = 90°\nSuma: 50° + 120° + 100° + 90° = 360°\n\nZgadza się. Miara kąta β wynosi 120°.\n\nOdpowiedź: C. 120°\n\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 28.04,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zrozumieć położenie punktów na mapie. Schronisko (S) jest w środku układu współrzędnych. Wieża widokowa (W) jest 4 kratki na zachód i 3 kratki na północ od S. Muzeum (M) jest 5 kratek na wschód od S.\n\n**Zdanie 1:** Odległość w linii prostej schroniska od muzeum jest równa odległości w linii prostej schroniska od wieży widokowej.\n\n- Odległość od S do M: Muzeum jest 5 km na wschód, więc odległość to 5 km (ponieważ jest to tylko w jednym kierunku).\n- Odległość od S do W: Wieża jest 4 km na zachód i 3 km na północ. Używam wzoru na odległość w układzie współrzędnych: √(4² + 3²) = √(16 + 9) = √25 = 5 km.\n\nPonieważ obie odległości wynoszą 5 km, zdanie 1 jest prawdziwe.\n\n**Zdanie 2:** Odległość w linii prostej muzeum od wieży widokowej jest mniejsza niż 10 km.\n\n- Położenie M: 5 km na wschód od S.\n- Położenie W: 4 km na zachód i 3 km na północ od S.\n\nAby obliczyć odległość między M i W, muszę znaleźć różnicę w ich współrzędnych. Załóżmy, że S jest w punkcie (0,0). Wtedy:\n- M: (5, 0)\n- W: (-4, 3)\n\nOdległość między M i W: √((5 - (-4))² + (0 - 3)²) = √((9)² + (-3)²) = √(81 + 9) = √90 ≈ 9.49 km.\n\nPonieważ 9.49 km jest mniejsze niż 10 km, zdanie 2 jest prawdziwe.\n\nOdpowiedź: <odpowiedz>P1. Prawda zdania 1</odpowiedz> oraz <odpowiedz>P2. Prawda zdania 2</odpowiedz>, czyli P1P2.\n\nW formacie odpowiedzi: <odpowiedz>P1P2</odpowiedz>\n\n**Uwaga:** W opcjach odpowiedzi nie ma bezpośrednio kombinacji P1P2, ale zgodnie z instrukcją, wybieram odpowiedź, która wskazuje, że oba zdania są prawdziwe. W kontekście zadania, odpowiedź P1P2 jest poprawna.\n\nOstateczna odpowiedź: <odpowiedz>P1P2</odpowiedz>\n\n**Weryfikacja:**\n- Zdanie 1: Prawda (odległości równe 5 km).\n- Zdanie 2: Prawda (odległość ≈9.49 km < 10 km).\n\nTak, odpowiedź jest poprawna.\n\n**Odpowiedź w wymaganym formacie:**\n<odpowiedz>P1P2</odpowiedz>",
+    "odpowiedz": "P1. Prawda zdania 1"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 15.42,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zrozumieć, jakie informacje są podane i jak je wykorzystać.\n\nMamy pięciokąt ABCDE, który jest podzielony przez przekątną AD na trójkąt ADE i kwadrat ABCD. Pole trójkąta ADE wynosi 28, a wysokość poprowadzona z wierzchołka E na bok AD wynosi 7.\n\nWysokość trójkąta ADE jest równa 7, a pole trójkąta wynosi 28. Pole trójkąta oblicza się ze wzoru:\n\\[ P = \\frac{1}{2} \\times \\text{podstawa} \\times \\text{wysokość} \\]\n\nPodstawą trójkąta ADE jest bok AD, który jest również bokiem kwadratu ABCD. Oznaczmy długość boku kwadratu jako \\( s \\). Wtedy długość AD również wynosi \\( s \\).\n\nPodstawiając znane wartości do wzoru na pole trójkąta:\n\\[ 28 = \\frac{1}{2} \\times s \\times 7 \\]\n\nRozwiązuję równanie:\n\\[ 28 = \\frac{7s}{2} \\]\n\\[ 56 = 7s \\]\n\\[ s = 8 \\]\n\nZatem długość boku kwadratu ABCD wynosi 8. Pole kwadratu oblicza się ze wzoru:\n\\[ P = s^2 \\]\n\\[ P = 8^2 = 64 \\]\n\nSprawdzam odpowiedzi:\nA. 16\nB. 32\nC. 49\nD. 64\n\nMoje obliczenia wskazują, że pole kwadratu ABCD wynosi 64, co odpowiada opcji D.\n\n<odpowiedz>D</odpowiedz>",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 11.36,
+    "raw": "Aby obliczyć pole powierzchni całkowitej prostopadłościanu, muszę znać jego wymiary. Z treści zadania wynika, że prostopadłościan ma wymiary 5 × 5 × 15, ponieważ trzy sześciany o krawędzi 5 są ustawione jeden na drugim.\n\nPole powierzchni całkowitej prostopadłościanu oblicza się ze wzoru:\n\\[ P = 2(lw + lh + wh) \\]\ngdzie \\( l \\), \\( w \\), \\( h \\) to długość, szerokość i wysokość prostopadłościanu.\n\nPodstawiam wartości:\n\\[ l = 5 \\]\n\\[ w = 5 \\]\n\\[ h = 15 \\]\n\nObliczam:\n\\[ P = 2(5 \\times 5 + 5 \\times 15 + 5 \\times 15) \\]\n\\[ P = 2(25 + 75 + 75) \\]\n\\[ P = 2(175) \\]\n\\[ P = 350 \\]\n\nSprawdzam odpowiedzi:\nA. 350\nB. 375\nC. 400\nD. 450\n\nOdpowiedź A. 350 jest zgodna z moimi obliczeniami.\n\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 15,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 27.48,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zrozumieć, ile kartek jest w każdym kolorze. Wiem, że łącznie jest 160 kartek, a kartek białych jest 37. Pozostałe kartki są podzielone między niebieskie, zielone i czerwone.\n\nOznaczmy liczbę kartek czerwonych jako \\( C \\).\n\nZ treści zadania wiem, że:\n- Kartek niebieskich jest 1,5 raza więcej niż czerwonych, więc liczba kartek niebieskich to \\( 1.5 \\times C \\).\n- Kartek zielonych jest o 10 mniej niż czerwonych, więc liczba kartek zielonych to \\( C - 10 \\).\n\nSuma wszystkich kartek to 160. Możemy to zapisać jako równanie:\n\\[\n37 + (1.5 \\times C) + (C - 10) + C = 160\n\\]\n\nTeraz rozwiążę to równanie krok po kroku.\n\nNajpierw uprośćmy lewą stronę równania:\n\\[\n37 + 1.5C + C - 10 + C = 160\n\\]\n\nPołączmy podobne wyrazy:\n- Wyrazy z \\( C \\): \\( 1.5C + C + C = 3.5C \\)\n- Wyrazy stałe: \\( 37 - 10 = 27 \\)\n\nWięc równanie wygląda tak:\n\\[\n3.5C + 27 = 160\n\\]\n\nOdejmijmy 27 od obu stron:\n\\[\n3.5C = 160 - 27\n\\]\n\\[\n3.5C = 133\n\\]\n\nTeraz podzielmy obie strony przez 3.5, aby znaleźć \\( C \\):\n\\[\nC = \\frac{133}{3.5}\n\\]\n\nObliczmy to:\n\\[\nC = \\frac{133}{3.5} = \\frac{133 \\times 2}{7} = \\frac{266}{7} \\approx 38\n\\]\n\nSprawdźmy, czy to jest dokładne. Ponieważ 3.5 to 7/2, to:\n\\[\nC = \\frac{133}{3.5} = \\frac{133}{\\frac{7}{2}} = 133 \\times \\frac{2}{7} = \\frac{266}{7} = 38\n\\]\n\nWięc \\( C = 38 \\).\n\nTeraz obliczmy liczbę kartek niebieskich:\n\\[\n1.5 \\times C = 1.5 \\times 38 = 57\n\\]\n\nSprawdźmy, czy suma się zgadza:\n- Białe: 37\n- Czerwone: 38\n- Niebieskie: 57\n- Zielone: \\( C - 10 = 38 - 10 = 28 \\)\n\nSuma: \\( 37 + 38 + 57 + 28 = 160 \\). Tak, zgadza się.\n\nWięc liczba kartek niebieskich to 57.\n\n<odpowiedz>Ela przygotowała 57 kartek niebieskich.</odpowiedz>",
+    "odpowiedz": "Ela przygotowała 57 kartek niebieskich."
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 28.9,
+    "raw": "Aby udowodnić, że przejazd z Jodłowa do Dębiny trwał dłużej niż godzinę, muszę najpierw obliczyć prędkość samochodu na drodze z Polanki do Jodłowa, a następnie użyć tej prędkości do obliczenia czasu przejazdu z Jodłowa do Dębiny.\n\n**Krok 1: Obliczenie prędkości samochodu**\n\nDroga z Polanki do Jodłowa ma długość 48 km i została pokonana w czasie 40 minut.\n\nPrędkość (v) obliczamy ze wzoru:\n\\[ v = \\frac{s}{t} \\]\ngdzie:\n- \\( s \\) to droga (w kilometrach),\n- \\( t \\) to czas (w godzinach).\n\nNajpierw przeliczmy czas z minut na godziny:\n40 minut = \\( \\frac{40}{60} \\) godziny = \\( \\frac{2}{3} \\) godziny.\n\nTeraz obliczamy prędkość:\n\\[ v = \\frac{48 \\, \\text{km}}{\\frac{2}{3} \\, \\text{h}} = 48 \\times \\frac{3}{2} = 72 \\, \\text{km/h} \\]\n\n**Krok 2: Obliczenie długości drogi z Jodłowa do Dębiny**\n\nCała droga z Polanki do Dębiny przez Jodłowo ma długość 123 km.\nDroga z Polanki do Jodłowa ma 48 km.\nZatem droga z Jodłowa do Dębiny ma:\n\\[ 123 \\, \\text{km} - 48 \\, \\text{km} = 75 \\, \\text{km} \\]\n\n**Krok 3: Obliczenie czasu przejazdu z Jodłowa do Dębiny**\n\nUżywamy tej samej prędkości, co wcześniej, czyli 72 km/h.\n\nCzas (t) obliczamy ze wzoru:\n\\[ t = \\frac{s}{v} \\]\ngdzie:\n- \\( s \\) to droga z Jodłowa do Dębiny (75 km),\n- \\( v \\) to prędkość (72 km/h).\n\n\\[ t = \\frac{75 \\, \\text{km}}{72 \\, \\text{km/h}} = \\frac{75}{72} \\, \\text{h} \\]\n\nObliczamy wartość:\n\\[ \\frac{75}{72} = 1.041666... \\, \\text{h} \\]\n\n**Krok 4: Przeliczenie czasu na godziny i minuty**\n\n1 godzina to 60 minut, więc:\n\\[ 0.041666... \\, \\text{h} \\times 60 \\, \\text{min/h} = 2.5 \\, \\text{min} \\]\n\nZatem czas przejazdu z Jodłowa do Dębiny wynosi:\n1 godzina i 2.5 minuty, czyli w przybliżeniu 1 godzina i 3 minuty.\n\n**Uzasadnienie:**\n\nCzas przejazdu z Jodłowa do Dębiny wynosi około 1 godziny i 3 minut, co jest dłużej niż godzina.\n\n**Wynik końcowy:**\n<odpowiedz>Przejazd samochodu z Jodłowa do Dębiny trwał dłużej niż godzinę, ponieważ wyniósł około 1 godziny i 3 minut.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 26.43,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw obliczyć brakującą liczbę dziewcząt w turnieju tenisa stołowego. Następnie obliczę całkowitą liczbę uczestników Dnia Sportu i liczbę dzieci w turnieju tenisa stołowego. Na koniec obliczę procentowy udział uczestników turnieju tenisa stołowego w stosunku do wszystkich uczestników.\n\n**Krok 1: Obliczenie liczby dziewcząt w turnieju tenisa stołowego**\n\nZ tabeli wiemy, że łączna liczba dziewcząt jest o 8 większa od łącznej liczby chłopców.\n\nNajpierw obliczmy całkowitą liczbę chłopców:\n- Turniej piłki nożnej: 46 chłopców\n- Turniej tańca: 16 chłopców\n- Turniej tenisa stołowego: 34 chłopców\n\nSuma chłopców = 46 + 16 + 34 = 96\n\nTeraz obliczmy całkowitą liczbę dziewcząt:\nSuma dziewcząt = Suma chłopców + 8 = 96 + 8 = 104\n\nZnamy liczbę dziewcząt w dwóch turniejach:\n- Turniej piłki nożnej: 15 dziewcząt\n- Turniej tańca: 65 dziewcząt\n\nSuma dziewcząt w znanych turniejach = 15 + 65 = 80\n\nBrakująca liczba dziewcząt w turnieju tenisa stołowego = Suma dziewcząt - Suma dziewcząt w znanych turniejach = 104 - 80 = 24\n\n**Krok 2: Obliczenie całkowitej liczby uczestników Dnia Sportu**\n\nSuma wszystkich uczestników = Suma dziewcząt + Suma chłopców = 104 + 96 = 200\n\n**Krok 3: Obliczenie liczby uczestników w turnieju tenisa stołowego**\n\nLiczba uczestników w turnieju tenisa stołowego = Liczba dziewcząt + Liczba chłopców w tym turnieju = 24 + 34 = 58\n\n**Krok 4: Obliczenie procentowego udziału uczestników turnieju tenisa stołowego**\n\nProcent = (Liczba uczestników w turnieju tenisa stołowego / Całkowita liczba uczestników) * 100\nProcent = (58 / 200) * 100 = 29%\n\n**Wynik końcowy:**\nLiczba dzieci, które brały udział w turnieju tenisa stołowego, stanowi 29% liczby wszystkich uczestników Dnia Sportu.\n\n<odpowiedz>Liczba dzieci, które brały udział w turnieju tenisa stołowego, stanowi 29% liczby wszystkich uczestników Dnia Sportu.</odpowiedz>",
+    "odpowiedz": "Liczba dzieci, które brały udział w turnieju tenisa stołowego, stanowi 29% liczby wszystkich uczestników Dnia Sportu."
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 29.94,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zrozumieć geometrię sześcianu i ostrosłupa.\n\n1. **Sześcian ABCDEFGH**:\n   - Krawędź sześcianu ma długość \\( a \\).\n   - Objętość sześcianu obliczamy ze wzoru: \\( V_{\\text{sześcian}} = a^3 \\).\n\n2. **Punkt S**:\n   - S jest środkiem krawędzi DH.\n   - Krawędź DH ma długość \\( a \\), więc odległość DS = SH = \\( \\frac{a}{2} \\).\n\n3. **Ostrosłup ACDS**:\n   - Podstawa ostrosłupa to trójkąt ACD.\n   - Trójkąt ACD jest połową dolnej ściany sześcianu (kwadratu ABCD).\n   - Dolna ściana ma pole \\( a^2 \\), więc pole trójkąta ACD wynosi \\( \\frac{1}{2} a^2 \\).\n   - Wierzchołek ostrosłupa to punkt S.\n   - Wysokość ostrosłupa to odległość od S do płaszczyzny podstawy ACD.\n\n4. **Wysokość ostrosłupa**:\n   - Punkt S jest na krawędzi DH, która jest prostopadła do dolnej ściany.\n   - Odległość S od płaszczyzny ACD (wysokość ostrosłupa) to dokładnie odległość w pionie, czyli \\( \\frac{a}{2} \\), ponieważ S jest w połowie krawędzi DH.\n\n5. **Objętość ostrosłupa**:\n   - Wzór na objętość ostrosłupa: \\( V_{\\text{ostrosłup}} = \\frac{1}{3} \\times \\text{pole podstawy} \\times \\text{wysokość} \\).\n   - Pole podstawy (trójkąt ACD) = \\( \\frac{1}{2} a^2 \\).\n   - Wysokość = \\( \\frac{a}{2} \\).\n   - Zatem:\n     \\[\n     V_{\\text{ostrosłup}} = \\frac{1}{3} \\times \\left( \\frac{1}{2} a^2 \\right) \\times \\left( \\frac{a}{2} \\right) = \\frac{1}{3} \\times \\frac{1}{2} a^2 \\times \\frac{a}{2} = \\frac{1}{3} \\times \\frac{a^3}{4} = \\frac{a^3}{12}.\n     \\]\n\n6. **Porównanie objętości**:\n   - Objętość sześcianu: \\( V_{\\text{sześcian}} = a^3 \\).\n   - Objętość ostrosłupa: \\( V_{\\text{ostrosłup}} = \\frac{a^3}{12} \\).\n   - Aby znaleźć, ile razy objętość ostrosłupa jest mniejsza od objętości sześcianu, dzielimy objętość sześcianu przez objętość ostrosłupa:\n     \\[\n     \\frac{V_{\\text{sześcian}}}{V_{\\text{ostrosłup}}} = \\frac{a^3}{\\frac{a^3}{12}} = 12.\n     \\]\n\nZatem objętość ostrosłupa ACDS jest 12 razy mniejsza od objętości sześcianu ABCDEFGH.\n\n<odpowiedz>Objętość ostrosłupa ACDS jest 12 razy mniejsza od objętości sześcianu ABCDEFGH.</odpowiedz>",
+    "odpowiedz": "Objętość ostrosłupa ACDS jest 12 razy mniejsza od objętości sześcianu ABCDEFGH."
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 19.12,
+    "raw": "Aby obliczyć, ile złotych musi zapłacić pani Anna za najmniejszą liczbę opakowań z nasionami, należy wykonać następujące kroki:\n\n1. **Obliczenie pola powierzchni trapezu:**\n   Wzór na pole powierzchni trapezu to:\n   \\[\n   P = \\frac{(a + b) \\cdot h}{2}\n   \\]\n   gdzie:\n   - \\(a\\) i \\(b\\) to długości podstaw,\n   - \\(h\\) to wysokość.\n\n   Podstawiając dane:\n   - \\(a = 18\\) m,\n   - \\(b = 12\\) m,\n   - \\(h = 9\\) m.\n\n   Obliczamy:\n   \\[\n   P = \\frac{(18 + 12) \\cdot 9}{2} = \\frac{30 \\cdot 9}{2} = \\frac{270}{2} = 135 \\, \\text{m}^2\n   \\]\n\n2. **Obliczenie liczby potrzebnych opakowań nasion:**\n   Każde opakowanie wystarcza na 25 m² powierzchni. Aby obsiać 135 m², potrzebujemy:\n   \\[\n   \\frac{135}{25} = 5,4\n   \\]\n   Ponieważ nie można kupić ułamka opakowania, należy zaokrąglić w górę do najbliższej liczby całkowitej. Zatem potrzeba 6 opakowań.\n\n3. **Obliczenie kosztu:**\n   Każde opakowanie kosztuje 23,80 zł. Dla 6 opakowań:\n   \\[\n   6 \\times 23,80 = 142,80 \\, \\text{zł}\n   \\]\n\n**Wynik końcowy:**\nPani Anna musi zapłacić 142,80 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni ogródka.\n\n<odpowiedz>Pani Anna musi zapłacić 142,80 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni ogródka.</odpowiedz>",
+    "odpowiedz": "Pani Anna musi zapłacić 142,80 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni ogródka."
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 23.39,
+    "raw": "Aby obliczyć obwód równoległoboku KLMN, muszę najpierw zrozumieć, jak został on utworzony z prostokąta ABCD.\n\nProstokąt ABCD ma wymiary 3 (krótszy bok) i 9 (dłuższy bok). Został on rozcięty na dwie figury: trapez prostokątny i trójkąt prostokątny równoramienny.\n\nZ opisu wynika, że trójkąt prostokątny równoramienny ma przyprostokątne równe 3. Ponieważ jest równoramienny i prostokątny, kąty przyprostokątne są równe 45°, a przeciwprostokątna ma długość \\(3\\sqrt{2}\\) (z twierdzenia Pitagorasa: \\(3^2 + 3^2 = 9 + 9 = 18\\), więc przeciwprostokątna to \\(\\sqrt{18} = 3\\sqrt{2}\\)).\n\nTrapez prostokątny powstał przez odcięcie tego trójkąta. Ponieważ prostokąt miał wymiary 3x9, a trójkąt został odcięty przy jednym krótszym boku, to długość podstawy trapezu (która jest równa dłuższemu bokowi prostokąta) wynosi 9, a różnica między podstawami trapezu wynosi 3 (bo odcięto 3 z jednej strony).\n\nTeraz, składając te figury w równoległobok KLMN, muszę określić jego boki. Równoległobok nie jest prostokątem, więc kąty nie są proste.\n\nBoki równoległoboku KLMN:\n- Bok KL (lub NM) jest równy dłuższemu bokowi prostokąta, czyli 9.\n- Bok KN (lub LM) jest równy przeciwprostokątnej trójkąta, czyli \\(3\\sqrt{2}\\).\n\nObwód równoległoboku to suma długości wszystkich boków. Ponieważ przeciwległe boki równoległoboku są równe, obwód wynosi:\n\\[ 2 \\times (KL + KN) = 2 \\times (9 + 3\\sqrt{2}) \\]\n\nObliczam:\n\\[ 2 \\times 9 = 18 \\]\n\\[ 2 \\times 3\\sqrt{2} = 6\\sqrt{2} \\]\n\nZatem obwód wynosi:\n\\[ 18 + 6\\sqrt{2} \\]\n\n<odpowiedz>Obwód równoległoboku KLMN wynosi \\(18 + 6\\sqrt{2}\\) jednostek.</odpowiedz>",
+    "odpowiedz": "Obwód równoległoboku KLMN wynosi \\(18 + 6\\sqrt{2}\\) jednostek."
+  }
+]

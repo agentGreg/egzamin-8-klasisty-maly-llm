@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.55,
+    "raw": "<odpowiedz>P1F2</odpowiedz>",
+    "odpowiedz": "P1F2"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.81,
+    "raw": "Wszystkich ułamków spełniających powyższe warunki jest osiem. <odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.45,
+    "raw": "<odpowiedz>P1F2</odpowiedz>",
+    "odpowiedz": "P1F2"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.14,
+    "raw": "Liczba y jest dodatnia, ponieważ (4/5) + (−4/3) = 4/5 − 4/3 = 4/5 − 12/15 = 4/5 − 12/5 = −8/5 = −1,6, co jest liczbą ujemną.\n\nLiczba x jest mniejsza od liczby y, ponieważ (4/5) · (−4/3) = −8/15 = −0,53, a (4/5) + (−4/3) = 4/5 − 4/3 = 4/5 − 12/15 = 4/5 − 12/5 = −8/5 = −1,6.\n\n<odpowiedz>ABCD</odpowiedz>",
+    "odpowiedz": "ABCD"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.47,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.61,
+    "raw": "Poprawne przekształcenia to I i II. Równanie III nie jest poprawne, ponieważ w równaniu 5x = y/w nie można podzielić obu stron przez 5x, aby otrzymać w = y/(5x), ponieważ w równaniu 5x = y/w x jest różne od zera.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.46,
+    "raw": "<odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.15,
+    "raw": "Prawdopodobieństwo, że trzeci balon losowo wyjęty przez Karolinę będzie w kolorze czerwonym, wynosi 1/4. <odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.37,
+    "raw": "Właściwa odpowiedź to: C.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.71,
+    "raw": "Pociąg wyjechał z Olsztyna o godzinie <odpowiedz>C</odpowiedz>.",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.68,
+    "raw": "Zdanie 1: 18 litrów tej farby wystarczy na pomalowanie 180 m² powierzchni.\n<odpowiedz>F1</odpowiedz>\n\nZdanie 2: Na pomalowanie 125 m² powierzchni wystarczy 12 litrów tej farby.\n<odpowiedz>P2</odpowiedz>",
+    "odpowiedz": "F1"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.33,
+    "raw": "Jeżeli współrzędną x punktu P1 zwiększymy o 4, a współrzędną y tego punktu zwiększymy o 3, to otrzymamy współrzędne punktu <odpowiedz>C</odpowiedz>.",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.15,
+    "raw": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nStosunek długości boków a : b tego prostokąta jest równy\n\n<odpowiedz>AC</odpowiedz>",
+    "odpowiedz": "AC"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.55,
+    "raw": "<odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 15,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.55,
+    "raw": "Pole powierzchni bocznej tego ostrosłupa jest równe (2/9)P, a pole powierzchni podstawy jest dwa razy większe, czyli (2/9)P × 2 = (4/9)P. Odpowiedź: <odpowiedz>AC</odpowiedz>",
+    "odpowiedz": "AC"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 2.44,
+    "raw": "Liczba ułożonych puzzli przez Elę to 2/5*liczba elementów w zestawie = 2/5*440 = <<2/5*440=176>>176\nLiczba ułożonych puzzli przez Anię to 1/3*liczba elementów w zestawie = 1/3*440 = <<1/3*440=146>>146\nRazem ułożonych puzzli jest 176+146 = <<176+146=322>>322\nLiczba elementów w jednym zestawie to 322/2 = <<322/2=161>>161\n#### 161",
+    "odpowiedz": ""
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 10.48,
+    "raw": "Pole trapezu ABCE obliczamy, korzystając z faktu, że suma pól trójkątów AED, ACE i ABC jest równa polu prostokąta ABCD. \n\nPole prostokąta ABCD obliczamy, mnożąc długość jednego z boków prostokąta przez długość przeciwległego boku. W tym przypadku jest to 20 cm x 15 cm = <<20*15=300>>300 cm².\n\nPole trójkąta AED obliczamy, korzystając z twierdzenia Pitagorasa. Długość boków trójkąta AED to 15 cm i 20 cm. Długość trzeciego boku obliczamy, korzystając z twierdzenia Pitagorasa: 15² + 20² = 225 + 400 = 625. Pierwiastek z 625 to 25 cm. Pole trójkąta AED obliczamy, mnożąc długość jednego z boków przez długość przeciwległego boku. W tym przypadku jest to 15 cm x 25 cm = <<15*25=375>>375 cm².\n\nPole trójkąta ABC obliczamy, mnożąc długość jednego z boków trójkąta ABC przez długość przeciwległego boku. W tym przypadku jest to 15 cm x 20 cm = <<15*20=300>>300 cm².\n\nPole trójkąta ACE obliczamy, korzystając z twierdzenia Pitagorasa. Długość boków trójkąta ACE to 15 cm i 20 cm. Długość trzeciego boku obliczamy, korzystając z twierdzenia Pitagorasa: 15² + 20² = 225 + 400 = 625. Pierwiastek z 625 to 25 cm. Pole trójkąta ACE obliczamy, mnożąc długość jednego z boków przez długość przeciwległego boku. W tym przypadku jest to 15 cm x 25 cm = <<15*25=375>>375 cm².\n\nSuma pól trójkątów AED, ACE i ABC to 375 cm² + 375 cm² + 300 cm² = <<375+375+300=1050>>1050 cm².\n\nPole trapezu ABCE obliczamy, odejmując pole trójkąta AED od pola prostokąta ABCD: 300 cm² - 375 cm² = <<300-375=-75>>-75 cm².\n\nWYNIK KOŃCOWY: Pole trapezu ABCE wynosi -75 cm².",
+    "odpowiedz": ""
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 6.35,
+    "raw": "Aby obliczyć kwotę, jaką otrzymał pan Jan ze sprzedaży truskawek, należy najpierw obliczyć masę truskawek sprzedanych w dużych, średnich i małych opakowaniach.\n\n**Obliczenie masy truskawek sprzedanych w dużych opakowaniach:**\n$$120 \\text{ kg} \\times \\frac{1}{2} = 60 \\text{ kg}$$\n\n**Obliczenie masy truskawek sprzedanych w średnich opakowaniach:**\n$$120 \\text{ kg} \\times \\frac{1}{10} = 12 \\text{ kg}$$\n\n**Obliczenie masy truskawek sprzedanych w małych opakowaniach:**\n$$120 \\text{ kg} - 60 \\text{ kg} - 12 \\text{ kg} = 48 \\text{ kg}$$\n\n**Obliczenie kwoty, jaką otrzymał pan Jan ze sprzedaży truskawek:**\n$$60 \\text{ kg} \\times 18 \\text{ zł} = 1080 \\text{ zł}$$\n$$12 \\text{ kg} \\times 10 \\text{ zł} = 120 \\text{ zł}$$\n$$48 \\text{ kg} \\times 6 \\text{ zł} = 288 \\text{ zł}$$\n$$1080 \\text{ zł} + 120 \\text{ zł} + 288 \\text{ zł} = 1488 \\text{ zł}$$\n\n**WYNIK KOŃCOWY**\nPan Jan otrzymał 1488 zł ze sprzedaży truskawek w swoim sklepie.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 3.88,
+    "raw": "Wysokość I wieży to suma wysokości dwóch sześcianów i wysokości ostrosłupa prawidłowego czworokątnego. Wysokość ostrosłupa prawidłowego czworokątnego obliczamy ze wzoru na objętość:\n\n$$V = \\frac{1}{3} \\cdot A \\cdot h$$\n\n$$324 = \\frac{1}{3} \\cdot 9 \\cdot h$$\n\n$$h = 108$$\n\nWysokość I wieży to 10 + 10 + 108 = <<10+10+108=128>>128 cm.\n\nWysokość II wieży to suma wysokości dwóch sześcianów, czyli 10 + 10 = <<10+10=20>>20 cm.\n\nRóżnica wysokości obu wież to 128 - 20 = <<128-20=108>>108 cm.\n\n<odpowiedz>Różnica wysokości obu wież wynosi 108 cm.</odpowiedz>",
+    "odpowiedz": "Różnica wysokości obu wież wynosi 108 cm."
+  }
+]

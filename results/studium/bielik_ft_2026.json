@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.93,
+    "raw": "Sumujemy procenty: 20 + 25 + 15 + 5 = 65. Reszta to 100 - 65 = 35. Arymetyka: 35% z 40 = 14.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.12,
+    "raw": "NWD(18, 27) = 3, NWW(2, 4) = 4. Kody: A. 3334, B. 4994, C. 8338, D. 8998. Odpowiedź: A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 52.61,
+    "raw": "Wyrażenia:\nw = √(100 − 64) − 2 = 3 − 2 = 1\nx = 12 − √(64 + 36) = 12 − 10 = 2\ny = √(25 − 16) − 3 = 1 − 3 = −2\nz = 7 − √(9 + 16) = 7 − 4 = 3\n\nŻadna z tych liczb nie jest równa 0.\nOdpowiedź: A–D\nOdpowiedź: Nie ma 0\nNie ma opcji zerowej.\nOdpowiedź: Brak\nOdpowiedź: Nie ma odpowiedzi A–D\nOdpowiedź: Nie ma odpowiedzi\nNie ma odpowiedzi\nOdpowść: Brak\nBrak\nNie ma odpowiedzi\nOdpowiedź: Nie ma odpowiedzi\nNie ma odpowiedzi\nOdpowiedź: Nie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\nNie ma odpowiedzi\n",
+    "odpowiedz": ""
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 4.18,
+    "raw": "Sumujemy wykładniki dla 2: 5 + 3 = 8, dla 3: 1 + 4 = 5. Otrzymwamy 2^8 · 3^5.\nOpcje A i B: A – poprawna, B – niepoprawna.\nOpcje C i D: C – poprawna, D – niepoprawna.\nOdpowiedź: A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.54,
+    "raw": "Janek zapłacił 40% ceny kocura (0,6x) i 20% ceny kotki (0,2y). Suma: 0,6x + 0,2y.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 52.96,
+    "raw": "Sum parzystych jest więcej niż nieparztych (5), więc wylosowane muszą być wszystkie niepariste (od 1 do 9), a pozostałe pariste (od 2 do 10). Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 15 + 30 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 15 + 30 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 15 + 30 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylsoowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanyych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3+4+5 = 15, a pozostałych: 6+7+8+9+10 = 45. Suma wylosowanych: 1+2+3",
+    "odpowiedz": ""
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 16.42,
+    "raw": "Suma owoców w ka: 10k = 400, więc k = 40. Jabłki: (40 - x) / 2, pomarańcze: x. (40 - x) / 2 = 6 + x, 40 - x = 2(6 + x), 40 - x = 12 + 2x, 28 = 3x, x = 28/3. Suma jabłek: 10 * (40 - 28/3) = 10 * (120 - 28)/3 = 10 * 92/3 = 300/3 = 100. Suma pomarańczy: 10 * (28/3) = 280/3. Suma: 100 + 280/3 = 380/3 = 126,6 – nie pasuje.\n\nDrugie podejście: Suma owoców w koszu: 40. Jabłki: (40 - x) / 2, pomarańcze: x. (40 - x) / 2 = 6 + x, 40 - x = 2x + 12, 28 = 3x, x = 28/3. Suma jabłk: 10 * (40 - 28/3) = 10 * (120 - 28)/3 = 10 * 92/3 = 300/3 = 100. Suma pomarańcz: 10 * 28/3 = 280/3. Suma: 100 + 280/3 = 380/3 = 126,6 – nie pasuje.\n\nPoprawna odpowiedź: B. 230.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 7.06,
+    "raw": "Suma S = (1/2)n(n+1) = (1/2)(n² + n) = (1/2)n² + (1/2)n.\nOpcje A i B: S = (1/2)·100·101 = 5050.\nOpcje C i D: (1/2)n² + (1/2)n.\nOdpowiedź: AA\nOdpowść: CC\nOdpowiedź: AAC\n\nOdpowiedź: AA\nOdpowiedź: CC\nOdpowiedź: AAC\nOdpowiedź: AA\nOdpowiedź: CC\nOdpowiedź: AAC\nOdpowiedź: AA\nOdpowiedź: CC\nOdpowiedź: AAC",
+    "odpowiedz": ""
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.28,
+    "raw": "ŚŚrednia x, y: (x+y)/2 = 4, więc x+y = 8. Średnia x, y, z: (x+y+z)/3 = 5, więc x+y+z = 15. z = 15 − 8 = 7.\n<odpowiedz>D</odpowiedz>",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.78,
+    "raw": "Pole = (podstawa · wysokość)/2 = (2 · √(3))/2 = √3, a nie √3 cm^2 – Prawdziwe zdanie 1.\nPole = √3 cm^2 – Prawdziwe zdanie 2.\nOdpowiedź: Prawdziwe obu zdań.\n<odpowiedz>PP</odpowiedz>",
+    "odpowiedz": "PP"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 4.99,
+    "raw": "Sum kątów w czworokącie: 2(180°) = 360°. β = α + 70°, γ = 2α, δ = 90°. Suma: 2α + 70° + 2α + 90° = 360°, 4α = 180°, α = 45°, β = 115° – nie ma takiej opcji. Odpowiedź: B.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 4.09,
+    "raw": "Odległość od S do W: 4² + 3² = 25, odległość od S do M: 5² = 25. Odległość od W do M: 9 + 4 = 13. Prawdziwe zdanie 1: Prawda. Prawdziwe zdanie 2: Prawda. Odpowź: PPP.\n<odpowiedz>PPP</odpowiedz>",
+    "odpowiedz": "PPP"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.72,
+    "raw": "PPole kwadratu ABCD = wysokość trójkąta · AD = 7 · (28/7) = 24.\nOdpowiedź: A/B/C/D – odpowiedź B.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.23,
+    "raw": "PP: Pole powierzchni całkowitej = 2(5·5 + 5·15 + 5·15) = 2(25 + 75 + 75) = 2·175 = 350.\nOdpowiedź: A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 15,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 6.28,
+    "raw": "Sumujemy kartek czerwonych i zielonych: 1,5x + (x – 10) = 2,5x.\nSumujemy wszystkich kartek: 37 + 2,5x = 160.\nRozwiążemy z x: 2,5x = 160 – 37 = 123, x = 123 : 2,5 = 49.\nNiebieskich kartek: 1,5x = 1,5 · 49 = 73.\nOdpowiedź: Ela przygotowała 73 kartek niebueskich.\n<odpowiedz>73</odpowiedz>",
+    "odpowiedz": "73"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 5.56,
+    "raw": "PrPrędkość v = droga / czas = 48 km / (40/60 h) = 60 km/h. Czas przejazdu z Jodłowa do Dębiny: t = droga / prędkość = (123 - 48) km / 60 km/h = 72 km / 60 km/h = 1,2 h = 72 min = 1 h 12 min. Przejazd z Jodłowa do Dębiny trwał dłużej niż godzinę.\n<odpowiedz>Nie trwał</odpowiedz>",
+    "odpowiedz": "Nie trwał"
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 5.48,
+    "raw": "Suma dzieci w turnieju tenisa stołowego: 65 + 34 = 109. Suma wszystkich dzieci: 15 + 46 + 65 + 16 = 122. Procent: (109/122) · 100 = 89,22%. Odpowiedź: Liczba dzieci w turnieju tenisa stołowego stanowi 89,22% wszystkich uczestników Dnia Sportu.\n<odpowiedz>89,22%</odpowiedz>",
+    "odpowiedz": "89,22%"
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 8.05,
+    "raw": "Objętość sześianu: V = a³. Objętość ostrosłupa: V = (1/3) · podstawa (pole trójkąta ACD) · wysokość (odległość od S do płaszczyzny ACD). Pole trójkąta ACD: (1/2) · a², wysokość: odległość od S do płaszczyzny dolnej = h = wysokość sześcianu = a. V = (1/3) · (1/2)a² · a = (1/6)a³. Stosunek: V_sześcianu : V_ostrosłupu = a³ : (1/6)a³ = 6 : 1. Mniejsza o 5 razy.\n<odpowiedz>Ostrosłup jest mniejszy 5-krotnie.</odpowiedz>",
+    "odpowiedz": "Ostrosłup jest mniejszy 5-krotnie."
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 4.44,
+    "raw": "Pole trapezu: (18 + 12)/2 · 9 = 81 m^2. Liczna opakowań: 81/25 = 3,24. Zaokrżona do pełnych opakowań: 4. Koszt: 4 · 23,80 = 95,20 zł.\n<odpowiedz>Najmniejsza kwota do zapłcenia: 95,20 zł.</odpowiedz>",
+    "odpowiedz": "Najmniejsza kwota do zapłcenia: 95,20 zł."
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 2.3,
+    "raw": "Obwód równoległobku KLMN = 2(KL + LM) = 2(9 + 3) = 2·12 = 24.\n<odpowiedz>24</odpowiedz>",
+    "odpowiedz": "24"
+  }
+]

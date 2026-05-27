@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.26,
+    "raw": "Stała kwota odłożona w styczniu i lutym jest równa 180 zł, więc w styczniu i lutym łącznie odłożono 360 zł, czyli 50% kwoty potrzebnej na zakup deskorolki. Marzec to drugi miesiąc, w którym odłożono kwotę większą od kwoty odłożonej w styczniu, więc jest to 10% kwoty odłożonej w styczniu, czyli 18 zł.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.89,
+    "raw": "Wartość tego wyrażenia jest równa −1 8/15.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.63,
+    "raw": "91 = 7 + 84 <odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 33.61,
+    "raw": "Suma liczb a, b, c, d jest równa 36, a suma liczb e i f jest równa 12, więc suma liczb a, b, c, d jest o 24 większa od sumy liczb e i f (36 − 12 = 24). Odpowiedź: B.\nŚrednia arytmetyczna liczb a, b, c, d, e, f jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6, więc jest równa 6,",
+    "odpowiedz": ""
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.89,
+    "raw": "a = (L − 2b + c) / 2\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 33.53,
+    "raw": "x + 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nOpcje odpowiedzi:\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D. 6x − 3\n\nx + 3\n  A. 9x + 3\n  B. 9x − 3\n  C. 6x + 3\n  D.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.81,
+    "raw": "K = (1/9) · √(1/16) − (1/16) · √(1/9) = −0,2 − −0,2 = 0,0, więc K = 0,0, więc K jest równe 0, a nie ujemne, więc zdanie 1 jest fałszywe (F). L = 9 · √16 − 16 · √9 = −0,2 − −0,2 = 0,0, więc L = 0,0, więc L jest równe K, więc L jest mniejsze od K, więc zdanie 2 jest fałszywe (F).\n<odpowiedz>FF</odpowiedz>",
+    "odpowiedz": "FF"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.37,
+    "raw": "8^6 : 4^3 = 2^6 : 2^3 = 2^3, więc wartość wyrażenia jest równa 2^3.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.0,
+    "raw": "Rowerysta pokonał ten odcinek drogi w czasie 20 sekund.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.67,
+    "raw": "46 losy to losy wygrywające, 26 losy to losy puste. Prawdopodobieństwo wyciągnięcia losu pustego jest równe 26/72.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.56,
+    "raw": "Pole trójkąta DBC = 1/2|DC|·|DB| = 1/2·50·30 = 750 cm^2, więc zdanie 1 jest fałszywe (F). Pole trójkąta ABC = 1/2|AB|·|AC| = 1/2·60·50 = 1500 cm^2, a pole trójkąta ADC = 1/2|AD|·|DC| = 1/2·30·50 = 750 cm^2, więc zdanie 2 jest prawdziwe (P).\n<odpowiedz>FF</odpowiedz>",
+    "odpowiedz": "FF"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.26,
+    "raw": "Współrzędna punktów B i C jest równa 83, więc oba zdania są fałszywe.\n<odpowiedz>FF</odpowiedz>",
+    "odpowiedz": "FF"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 33.59,
+    "raw": "W trapezu ABCD obwód = (2G) + (2E) + (2F) = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F = 2G + 2E + 2F",
+    "odpowiedz": ""
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.5,
+    "raw": "Współrzędna x wierzchołka B jest dodatnia, więc współrzędną y jest −2, więc B = (−2, −2). Równoległobok ABCD jest prostokątem (D = C, B = D). Współrzędną x B jest −1, więc B = (−1, −2).\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 15,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.43,
+    "raw": "Pole powierzchni całkowitej prostopadłościanu jest równa 210, więc to ta odpowiedź (C). Odpowiedź: C.\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 33.4,
+    "raw": "7/15 = 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + 1/6 + 1/5 + ",
+    "odpowiedz": ""
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 33.37,
+    "raw": "Andrzej: Basi = 28, Marek = Basi = 1/3Basi = 1/3·2Basi = 2, Marek + Andrzej = 2Basi, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi = 2Basi + 1, Basi",
+    "odpowiedz": ""
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 33.54,
+    "raw": "Kąt prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prosty prost",
+    "odpowiedz": ""
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 4.85,
+    "raw": "Pole małej tablicy: P = a^2 = 3 cm^2 = 3 cm^2. Duża tablica: P = a^2 + b^2 = 240 cm^2 + 90 cm^2 = 330 cm^2. Różnica: P = 330 cm^2 − 3 cm^2 = 327 cm^2. Liczba: P = 327 cm^2 : 3 cm^2 = 109. Rzeczywista wielkość: P = 109 cm^2 : 20 cm^2 = 5,45 cm^2. Odpowiedź: Pole dużej tablicy jest większe od pola małej tablicy o 5,45 cm^2.\n<odpowiedz>Pole dużej tablicy jest większe od pola małej tablicy o 5,45 cm^2.</odpowiedz>",
+    "odpowiedz": "Pole dużej tablicy jest większe od pola małej tablicy o 5,45 cm^2."
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 33.51,
+    "raw": "Pole czworokąta AECF jest sumą pól trójkątów prostokątnych prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokątów prostokąt",
+    "odpowiedz": ""
+  },
+  {
+    "id": 21,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 33.46,
+    "raw": "Pole powierzchni jednej ściany bocznej: P = 108 cm^2, więc długość krawędii bocznej: c = 6 cm. Wysokość ściany bocznej: h = 12 cm, więc długość krawędii podstawy: a = 6 cm. Suma długości wszystkich krawędii: a + c + a + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c + c",
+    "odpowiedz": ""
+  }
+]

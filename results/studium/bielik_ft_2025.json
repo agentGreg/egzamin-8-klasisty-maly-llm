@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 5.31,
+    "raw": "Suma kwot z stycznia i lutu: 45 + 40 = 85 zł. 85/180 = 0,477... czyli ok. 48%. Odpowść A: 45% – nieprawdłowa. Odpowść B: 50% – nieprawdłowa.\nOd lutego do marca: 40 do 50 = 10 zł. C = 10% – prawdłowa.\nOdpowiedź: AA.\n<odpowiedz>AA</odpowiedz>",
+    "odpowiedz": "AA"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.09,
+    "raw": "Wynik dzielenia: −(2,4 : −2) = −(1,2) = −0,6 = −3/5. Wyrażenie C ma wartość −3/5, a B −1/2.\nOpcje A i C są poprawne.\n<odpowiedz>AC</odpowiedz>",
+    "odpowiedz": "AC"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.22,
+    "raw": "Reszty przy dzieleniu przez 7: 91/7 = 13 R0, 92/7 = 13 R1, 95/7 = 13 R1, 97/7 = 13 R5. Odpowiedź: A lub B lub C.\n<odpowiedz>ACB</odpowiedz>",
+    "odpowiedz": "ACB"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.74,
+    "raw": "Sum sumy: (a+b+c+d) = 36, (e+f) = 12, różnica: 24. Średnia z 6 liczb: (36+12)/6 = 8.\n<odpowiedz>AC</odpowiedz>",
+    "odpowiedz": "AC"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.59,
+    "raw": "a = (L − 2b − c) / 2, więc odpowiedź A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 4.34,
+    "raw": "Białkich: 2x, Fioletowych: x, Czarnych: 2x + 3. Suma: 2x + x + (2x + 3) = 5x + 3.\nOpcje:\n  A. 9x + 3\n  B. 6x − 3\n  C. 6x + 3\n  D. 6x − 3\nOdpowiedź: A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 6.42,
+    "raw": "K = (1/9) · √(1/16) − (1/16) · √(1/9) = (1/9)(1/4) − (1/16)(1/3) = 1/36 − 1/48 = (4 − 3)/36 = 1/36 > 0.\nL = 9 · 16 − 16 · 9 = 0.\nPrawdziwoość zdań:\nZdanie 1: Prawdziwe (K > 0).\nZdanie 2: Prawdłiwe (L = 0 > K).\nOdpowiedź: PP.\n<odpowiedz>PP</odpowiedz>",
+    "odpowiedz": "PP"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.94,
+    "raw": "8^6 = (2^3)^6 = 2^(3·6) = 2^36, a 4^3 = (2^2)^3 = 2^(2·3) = 2^6. Stosunek 2^36 : 2^6 = 2^(36−6) = 2^30.\nOdpowiedź: A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.69,
+    "raw": "Czas = droga : prędkość = 100 m : 5 m/s = 20 s.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.3,
+    "raw": "Losy wygrywające: 9 (od 1 do 9) i 36 (od 46 do 72). Puste losy: 72 − (9 + 36) = 27. Prawdopł. pustego losu: 27/72.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 7.42,
+    "raw": "Pole trójkątu DBC: P = (1/2) · DC · AD = (1/2) · 50 · 30 = 1500 cm^2 (zdanie 1 fałszywe). Pole trójkątu ADC: P = (1/2) · DC · AD = 1500 cm^2. Pole całego trójkątu ABC: P = P1 + P2 = 3000 cm^2. Pole DBC: P = 3000 – 1500 = 1500 cm^2. Prawdziwe zdanie 2: Pole ABC = 2 · Pole ADC (zdanie 2 prawdziwe). Odpowadź: Prawdziwe zdanie 2.\n<odpowiedz>PP</odpowiedz>",
+    "odpowiedz": "PP"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 52.75,
+    "raw": "Punkt B = 83, C = (56 + 2(11)) = 74. Prawdziwe zdanie 2.\nOdpowźź: P2. Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdziwe zdanie 1.\nOdpowiedź: Prawdziwe zdanie 2.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 1 – Prawdziwe.\nOdpowiedź: Prawdłiwość zdania 2 – Prawdziwe.\nOdp",
+    "odpowiedz": ""
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.68,
+    "raw": "Obwód trpezu: AB + BC + CD + DA. AB = GE = 10, CD = AD = 10, DA = GE = 10, BC = FG = 10.\nObwód: 10 + 10 + 10 + 10 = 40.\nOdpowiedź: A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 7.21,
+    "raw": "Punkty B i C są w tej samej linii y = 2, a B ma x = 3, C = 4, więc B jest między A i C. W linii y = 2, B ma x = 3. W linii prostopadłłej do tej linii, odległość od A do B jest taka sama jak od C do D. Odległość od C do D jest 5 (od x=4 do −1), więc od A do B jest 5. A ma x = −3, więc B ma x = −3 + 5 = 2. Ale opcje nie mają (2, 2), więc B jest w y = −2, a x = 3.\nOdpowiedź: A\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 15,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.64,
+    "raw": "Pole pow. całkowitej = 2(5·6 + 5·7 + 6·7) = 2(30 + 35 + 42) = 2·107 = 214.\n<odpowiedz>D</odpowiedz>",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 4.01,
+    "raw": "Sumujemy zaplanowane ułamki: 1/5 + 1/6 = 11/30. Różnica między 7/15 a 11/30 jest różnicą ułamków: (40 - 30)/30 = 10/30 = 1/3. Trzeci składnik to 1/3.\n<odpowiedz>Nie</odpowiedz>",
+    "odpowiedz": "Nie"
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 9.61,
+    "raw": "Sumujmy wszystkie informacje:\n- Andrzej ma o 28 plakatów więcej od Basi: A = B + 28\n- Marek ma 3 razy mniej od Basi: M = B / 3\n- Razem Andrzej i Marek mają 2 razy więcej od Basi: A + M = 2B\n\nPodstawiamy A = B + 28 i M = B / 3 do trzeciego równania:\n(B + 28) + (B / 3) = 2B\n\nPomnóżmy obie strony przez 3:\n3(B + 28) + B = 6B\n3B + 84 + B = 6B\n84 = 4B\nB = 21\n\nWtedy A = 21 + 28 = 49, a M = 21 / 3 = 7.\n<odpow>Andrzej ma 49 plakatów, Basia ma 21 plakatów, Marek ma 7 plakatów.</odpow>",
+    "odpowiedz": ""
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 52.65,
+    "raw": "W równoległoboku AECD kąty przy podstawach są równe: 180° − 57° = 121°, a kąt przy wierzchołku C = 121°. W trójkącie EBC kąt przy podstawie C = 180° − 57° = 121°. W trójkącie prostokątłym przy podstawie B kąt przy wierzchołku C = 180° − 48° − 90° = 82°. W trójkącie prostokątłym przy podstawie A kąt przy wierzchołku C = 180° − 82° = 98°. Kąt przy podstawie D = 180° − 98° = 82°. Kąt przy podstawie A = 180° − 82° = 98°. Kąt przy podstawie C = 180° − 98° = 82°. Kąt przy podstawie D = 180° − 82° = 82°. Kąt przy podstawie C = 180° − 82° = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawie D = 82°. Kąt przy podstawie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°. Kąt przy podstawdzie C = 82°. Kąt przy podstawdzie D = 82°.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 4.98,
+    "raw": "Pole małej tablicy: (3 cm)² = 9 cm². Pole dużej tablicy: (240 cm) · (90 cm) = 21 000 cm². Stosunek pól: 21 000 : 9 = 2333,33.\nOdpowiedź: Pole dużej tablicy jest 2333,33 razy większe od pola małej tablicy.\n<odpowiedz>2333,33</odpowiedz>",
+    "odpowiedz": "2333,33"
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 3.12,
+    "raw": "Pole czworokąta AECF = 1/2 · (AB + AF) · (BC – BE) = 1/2 · (15 + 10) · (5 – 1) = 1/2 · 25 · 4 = 50 cm².\n<odpowiedz>50 cm²</odpowiedz>",
+    "odpowiedz": "50 cm²"
+  },
+  {
+    "id": 21,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 12.97,
+    "raw": "Pole pow ściany bocznej: P = (1/2) · a · c = 108 cm^2.\nZ Prawidłowego ostrosłupu: c^2 = (a/2)^2 + h^2, gdzie h = 12 cm.\nc^2 = (a/2)^2 + 144 = a^2/4 + 144.\nZ Prawidłowego ostrosłupu: P = (1/2) · a · c = 108, c = 108a/2 = 54a.\nc^2 = (54a)^2 = 2916a^2.\n2916a^2 = a^2/4 + 144.\n2916a^2 = 0,5a^2 + 144.\n2915,5a^2 = 144.\na^2 = 144/2915,5 ≈ 0,049.\na = √0,049 = 0,2 cm (zazwyczj a = 2 cm).\nc = 54·2 = 108 cm.\nSuma krawędzi: 4a + 4c = 4·2 + 4·108 = 408 cm.\nOdpowść: Suma długości wszystkich krawędzi: 408 cm.\n<odpowiedz>408 cm</odpowiedz>",
+    "odpowiedz": "408 cm"
+  }
+]

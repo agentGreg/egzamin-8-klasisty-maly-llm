@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.71,
+    "raw": "Arytmetyka stanowi 25% testu, więc liczba zadań z arytmetyki jest równa 25% z 40, czyli 10 (25% z 40 to 10). Odpowiedź: B.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.54,
+    "raw": "Kod YXXY = Y2, a Y = 2, więc Y2 = 2² = 4, więc Y = 4. X = 3, więc kod = 4XX4 = 4994.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 33.12,
+    "raw": "w = −1 − 2 = −3 < 0, z = −2 − 5 = −7 < 0, y = −1 − 3 = −4 < 0, x = −12 − −5 = −7 < 0, więc w, z, y, x < 0, więc w, z, y, x < −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z, y, x = −1, więc w, z",
+    "odpowiedz": ""
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.28,
+    "raw": "2^5 · 3 · 3^4 · 2^3 = 2^8 · 3^5, więc to ta odpowiedź (B).\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.35,
+    "raw": "Rasowy kocur kosztuje x, a kotka y, więc zniżka 40% to x − 0,4x = −0,4x, a zniżka 20% to y − 0,2y = −0,2y, więc Janek zapłaci 0,4x + 0,2y, czyli C.\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.97,
+    "raw": "Suma liczb na pięciu wylosowanych kulach jest równa 36, więc B. parzystymi. Suma liczb na dwóch dowolnych kulach, które pozostały w pudełku, jest parzysta, więc B. parzystymi.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.74,
+    "raw": "Jabłonię i pomarańcję włożono w równe liczebności, więc 400 = 2x, więc x = 200. Liczba jabłoni = 200 + 6 = 206, więc 10 koszach łącznie jabłoni = 206 + 206 + 206 + 206 + 206 + 206 + 206 + 206 + 206 + 206 = 2060, więc łączna liczba jabłoni = 2060, więc 10 koszach łącznie jabłoni = 2060, więc 10 koszach łącznie jabłoni = 240.\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 3.27,
+    "raw": "Suma S = 1 + 2 + 3 + … + 100 = (1/2) · 100 · (100 + 1) = 50,000 + 50 = 50,050, więc S = 5050 (B). Wzór na S = (1/2) · n · (n + 1) = (1/2) · 100 · (100 + 1) = 50,000 + 50 = 50,050, więc S = (1/2) · n^2 + 1 (C).\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 33.39,
+    "raw": "x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1; x, y, z = −1, −1, −1;",
+    "odpowiedz": ""
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.71,
+    "raw": "Wysokość trójkąta równobocznego jest równa √3 cm, więc zdanie 1 jest prawdziwe (P). Pole trójkąta równobocznego jest równa 1/3 powierzchni boku, więc pole tego trójkąta jest równe 2 cm^2, a nie √3 cm^2, więc zdanie 2 jest fałszywe (F).\n<odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.32,
+    "raw": "β = α + 70° = α + 2α = α + α = 2α, więc β = 2α, czyli β = 120°.\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 4.02,
+    "raw": "Schronisko S w środku układu współrzędnych, wieża W położona o 4 kratki na zachód i 3 kratki na północ od S, muzeum M położone 5 kratek na wschód od S. Narysowano odcinki SW, WM oraz SM. Odległość w linii prostej muzeum od wieży widokowej jest mniejsza niż 10 km. Odległość w linii prostej schroniska od muzeum jest równa odległości w linii prostej schroniska od wieży widokowej. Odpowiedź: PP.\n<odpowiedz>PP</odpowiedz>",
+    "odpowiedz": "PP"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.03,
+    "raw": "Pole kwadratu ABCD jest równe 32. Odpowiedź: B.\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.16,
+    "raw": "Pole powierzchni całkowitej prostopadłościanu jest równa 400 (C).\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 15,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 5.61,
+    "raw": "Kartek niebieskich jest 1,5 razy więcej niż czerwonych, więc czerwonych jest 1,5 · 37 = 54. Z kolei zielonych jest o 10 mniej niż czerwonych, więc zielonych jest 54 − 10 = 44. Niebiesnych jest 1,5 · 54 = 81, a białych 37, więc łącznie Ela przygotowała 81 + 37 + 44 + 54 = 216 kartek. Różnica między liczbą kartek przygotowanych a liczbą kartek, które Ela przygotowała, wynosi 160 − 216 = −56, więc Ela przygotowała 216 − 160 = 56 kartek, które nie są białe, niebieskie, zielone ani czerwone. Niebiesnych jest 81, więc Ela przygotowała 81 − 56 = 25 kartek niebieskich.\n<odpowiedz>25 kartek niebieskich</odpowiedz>",
+    "odpowiedz": "25 kartek niebieskich"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 33.39,
+    "raw": "Droga z Jodłowa do Dębiny ma długość 123 km − 48 km = 75 km. Czas jazdy: 123 km : 48 km = 2,5, więc 2,5h = 150 minut, więc Dębina jest w odległości 150 minut jazdy od Jodłowa. Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości 150 minut jazdy od Jodłowa, więc Dębina jest w odległości ",
+    "odpowiedz": ""
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 4.54,
+    "raw": "Liczba dziewcząt: 15 + 65 +? = 80, a liczba chłopców: 46 + 16 + 34 = 96, więc łączna liczba uczestników: 80 + 96 = 176. Liczba dzieci, które brały udział w turnieju tenisa stołowego: 65 + 16 + 34 = 115, więc liczba dzieci, które brały udział w turnieju tenisa stołowego: 115 : 176 = 0,65, więc liczba dzieci, które brały udział w turnieju tenisa stołowego: 0,65 = 65,5% liczby wszystkich uczestników Dnia Sportu.\n<odpowiedz>65,5% liczba wszystkich uczestników Dnia Sportu.</odpowiedz>",
+    "odpowiedz": "65,5% liczba wszystkich uczestników Dnia Sportu."
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 33.5,
+    "raw": "Ostrosłup ACDS: A lewy przedni dolny, C prawy tylny dolny, D lewy tylny dolny, S środek krawędzi DH (środek pionowej krawędzi z D do H). Objętość: V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V = 1/3V =",
+    "odpowiedz": ""
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 4.42,
+    "raw": "Ogródek pani Anny ma kształt trapezu, którego podstawy mają długości 18 m i 12 m, a wysokość jest równa 9 m. Powierzchnia trapezu: P = (1/2)·(18 + 12)·9 = 1800 m^2. Liczba opakowań z nasionami: n = 1800 : 25 = 72. Koszt: k = 72·23,80 = 1704,24 zł. Odpowiedź: Pani Anna musi zapłacić 1704,24 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródki.\n<odpowiedz>1704,24 zł</odpowiedz>",
+    "odpowiedz": "1704,24 zł"
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 1.51,
+    "raw": "Obwód równoległoboku KLMN = 3 + 9 + 3 + 9 = 24. Odpowiedź: Obwód równoległoboku KLMN = 24.",
+    "odpowiedz": ""
+  }
+]

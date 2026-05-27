@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.48,
+    "raw": "W styczniu i lutym łącznie Aldona odłożyła 50% kwoty potrzebnej na zakup deskorolki. W marcu Aldona odłożyła kwotę o 20% większą od kwoty odłożonej w styczniu.\n\n<odpowiedz>ABCD</odpowiedz>",
+    "odpowiedz": "ABCD"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.67,
+    "raw": "Wartość wyrażenia to 1 7/15. Odpowiedź: <odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.36,
+    "raw": "<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 2.54,
+    "raw": "Zdanie 1 jest fałszywe, ponieważ średnia arytmetyczna czterech liczb jest równa 9, a średnia arytmetyczna dwóch liczb jest równa 6, co oznacza, że suma tych liczb nie może być większa o 3.\n\nZdanie 2 jest prawdziwe, ponieważ średnia arytmetyczna sześciu liczb jest równa 9 + 6 = 15/6 = 5, a 5 jest równoważne 8 po zaokrągleniu.\n\n<odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.47,
+    "raw": "Odpowiedź: <odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.9,
+    "raw": "Łączną liczbę wszystkich piłek w pudełku opisuje wyrażenie **6x + 3**.\n\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.96,
+    "raw": "Zdanie 1: F1 (Fałsz zdania 1)\n\nZdanie 2: P2 (Prawda zdania 2)\n\n<odpowiedz>P1F2</odpowiedz>",
+    "odpowiedz": "P1F2"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.77,
+    "raw": "Wartość wyrażenia 8^6 ∶ 4^3 zapisana w postaci potęgi liczby 2 jest równa 2^4.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.69,
+    "raw": "Rowerzysta pokonał ten odcinek drogi w czasie <odpowiedz>20</odpowiedz> sekund.",
+    "odpowiedz": "20"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.39,
+    "raw": "<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 1.35,
+    "raw": "Pole trójkąta DBC jest równe 600 cm^2.\n<odpowiedz>F1</odpowiedz>\n\nPole trójkąta ABC jest dwa razy większe od pola trójkąta ADC.\n<odpowiedz>P2</odpowiedz>",
+    "odpowiedz": "F1"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.46,
+    "raw": "<odpowiedz>P1F2</odpowiedz>",
+    "odpowiedz": "P1F2"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.6,
+    "raw": "Obwód trapezu ABCD jest równy <odpowiedz>88</odpowiedz>.",
+    "odpowiedz": "88"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.81,
+    "raw": "Niezaznaczony na rysunku wierzchołek B tego równoległoboku ma współrzędne (4, −2).",
+    "odpowiedz": ""
+  },
+  {
+    "id": 15,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 0.78,
+    "raw": "Pole powierzchni całkowitej tego prostopadłościanu jest równe <odpowiedz>210</odpowiedz>.",
+    "odpowiedz": "210"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 23.43,
+    "raw": "Liczba 7/15 zapisana w postaci sumy trzech ułamków zwykłych, z których jeden jest równy 1/5, a drugi 1/6, to:\n\n$$\\frac{7}{15} = \\frac{1}{5} + \\frac{1}{6} + \\frac{1}{15}$$\n\nAby uzasadnić, że trzeci składnik tej sumy można przedstawić w postaci ułamka zwykłego, którego licznik jest równy 1, a mianownik jest liczbą całkowitą dodatnią, należy wykonać następujące obliczenia:\n\n$$\\frac{1}{5} + \\frac{1}{6} + \\frac{1}{15} = \\frac{6}{30} + \\frac{5}{30} + \\frac{2}{30} = \\frac{13}{30}$$\n\n$$\\frac{13}{30} = \\frac{1}{\\frac{30}{13}} = \\frac{1}{2\\frac{3}{13}} = \\frac{1}{2\\frac{1}{\\frac{13}{3}}} = \\frac{1}{2\\frac{1}{\\frac{5}{2}}} = \\frac{1}{2\\frac{2}{5}} = \\frac{1}{\\frac{4}{5}} = \\frac{5}{4}$$\n\n$$\\frac{5}{4} = \\frac{1}{\\frac{4}{5}} = \\frac{1}{\\frac{20}{15}} = \\frac{1}{\\frac{5}{3}} = \\frac{3}{5}$$\n\n$$\\frac{3}{5} = \\frac{1}{\\frac{5}{3}} = \\frac{1}{\\frac{15}{6}} = \\frac{1}{\\frac{2}{2} \\cdot \\frac{3}{2}} = \\frac{1}{2} \\cdot \\frac{3}{2} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3}{4} = \\frac{1}{\\frac{4}{3}} = \\frac{1}{\\frac{12}{9}} = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}$$\n\n$$\\frac{3",
+    "odpowiedz": ""
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 2.84,
+    "raw": "Andrzej ma 28 plakatów + 28 plakatów = <<28+28=56>>56 plakatów.\nBasia ma 28 plakatów - 28 plakatów = <<28-28=0>>0 plakatów.\nMarek ma 3 x 0 plakatów = <<3*0=0>>0 plakatów.\nAndrzej i Marek mają 56 plakatów + 0 plakatów = <<56+0=56>>56 plakatów.\nBasia ma 0 plakatów / 2 = <<0/2=0>>0 plakatów.\n<odpowiedz>Andrzej ma 56 plakatów, Basia ma 0 plakatów, a Marek ma 0 plakatów.</odpowiedz>",
+    "odpowiedz": "Andrzej ma 56 plakatów, Basia ma 0 plakatów, a Marek ma 0 plakatów."
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 14.87,
+    "raw": "Aby obliczyć miary kątów DAB, BCD, CDA trapezu ABCD, należy wykorzystać własności kątów wewnętrznych trapezu oraz zależności między kątami w równoległoboku.\n\n1. **Kąt DAB**:\nKąt DAB jest kątem wewnętrznym trapezu, który jest sumą kątów wewnętrznych trapezu. Ponieważ kąt ABC ma miarę 48°, a kąt BCD jest przystawiony do niego, to:\n$$\\text{DAB} = 48^\\circ + \\text{BCD}$$\n\n2. **Kąt BCD**:\nKąt BCD jest kątem wewnętrznym równoległoboku AECD, który jest sumą kątów wewnętrznych równoległoboku. Ponieważ kąt ECD ma miarę 57°, a kąt AED jest przystawiony do niego, to:\n$$\\text{BCD} = 57^\\circ + \\text{AED}$$\n\n3. **Kąt AED**:\nKąt AED jest kątem wewnętrznym równoległoboku AECD, który jest sumą kątów wewnętrznych równoległoboku. Ponieważ kąt AEC ma miarę 48°, a kąt ECD jest przystawiony do niego, to:\n$$\\text{AED} = 48^\\circ + \\text{ECD}$$\n\n4. **Kąt ECD**:\nKąt ECD jest kątem wewnętrznym trójkąta EBC, który jest sumą kątów wewnętrznych trójkąta. Ponieważ kąt BCE ma miarę 57°, a kąt EBC jest przystawiony do niego, to:\n$$\\text{ECD} = 57^\\circ + \\text{EBC}$$\n\n5. **Kąt EBC**:\nKąt EBC jest kątem wewnętrznym trójkąta EBC, który jest sumą kątów wewnętrznych trójkąta. Ponieważ kąt BCE ma miarę 57°, a kąt EBC jest przystawiony do niego, to:\n$$\\text{EBC} = 57^\\circ + \\text{EBC}$$\n\n6. **Podsumowanie**:\n$$\\text{DAB} = 48^\\circ + \\text{BCD}$$\n$$\\text{BCD} = 57^\\circ + \\text{AED}$$\n$$\\text{AED} = 48^\\circ + \\text{ECD}$$\n$$\\text{ECD} = 57^\\circ + \\text{EBC}$$\n$$\\text{EBC} = 57^\\circ + \\text{EBC}$$\n\nPodstawiając wartości do równań:\n$$\\text{DAB} = 48^\\circ + 57^\\circ + 48^\\circ + 57^\\circ = 210^\\circ$$\n$$\\text{BCD} = 57^\\circ + 48^\\circ + 57^\\circ + 57^\\circ = 219^\\circ$$\n$$\\text{AED} = 48^\\circ + 57^\\circ + 57^\\circ + 57^\\circ = 219^\\circ$$\n$$\\text{ECD} = 57^\\circ + 57^\\circ + 57^\\circ + 57^\\circ = 228^\\circ$$\n$$\\text{EBC} = 57^\\circ + 57^\\circ + 57^\\circ + 57^\\circ = 228^\\circ$$\n\n**WYNIK KOŃCOWY**:\nMiary kątów DAB, BCD, CDA trapezu ABCD wynoszą odpowiednio: 210°, 219°, 228°.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 2.63,
+    "raw": "Pole kwadratu o boku 3 cm obliczamy, mnożąc długość boku przez siebie: 3 cm x 3 cm = 9 cm².\n\nPole dużej tablicy obliczamy, mnożąc jej długości: 240 cm x 90 cm = 21600 cm².\n\nPole dużej tablicy jest 2400 razy większe od pola małej tablicy: 21600 cm² / 9 cm² = 2400.\n\n<odpowiedz>Pole dużej tablicy jest 2400 razy większe od pola małej tablicy.</odpowiedz>",
+    "odpowiedz": "Pole dużej tablicy jest 2400 razy większe od pola małej tablicy."
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 5.11,
+    "raw": "Pole czworokąta AECF obliczamy, korzystając z twierdzenia o sumie pól figur wypukłych. Pole kwadratu AECF jest sumą pól trójkątów AEF, ECF, CFD, CDE, DAB. Pole kwadratu ABCD wynosi 15*15=225 cm². Pole trójkąta AEF jest równe 1/2*15*5=37,5 cm². Pole trójkąta ECF jest równe 1/2*15*3=22,5 cm². Pole trójkąta CFD jest równe 1/2*15*3=22,5 cm². Pole trójkąta CDE jest równe 1/2*15*5=37,5 cm². Pole trójkąta DAB jest równe 1/2*15*3=22,5 cm². Suma pól trójkątów AEF, ECF, CFD, CDE, DAB jest równa 225-37,5-22,5-22,5-37,5=105 cm². Pole czworokąta AECF jest równe 105 cm².\n\nWYNIK KOŃCOWY: Pole czworokąta AECF jest równe 105 cm².",
+    "odpowiedz": ""
+  },
+  {
+    "id": 21,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 6.33,
+    "raw": "Pole powierzchni ściany bocznej ostrosłupa prawidłowego czworokątnego jest równe iloczynowi długości krawędzi bocznej i wysokości ściany bocznej poprowadzonej do krawędzi podstawy. Zatem:\n\n108 \\text{ cm}^2 = 12 \\text{ cm} \\cdot c\n\nObliczamy długość krawędzi bocznej:\n\n\\frac{108}{12} = 9 \\text{ cm}\n\nDługość krawędzi bocznej wynosi 9 cm.\n\nPole powierzchni podstawy ostrosłupa prawidłowego czworokątnego jest równe iloczynowi długości krawędzi podstawy i długości krawędzi bocznej. Zatem:\n\n108 \\text{ cm}^2 = a \\cdot 9 \\text{ cm}\n\nObliczamy długość krawędzi podstawy:\n\n\\frac{108}{9} = 12 \\text{ cm}\n\nDługość krawędzi podstawy wynosi 12 cm.\n\nSuma długości wszystkich krawędzi ostrosłupa prawidłowego czworokątnego jest równa iloczynowi liczby krawędzi i długości jednej krawędzi. Zatem:\n\n\\text{suma długości wszystkich krawędzi} = 8 \\cdot 12 \\text{ cm} = 96 \\text{ cm}\n\nWYNIK KOŃCOWY: Suma długości wszystkich krawędzi ostrosłupa prawidłowego czworokątnego wynosi 96 cm.",
+    "odpowiedz": ""
+  }
+]

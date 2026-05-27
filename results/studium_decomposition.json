@@ -1,0 +1,30 @@
+[
+  {
+    "model": "Llama-PLLuM 8B",
+    "variant": "base",
+    "format_compliance": 0.477,
+    "conditional_accuracy": 0.098,
+    "n_closed": 44
+  },
+  {
+    "model": "Llama-PLLuM 8B",
+    "variant": "+LoRA",
+    "format_compliance": 0.682,
+    "conditional_accuracy": 0.219,
+    "n_closed": 44
+  },
+  {
+    "model": "Bielik-Minitron 7B",
+    "variant": "base",
+    "format_compliance": 0.795,
+    "conditional_accuracy": 0.568,
+    "n_closed": 44
+  },
+  {
+    "model": "Bielik-Minitron 7B",
+    "variant": "+LoRA",
+    "format_compliance": 0.795,
+    "conditional_accuracy": 0.366,
+    "n_closed": 44
+  }
+]

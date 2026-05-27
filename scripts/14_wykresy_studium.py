@@ -67,13 +67,14 @@ def main() -> None:
         ax.set_facecolor("white")
 
     panel(ax1, "format_compliance", "Zgodność z formatem")
-    b1, _ = panel(ax2, "conditional_accuracy", "Trafność (na sparsowanych)")
-    ax1.legend(loc="upper right", frameon=False, fontsize=9.5)
+    panel(ax2, "conditional_accuracy", "Trafność (na sparsowanych)")
+    # legend in the bottom panel's upper-left: PLLuM accuracy is low there, so it's empty
+    ax2.legend(loc="upper left", frameon=False, fontsize=9.5)
 
-    fig.text(0.045, 0.965, "Fine-tuning uczy formy, nie matematyki",
+    fig.text(0.045, 0.965, "Fine-tuning LoRA nie naprawia matematyki",
              fontsize=13.5, fontweight="bold", color=INK, ha="left")
     fig.text(0.045, 0.940,
-             "Słaby model (PLLuM) i mocny (Bielik) — LoRA rusza formę, nie trafność.",
+             "Słabemu modelowi (PLLuM) ledwo pomógł. Mocnemu (Bielik) zaszkodził.",
              fontsize=8.6, color=SLATE, ha="left")
     fig.text(0.045, 0.038, FOOTER1, fontsize=7.0, color=GREY, ha="left")
     fig.text(0.045, 0.020, FOOTER2, fontsize=7.0, color=GREY, ha="left")

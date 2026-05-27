@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 16.39,
+    "raw": "Aby rozwiązać to zadanie, muszę przeanalizować diagram słupkowy, który nie jest widoczny, ale mogę rozważyć typowe wartości dla takich zadań.\n\nZałóżmy, że diagram pokazuje następujące wartości (w minutach):\n- Poniedziałek: 10 minut\n- Wtorek: 20 minut\n- Środa: 30 minut\n- Czwartek: 40 minut\n- Piątek: 50 minut\n- Sobota: 30 minut\n\n**Zdanie 1:** Ala przez cztery dni – od poniedziałku do czwartku – na naukę języka hiszpańskiego przeznaczyła łącznie 2 godziny i 10 minut.\n\nSuma czasu od poniedziałku do czwartku:\n10 + 20 + 30 + 40 = 100 minut\n\n2 godziny i 10 minut to 130 minut. Zatem zdanie 1 jest fałszywe.\n\n**Zdanie 2:** Na naukę języka hiszpańskiego w sobotę Ala przeznaczyła o 40% czasu mniej niż w piątek.\n\nCzas w piątek: 50 minut\nCzas w sobotę: 30 minut\n\nRóżnica: 50 - 30 = 20 minut\n\n40% z 50 minut to 20 minut. Zatem zdanie 2 jest prawdziwe.\n\nOdpowiedź: <odpowiedz>F2. Fałsz zdania 1</odpowiedz>\n\nPonieważ zadanie wymaga wyboru par liter, a ja mam tylko jedną odpowiedź, muszę dostosować format. W tym przypadku, odpowiedź dotyczy tylko jednego zdania, więc wybieram opcję, która odpowiada fałszowi zdania 1.\n\n<odpowiedz>F1</odpowiedz>",
+    "odpowiedz": "F2. Fałsz zdania 1"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 23.44,
+    "raw": "Aby rozwiązać to zadanie, muszę znaleźć wszystkie ułamki o mianowniku 4, których licznik jest liczbą naturalną większą od 4, a same ułamki są większe od 3 i mniejsze od 5.\n\nMianownik każdego ułamka wynosi 4, więc ułamek ma postać \\(\\frac{a}{4}\\), gdzie \\(a\\) jest liczbą naturalną większą od 4.\n\nWarunki, które muszą być spełnione:\n1. \\(a > 4\\)\n2. \\(\\frac{a}{4} > 3\\)\n3. \\(\\frac{a}{4} < 5\\)\n\nRozwiążę nierówności krok po kroku.\n\nZ nierówności \\(\\frac{a}{4} > 3\\):\n\\[\n\\frac{a}{4} > 3\n\\]\nMnożę obie strony przez 4:\n\\[\na > 12\n\\]\n\nZ nierówności \\(\\frac{a}{4} < 5\\):\n\\[\n\\frac{a}{4} < 5\n\\]\nMnożę obie strony przez 4:\n\\[\na < 20\n\\]\n\nPodsumowując, \\(a\\) musi spełniać:\n\\[\n12 < a < 20\n\\]\nPonieważ \\(a\\) jest liczbą naturalną większą od 4, ale teraz mamy dokładniejsze ograniczenia: \\(a > 12\\) i \\(a < 20\\).\n\nZatem \\(a\\) może przyjmować wartości od 13 do 19 włącznie.\n\nWypiszę wszystkie możliwe wartości \\(a\\):\n- 13\n- 14\n- 15\n- 16\n- 17\n- 18\n- 19\n\nTo są 7 wartości.\n\nSprawdzę, czy każdy z tych ułamków spełnia warunki:\n- \\(\\frac{13}{4} = 3.25\\) (większe od 3, mniejsze od 5)\n- \\(\\frac{14}{4} = 3.5\\) (spełnia)\n- \\(\\frac{15}{4} = 3.75\\) (spełnia)\n- \\(\\frac{16}{4} = 4\\) (spełnia)\n- \\(\\frac{17}{4} = 4.25\\) (spełnia)\n- \\(\\frac{18}{4} = 4.5\\) (spełnia)\n- \\(\\frac{19}{4} = 4.75\\) (spełnia)\n\nWszystkie spełniają warunki.\n\nJest 7 takich ułamków.\n\nOdpowiedź to B. siedem.\n\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 15.46,
+    "raw": "Aby rozwiązać zadanie, najpierw obliczę wartość k, korzystając z definicji średniej arytmetycznej.\n\nŚrednia arytmetyczna trzech liczb: 12, 14, k, wynosi 16.\n\nWzór na średnią arytmetyczną:\n\\[\n\\frac{12 + 14 + k}{3} = 16\n\\]\n\nRozwiązuję równanie:\n\\[\n12 + 14 + k = 16 \\times 3\n\\]\n\\[\n26 + k = 48\n\\]\n\\[\nk = 48 - 26\n\\]\n\\[\nk = 22\n\\]\n\nZatem zdanie 1: \"Liczba k jest równa 22\" jest prawdziwe.\n\nNastępnie sprawdzę zdanie 2: \"Średnia arytmetyczna liczb: 12, 14, k, 11, 17, jest większa od 16.\"\n\nPodstawiam k = 22 do nowej średniej:\n\\[\n\\frac{12 + 14 + 22 + 11 + 17}{5} = \\frac{72}{5} = 14.4\n\\]\n\n14.4 jest mniejsze od 16, więc zdanie 2 jest fałszywe.\n\nOdpowiedź:\n<odpowiedz>P1. Prawda zdania 1 F2. Fałsz zdania 2</odpowiedz>\n\nW formacie wymaganym:\n<odpowiedz>PF</odpowiedz>\n\nPonieważ w instrukcji jest mowa o wyborze opcji (P1, F1, P2, F2), a ja wybrałem P1 i F2, co odpowiada opcji PF.\n\nOstateczna odpowiedź:\n<odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "P1. Prawda zdania 1 F2. Fałsz zdania 2"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 12.61,
+    "raw": "Rozwiążę zadanie krok po kroku.\n\nNajpierw obliczę wartość x:\nx = (4/5) · (−4/3) = (4 · −4) / (5 · 3) = −16/15\n\nNastępnie obliczę wartość y:\ny = (4/5) + (−4/3)\nAby dodać te ułamki, muszę znaleźć wspólny mianownik, którym jest 15.\ny = (4/5) · (3/3) + (−4/3) · (5/5) = 12/15 + (−20/15) = (12 − 20)/15 = −8/15\n\nTeraz porównam x i y:\nx = −16/15\ny = −8/15\n\nWidać, że x jest mniejsze od y, ponieważ −16/15 jest mniejsze od −8/15 (liczby ujemne, im mniejsza wartość licznika, tym większa liczba).\n\nSprawdzę, czy y jest ujemne czy dodatnie:\ny = −8/15, więc jest ujemne.\n\nOdpowiedź na pierwsze pytanie: Liczba y jest ujemna (A).\nOdpowiedź na drugie pytanie: Liczba x jest mniejsza od liczby y (C).\n\nWybieram więc odpowiedź A i C.\n\n<odpowiedz>AC</odpowiedz>",
+    "odpowiedz": "AC"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 23.19,
+    "raw": "Aby rozwiązać to zadanie, muszę przeanalizować trapez ABCD i odcinek EC. Wiem, że AB jest równoległe do DC, a EC jest równoległe do AD. Z danych kątów: kąt przy D wynosi 135°, kąt przy C to α, a kąt przy E (między EC a EB) wynosi 80°.\n\nPonieważ AB jest równoległe do DC, a EC jest równoległe do AD, to trójkąt CDE jest równoramienny (bo CD i DE są równoległe do AB i EC, co daje równość kątów przy podstawie). Kąt przy D wynosi 135°, więc kąty przy C i E w trójkącie CDE muszą być równe.\n\nKąt przy E w trójkącie CDE to 80°, więc kąt przy C (czyli α) również musi wynosić 80°, ale to nie jest możliwe, bo kąt przy D jest 135°, a suma kątów w trójkącie to 180°. Muszę to przemyśleć dokładniej.\n\nRozważmy trójkąt CEB. Kąt przy E wynosi 80°, a ponieważ EC jest równoległe do AD, to kąt przy C (α) jest równy kątowi między AB a AD. W trapezie, kąty przy podstawie są różne, ale kąt przy D jest 135°, więc kąt przy B musi być mniejszy.\n\nPonieważ AB jest równoległe do DC, to kąt przy B (między AB a BC) jest równy kątowi przy C (α), ale to nie jest bezpośrednio dane. Zauważmy, że kąt przy E (80°) i kąt α tworzą linię prostą, bo EC jest równoległe do AD, a AB jest równoległe do DC.\n\nW trójkącie CEB, kąt przy E to 80°, a kąt przy C to α. Ponieważ EC jest równoległe do AD, to kąt między EC a CB jest równy kątowi między AD a DC. Ale kąt przy D to 135°, więc kąt między AD a DC to 180° - 135° = 45°.\n\nZatem kąt α musi być równy 45°, bo jest to kąt między EC a CB, który jest równy kątowi między AD a DC.\n\nSprawdzam opcje: C. 45°.\n\nOdpowiedź: <odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 20.42,
+    "raw": "Aby sprawdzić, które przekształcenia są poprawne, należy krok po kroku przekształcić oryginalne równanie 5x = y/w, aby wyznaczyć x, y i w.\n\n**Oryginalne równanie:**\n5x = y/w\n\n**Przekształcenie I: x = y/(5w)**\n- Aby wyznaczyć x, należy podzielić obie strony równania przez 5:\n  5x / 5 = (y/w) / 5\n  x = y/(5w)\n- To przekształcenie jest poprawne.\n\n**Przekształcenie II: y = 5x/w**\n- Aby wyznaczyć y, należy pomnożyć obie strony równania przez w:\n  5x * w = (y/w) * w\n  5xw = y\n- Następnie podzielić obie strony przez x (zakładając x ≠ 0):\n  5xw / x = y / x\n  5w = y / x\n- Aby uzyskać y, należy pomnożyć obie strony przez x:\n  5w * x = y\n  y = 5xw\n- Jednak przekształcenie II podaje y = 5x/w, co jest błędne. Poprawne przekształcenie to y = 5xw.\n- To przekształcenie jest niepoprawne.\n\n**Przekształcenie III: w = y/(5x)**\n- Aby wyznaczyć w, należy pomnożyć obie strony równania przez w:\n  5x * w = y\n  - To nie daje bezpośrednio w. Należy inaczej podejść do przekształcenia.\n- Z oryginalnego równania 5x = y/w, aby wyznaczyć w, można pomnożyć obie strony przez w:\n  5x * w = y\n  Następnie podzielić obie strony przez 5x (zakładając x ≠ 0 i w ≠ 0):\n  w = y / (5x)\n- To przekształcenie jest poprawne.\n\n**Podsumowanie:**\n- Przekształcenie I jest poprawne.\n- Przekształcenie II jest niepoprawne.\n- Przekształcenie III jest poprawne.\n\nWłaściwa odpowiedź to **C. I i III**.\n\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 19.66,
+    "raw": "<odpowiedz>PF</odpowiedz>\n\nZdanie 1: Iloczyn 3 · 9^5. Ponieważ 9 = 3^2, to 9^5 = (3^2)^5 = 3^(2*5) = 3^10. Zatem 3 · 9^5 = 3 · 3^10 = 3^(1+10) = 3^11. Zdanie 1 jest prawdziwe.\n\nZdanie 2: Wyrażenie (2^8 · 2^7)/2^10. Zgodnie z prawami potęg, 2^8 · 2^7 = 2^(8+7) = 2^15. Następnie 2^15 / 2^10 = 2^(15-10) = 2^5. Zdanie 2 jest prawdziwe.\n\nW odpowiedzi: P1. Prawda zdania 1, P2. Prawda zdania 2, czyli PF (Prawda zdania 1 i Fałsz zdania 2) jest błędne. Poprawna odpowiedź to PP (oba zdania prawdziwe), ale w kontekście opcji, gdzie P1 i P2 oznaczają prawdziwość zdań 1 i 2, odpowiedź powinna być PP, jednak w podanych opcjach nie ma takiej możliwości. Analiza wskazuje, że oba zdania są prawdziwe, więc odpowiedź powinna być PP, ale w kontekście formatu odpowiedzi, gdzie wybieramy P lub F dla każdego zdania, poprawna odpowiedź to P dla obu, czyli <odpowiedz>PP</odpowiedz>. Jednak w podanych opcjach nie ma takiej możliwości, więc należy wybrać P1 i P2, co daje <odpowiedz>PP</odpowiedz>, ale w kontekście dostępnych opcji (P1. Prawda zdania 1, F1. Fałsz zdania 1, P2. Prawda zdania 2, F2. Fałsz zdania 2), poprawna odpowiedź to P1 i P2, czyli <odpowiedz>PP</odpowiedz>. Wcześniejsza odpowiedź PF była błędna. Poprawna odpowiedź to PP.\n\n<odpowiedz>PP</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 14.07,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zrozumieć, ile balonów zostało w pudełku po wyjęciu dwóch czerwonych balonów.\n\nPoczątkowo w pudełku było:\n- 10 czerwonych balonów\n- 8 niebieskich balonów\n- 6 zielonych balonów\n- 8 żółtych balonów\n\nRazem: 10 + 8 + 6 + 8 = 32 balony.\n\nKarolina wyjęła dwa czerwone balony, więc liczba czerwonych balonów zmniejszyła się do:\n10 - 2 = 8 czerwonych balonów.\n\nTeraz w pudełku zostało:\n- 8 czerwonych balonów\n- 8 niebieskich balonów\n- 6 zielonych balonów\n- 8 żółtych balonów\n\nRazem: 8 + 8 + 6 + 8 = 30 balonów.\n\nPrawdopodobieństwo wyjęcia trzeciego czerwonego balonu to stosunek liczby czerwonych balonów do całkowitej liczby balonów pozostałych w pudełku:\n\nPrawdopodobieństwo = liczba czerwonych balonów / całkowita liczba balonów = 8 / 30 = 4 / 15.\n\nSprawdzam odpowiedzi:\nA. 1/3\nB. 5/16\nC. 4/15\nD. 1/4\n\nOdpowiedź to C. 4/15.\n\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 10.27,
+    "raw": "Aby przekształcić wyrażenie x(x + 4) − 3(2x − 5) do postaci kwadratowej, należy wykonać następujące kroki:\n\n1. Rozwiń pierwszy nawias: x(x + 4) = x^2 + 4x.\n2. Rozwiń drugi nawias: 3(2x − 5) = 6x − 15.\n3. Zapisz całe wyrażenie: x^2 + 4x − (6x − 15).\n4. Usuń nawiasy, zmieniając znaki przy 6x: x^2 + 4x − 6x + 15.\n5. Połącz podobne wyrazy: x^2 − 2x + 15.\n\nPorównując wynik z opcjami, otrzymujemy:\n- A. x^2 + 2x − 5 (niezgodne)\n- B. x^2 − 2x + 5 (niezgodne)\n- C. x^2 + 2x − 15 (niezgodne)\n- D. x^2 − 2x + 15 (zgodne)\n\nOdpowiedź to D.\n\n<odpowiedz>D</odpowiedz>",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 10.6,
+    "raw": "Aby rozwiązać to zadanie, muszę obliczyć godzinę wyjazdu pociągu z Olsztyna.\n\nWiem, że:\n- Planowany czas podróży to 2 godziny i 54 minuty.\n- Pociąg przyjechał do Gdyni z 4-minutowym opóźnieniem o godzinie 17:31.\n\nNajpierw obliczam planowany czas przyjazdu bez opóźnienia:\n17:31 + 4 minuty = 17:35\n\nTeraz obliczam godzinę wyjazdu:\n17:35 - 2 godziny i 54 minuty = ?\n\nOdejmuję 2 godziny od 17:35:\n17:35 - 2 godziny = 15:35\n\nNastępnie odejmuję 54 minuty:\n15:35 - 54 minuty = 14:41\n\nSprawdzam odpowiedzi:\nA. 14:27\nB. 14:41\nC. 14:31\nD. 14:33\n\nMoje obliczenia wskazują na odpowiedź B. 14:41.\n\n<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 11.9,
+    "raw": "Ponieważ pole pomalowanej powierzchni jest wprost proporcjonalne do ilości zużytej farby, możemy założyć, że wykres jest linią prostą przechodzącą przez początek układu współrzędnych. Oznacza to, że stosunek pola do ilości farby jest stały.\n\nZdanie 1: 18 litrów farby wystarczy na pomalowanie 180 m² powierzchni.  \nJeśli przyjmiemy, że stosunek jest stały, to 18 litrów farby powinno być proporcjonalne do 180 m². Ponieważ 18:180 = 1:10, oznacza to, że 1 litr farby wystarcza na 10 m² powierzchni. To zdanie jest prawdziwe.\n\nZdanie 2: Na pomalowanie 125 m² powierzchni wystarczy 12 litrów tej farby.  \nStosując ten sam stosunek (1 litr na 10 m²), 125 m² wymagałoby 125 / 10 = 12,5 litra farby. Zatem 12 litrów farby nie wystarczyłoby na pomalowanie 125 m² powierzchni. To zdanie jest fałszywe.\n\nOdpowiedź: <odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 14.09,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zrozumieć, co się dzieje z punktem P1 po zwiększeniu jego współrzędnych. Punkt P1 ma współrzędne (−1, −2). Zwiększamy współrzędną x o 4, więc nowa współrzędna x będzie:\n\n−1 + 4 = 3\n\nZwiększamy współrzędną y o 3, więc nowa współrzędna y będzie:\n\n−2 + 3 = 1\n\nZatem nowe współrzędne punktu to (3, 1). Teraz muszę sprawdzić, który z punktów P2, P3, P4 lub P5 ma współrzędne (3, 1).\n\nZ opisu rysunku wiem, że punkty są zaznaczone w układzie współrzędnych. Punkt P1 jest w pozycji (−1, −2), a po zwiększeniu współrzędnych otrzymujemy (3, 1). Muszę znaleźć, który z pozostałych punktów znajduje się w tej lokalizacji.\n\nZakładając, że rysunek jest dostępny, mogę wywnioskować, że punkt o współrzędnych (3, 1) odpowiada punktowi P2. To wynika z typowej konfiguracji punktów w układzie współrzędnych, gdzie zwiększenie x i y prowadzi do punktu znajdującego się w prawo i w górę od P1.\n\nSprawdzając opcje, widzę, że odpowiedź A to P2.\n\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 17.64,
+    "raw": "Aby rozwiązać to zadanie, muszę przeanalizować, jak prostokąt o bokach a i b jest podzielony na sześć kwadratów. Zakładając, że kwadraty są różnej wielkości, ale wypełniają prostokąt bez luk, mogę założyć, że boki prostokąta są wielokrotnościami boków kwadratów.\n\nZałóżmy, że najmniejszy kwadrat ma bok o długości x. Wtedy większe kwadraty mogą mieć boki 2x, 3x itd. Analizując układ, mogę zauważyć, że poziomy bok a jest sumą boków kilku kwadratów, a pionowy bok b również jest sumą boków innych kwadratów.\n\nNa przykład, jeśli a składa się z trzech kwadratów o boku x, to a = 3x. Jeśli b składa się z dwóch kwadratów o boku 2x, to b = 4x. Wtedy stosunek a : b = 3x : 4x = 3 : 4.\n\nSprawdzając opcje, widzę, że opcja C (4 : 3) nie pasuje, ale opcja D (3 : 2) również nie. Opcja B (5 : 4) i A (6 : 5) nie pasują do mojego przykładu. Muszę dokładniej przeanalizować układ.\n\nInnym podejściem jest założenie, że prostokąt jest podzielony na kwadraty w taki sposób, że boki a i b są wielokrotnościami wspólnego boku kwadratów. Na przykład, jeśli a = 5x i b = 4x, to stosunek a : b = 5 : 4, co odpowiada opcji B.\n\nPo dokładniejszej analizie rysunku (którego nie widzę, ale zakładam, że jest standardowy), najbardziej prawdopodobne jest, że stosunek a : b wynosi 5 : 4.\n\nOdpowiedź: <odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 23.22,
+    "raw": "Aby rozwiązać to zadanie, należy przeanalizować dane krok po kroku.\n\n1. **Trójkąt ADE jest prostokątny i równoramienny**, co oznacza, że obie przyprostokątne są równe. Oznaczmy długość przyprostokątnej ADE jako \\( x \\). Zatem \\( AD = AE = x \\).\n\n2. **Pole trójkąta ADE** jest podane jako 200 cm². Dla trójkąta prostokątnego pole oblicza się ze wzoru:\n   \\[\n   \\text{Pole} = \\frac{1}{2} \\times \\text{przyprostokątna}_1 \\times \\text{przyprostokątna}_2\n   \\]\n   Ponieważ trójkąt jest równoramienny, obie przyprostokątne są równe \\( x \\), więc:\n   \\[\n   200 = \\frac{1}{2} \\times x \\times x\n   \\]\n   \\[\n   200 = \\frac{1}{2} x^2\n   \\]\n   \\[\n   x^2 = 400\n   \\]\n   \\[\n   x = 20 \\text{ cm}\n   \\]\n   Zatem przyprostokątna trójkąta ADE jest równa 20 cm. **Zdanie 1 jest prawdziwe**.\n\n3. **Trójkąt ABC** jest prostokątny przy wierzchołku A. Przyprostokątną AC wydłużono o 7 cm, a AB o 12 cm, aby otrzymać trójkąt ADE. Oznaczmy długość przyprostokątnej AC w trójkącie ABC jako \\( a \\), a AB jako \\( b \\). W trójkącie ADE:\n   - \\( AD = AB + 12 = b + 12 \\)\n   - \\( AE = AC + 7 = a + 7 \\)\n   Ale wiemy, że \\( AD = AE = 20 \\) cm (z punktu 2). Zatem:\n   \\[\n   b + 12 = 20\n   \\]\n   \\[\n   b = 8 \\text{ cm}\n   \\]\n   \\[\n   a + 7 = 20\n   \\]\n   \\[\n   a = 13 \\text{ cm}\n   \\]\n   Pole trójkąta ABC oblicza się ze wzoru:\n   \\[\n   \\text{Pole} = \\frac{1}{2} \\times a \\times b = \\frac{1}{2} \\times 13 \\times 8 = 52 \\text{ cm}^2\n   \\]\n   **Zdanie 2 jest prawdziwe**.\n\n**Odpowiedź:** P1. Prawda zdania 1, P2. Prawda zdania 2.\n\n<odpowiedz>P1P2</odpowiedz>",
+    "odpowiedz": "P1P2"
+  },
+  {
+    "id": 15,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "czas_s": 24.01,
+    "raw": "Aby rozwiązać to zadanie, muszę najpierw zrozumieć, jakie są właściwości ostrosłupa prawidłowego czworokątnego. Ostrosłup prawidłowy czworokątny ma podstawę w kształcie kwadratu, a jego ściany boczne są trójkątami równoramiennymi.\n\nPole powierzchni całkowitej (P) ostrosłupa jest sumą pola podstawy (P_podstawy) i pola powierzchni bocznej (P_boczna). Wzór na pole powierzchni całkowitej ostrosłupa prawidłowego czworokątnego jest następujący:\n\\[ P = P_{\\text{podstawy}} + P_{\\text{boczna}} \\]\n\nWiemy, że jedna ściana boczna ma pole równe \\(\\frac{2}{9}P\\). Ponieważ ostrosłup ma cztery ściany boczne, całkowite pole powierzchni bocznej wynosi:\n\\[ P_{\\text{boczna}} = 4 \\times \\frac{2}{9}P = \\frac{8}{9}P \\]\n\nTeraz muszę znaleźć pole powierzchni podstawy. Pole powierzchni całkowitej jest równe:\n\\[ P = P_{\\text{podstawy}} + P_{\\text{boczna}} \\]\nPodstawiając znane wartości:\n\\[ P = P_{\\text{podstawy}} + \\frac{8}{9}P \\]\n\nAby znaleźć \\(P_{\\text{podstawy}}\\), przekształcam równanie:\n\\[ P_{\\text{podstawy}} = P - \\frac{8}{9}P = \\frac{1}{9}P \\]\n\nZadanie mówi, że pole powierzchni podstawy jest dwa razy większe niż pole powierzchni jednej ściany bocznej. Sprawdźmy to:\nPole jednej ściany bocznej to \\(\\frac{2}{9}P\\), więc dwa razy większe to:\n\\[ 2 \\times \\frac{2}{9}P = \\frac{4}{9}P \\]\n\nPorównując to z polem podstawy (\\(\\frac{1}{9}P\\)), widzę, że \\(\\frac{1}{9}P\\) jest mniejsze niż \\(\\frac{4}{9}P\\). Zatem pole powierzchni podstawy jest mniejsze niż pole powierzchni jednej ściany bocznej.\n\nOdpowiedź na pierwsze pytanie: Pole powierzchni bocznej jest równe \\(\\frac{8}{9}P\\), co odpowiada opcji B.\n\nOdpowiedź na drugie pytanie: Pole powierzchni podstawy jest mniejsze niż pole powierzchni jednej ściany bocznej, co odpowiada opcji C.\n\n<odpowiedz>BC</odpowiedz>",
+    "odpowiedz": "BC"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 21.77,
+    "raw": "Okej, zacznijmy od rozwiązania tego zadania krok po kroku.\n\nNajpierw, oznaczmy liczbę elementów w jednym zestawie puzzli jako \\( x \\).\n\nEla ułożyła \\( \\frac{2}{5} \\) swoich puzzli, więc ułożyła \\( \\frac{2}{5}x \\) elementów.\nAnia ułożyła \\( \\frac{1}{3} \\) swoich puzzli, więc ułożyła \\( \\frac{1}{3}x \\) elementów.\n\nRazem ułożyły 440 elementów, więc możemy zapisać równanie:\n\\[ \\frac{2}{5}x + \\frac{1}{3}x = 440 \\]\n\nAby rozwiązać to równanie, muszę znaleźć wspólny mianownik dla ułamków. Wspólny mianownik dla 5 i 3 to 15.\n\nPrzekształcam ułamki:\n\\[ \\frac{2}{5}x = \\frac{2 \\times 3}{5 \\times 3}x = \\frac{6}{15}x \\]\n\\[ \\frac{1}{3}x = \\frac{1 \\times 5}{3 \\times 5}x = \\frac{5}{15}x \\]\n\nTeraz równanie wygląda tak:\n\\[ \\frac{6}{15}x + \\frac{5}{15}x = 440 \\]\n\nDodaję ułamki:\n\\[ \\frac{6 + 5}{15}x = 440 \\]\n\\[ \\frac{11}{15}x = 440 \\]\n\nAby znaleźć \\( x \\), muszę pomnożyć obie strony równania przez odwrotność \\( \\frac{11}{15} \\), czyli przez \\( \\frac{15}{11} \\):\n\\[ x = 440 \\times \\frac{15}{11} \\]\n\nObliczam:\n\\[ 440 \\div 11 = 40 \\]\n\\[ 40 \\times 15 = 600 \\]\n\nSprawdzam wynik:\nJeśli \\( x = 600 \\), to Ela ułożyła \\( \\frac{2}{5} \\times 600 = 240 \\) elementów, a Ania \\( \\frac{1}{3} \\times 600 = 200 \\) elementów. Razem \\( 240 + 200 = 440 \\), co zgadza się z treścią zadania.\n\nZatem, jeden zestaw puzzli składa się z 600 elementów.\n\n<odpowiedz>Jeden zestaw puzzli składa się z 600 elementów.</odpowiedz>",
+    "odpowiedz": "Jeden zestaw puzzli składa się z 600 elementów."
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 25.43,
+    "raw": "Aby obliczyć pole trapezu ABCE, muszę najpierw zrozumieć dane z zadania. Mamy prostokąt ABCD, gdzie AD = 20 cm, a DE = 15 cm. Punkt E znajduje się na DC, więc DC = AD = 20 cm (bo to prostokąt), ale DE = 15 cm, więc EC = DC - DE = 20 cm - 15 cm = 5 cm.\n\nTeraz, trójkąt AED ma boki AD = 20 cm i DE = 15 cm. Ponieważ AD jest pionowe, a DE poziome, to trójkąt AED jest prostokątny przy wierzchołku D. Ale w zadaniu nie jest to bezpośrednio stwierdzone, więc muszę być ostrożny. Zakładam, że AED jest prostokątny, bo AD i DE są prostopadłe.\n\nPole trójkąta AED = (1/2) * AD * DE = (1/2) * 20 cm * 15 cm = 150 cm².\n\nTeraz, mamy trójkąt ACE z kątami α przy wierzchołkach A i C. Ponieważ to prostokąt, kąt przy A i C w trójkącie ACE jest taki sam, co sugeruje, że trójkąt ACE jest równoramienny.\n\nAby obliczyć pole trapezu ABCE, muszę znać wysokość trapezu. Ponieważ ABCE jest trapezem, a AB i CE są równoległe (bo ABCD jest prostokątem), to wysokość trapezu jest równa wysokości prostokąta, czyli AD = 20 cm.\n\nPole trapezu ABCE = (1/2) * (AB + CE) * wysokość.\n\nAB to bok prostokąta, więc AB = DC = 20 cm.\n\nCE = 5 cm, jak obliczyłem wcześniej.\n\nWysokość = AD = 20 cm.\n\nPole trapezu ABCE = (1/2) * (20 cm + 5 cm) * 20 cm = (1/2) * 25 cm * 20 cm = (1/2) * 500 cm² = 250 cm².\n\nSprawdzam, czy to ma sens. Pole całego prostokąta ABCD = AB * AD = 20 cm * 20 cm = 400 cm².\n\nPole trójkąta AED = 150 cm².\n\nPole trójkąta ACE: ponieważ kąty α są równe, i mamy boki, ale nie znamy wszystkich boków. Można to obliczyć, ale nie jest to konieczne, bo trapez ABCE to cały prostokąt minus trójkąty AED i ACE, ale to nie jest potrzebne, bo już mam pole trapezu.\n\nWięc pole trapezu ABCE = 250 cm².\n\n<odpowiedz>Pole trapezu ABCE wynosi 250 cm².</odpowiedz>",
+    "odpowiedz": "Pole trapezu ABCE wynosi 250 cm²."
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "czas_s": 32.77,
+    "raw": "Aby obliczyć, jaką kwotę otrzymał pan Jan ze sprzedaży wszystkich truskawek, muszę najpierw określić, ile kilogramów truskawek sprzedał w każdym rodzaju opakowania.\n\nWiem, że pan Jan sprzedał łącznie 120 kg truskawek.\n\n1. **Duże opakowania**: Połowa masy truskawek została sprzedana w dużych opakowaniach.\n   - Masa truskawek w dużych opakowaniach: \\( \\frac{1}{2} \\times 120 \\, \\text{kg} = 60 \\, \\text{kg} \\)\n\n2. **Średnie opakowania**: 10% masy truskawek została sprzedana w średnich opakowaniach.\n   - Masa truskawek w średnich opakowaniach: \\( 0,10 \\times 120 \\, \\text{kg} = 12 \\, \\text{kg} \\)\n\n3. **Małe opakowania**: Pozostałe truskawki zostały sprzedane w małych opakowaniach.\n   - Masa truskawek w małych opakowaniach: \\( 120 \\, \\text{kg} - 60 \\, \\text{kg} - 12 \\, \\text{kg} = 48 \\, \\text{kg} \\)\n\nTeraz muszę obliczyć, ile opakowań każdego rodzaju zostało sprzedanych, a następnie pomnożyć to przez cenę za opakowanie.\n\n**Duże opakowania**:\n- Masa w jednym opakowaniu: 1 kg\n- Liczba opakowań: \\( \\frac{60 \\, \\text{kg}}{1 \\, \\text{kg/opakowanie}} = 60 \\, \\text{opakowań} \\)\n- Cena za opakowanie: 18 zł\n- Przychód z dużych opakowań: \\( 60 \\, \\text{opakowań} \\times 18 \\, \\text{zł/opakowanie} = 1080 \\, \\text{zł} \\)\n\n**Średnie opakowania**:\n- Masa w jednym opakowaniu: 0,5 kg\n- Liczba opakowań: \\( \\frac{12 \\, \\text{kg}}{0,5 \\, \\text{kg/opakowanie}} = 24 \\, \\text{opakowania} \\)\n- Cena za opakowanie: 10 zł\n- Przychód ze średnich opakowań: \\( 24 \\, \\text{opakowania} \\times 10 \\, \\text{zł/opakowanie} = 240 \\, \\text{zł} \\)\n\n**Małe opakowania**:\n- Masa w jednym opakowaniu: 0,25 kg\n- Liczba opakowań: \\( \\frac{48 \\, \\text{kg}}{0,25 \\, \\text{kg/opakowanie}} = 192 \\, \\text{opakowania} \\)\n- Cena za opakowanie: 6 zł\n- Przychód z małych opakowań: \\( 192 \\, \\text{opakowania} \\times 6 \\, \\text{zł/opakowanie} = 1152 \\, \\text{zł} \\)\n\n**Całkowity przychód**:\n- Przychód z dużych opakowań: 1080 zł\n- Przychód ze średnich opakowań: 240 zł\n- Przychód z małych opakowań: 1152 zł\n- Całkowity przychód: \\( 1080 \\, \\text{zł} + 240 \\, \\text{zł} + 1152 \\, \\text{zł} = 2472 \\, \\text{zł} \\)\n\n<odpowiedz>Pan Jan otrzymał ze sprzedaży wszystkich truskawek kwotę 2472 zł.</odpowiedz>",
+    "odpowiedz": "Pan Jan otrzymał ze sprzedaży wszystkich truskawek kwotę 2472 zł."
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "czas_s": 23.43,
+    "raw": "Aby obliczyć różnicę wysokości obu wież, muszę najpierw zrozumieć, jak są zbudowane.\n\n**Dane:**\n- Krawędź sześcianu: 10 cm\n- Krawędź podstawy ostrosłupa: 9 cm\n- Objętość ostrosłupa: 324 cm³\n\n**Budowa wież:**\n- **I wieża:** Dwa sześciany (wysokość każdego: 10 cm) ustawione jeden na drugim, a na nich ostrosłup prawidłowy czworokątny.\n- **II wieża:** Dwa sześciany ustawione jeden na drugim.\n\n**Krok 1: Oblicz wysokość I wieży.**\nWysokość I wieży to suma wysokości dwóch sześcianów i wysokości ostrosłupa.\n\nNajpierw muszę obliczyć wysokość ostrosłupa. Wiem, że objętość ostrosłupa jest dana wzorem:\n\\[ V = \\frac{1}{3} \\times \\text{pole podstawy} \\times \\text{wysokość} \\]\n\nPole podstawy ostrosłupa (który jest czworokątem foremnym, czyli kwadratem) obliczam jako:\n\\[ \\text{pole podstawy} = \\text{krawędź podstawy}^2 = 9^2 = 81 \\, \\text{cm}^2 \\]\n\nPodstawiam do wzoru na objętość:\n\\[ 324 = \\frac{1}{3} \\times 81 \\times h \\]\n\\[ 324 = 27 \\times h \\]\n\\[ h = \\frac{324}{27} = 12 \\, \\text{cm} \\]\n\nWysokość ostrosłupa wynosi 12 cm.\n\nTeraz wysokość I wieży:\n- Dwa sześciany: \\( 2 \\times 10 = 20 \\, \\text{cm} \\)\n- Ostrosłup: 12 cm\n- Razem: \\( 20 + 12 = 32 \\, \\text{cm} \\)\n\n**Krok 2: Oblicz wysokość II wieży.**\nII wieża składa się tylko z dwóch sześcianów, więc jej wysokość to:\n\\[ 2 \\times 10 = 20 \\, \\text{cm} \\]\n\n**Krok 3: Oblicz różnicę wysokości.**\nRóżnica wysokości między I a II wieżą:\n\\[ 32 - 20 = 12 \\, \\text{cm} \\]\n\n**Wynik końcowy:**\nRóżnica wysokości obu wież wynosi 12 cm.\n\n<odpowiedz>Różnica wysokości obu wież wynosi 12 cm.</odpowiedz>",
+    "odpowiedz": "Różnica wysokości obu wież wynosi 12 cm."
+  }
+]
