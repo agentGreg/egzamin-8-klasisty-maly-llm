@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Ala codziennie uczyła się języka hiszpańskiego. Na diagramie przedstawiono, ile czasu przeznaczyła na naukę tego języka w kolejnych dniach tygodnia od poniedziałku do soboty.\n\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.\n\nZdanie 1: Ala przez cztery dni – od poniedziałku do czwartku – na naukę języka hiszpańskiego przeznaczyła łącznie 2 godziny i 10 minut.\nZdanie 2: Na naukę języka hiszpańskiego w sobotę Ala przeznaczyła o 40% czasu mniej niż w piątek.",
+    "opcje": {"P1": "Prawda zdania 1", "F1": "Fałsz zdania 1", "P2": "Prawda zdania 2", "F2": "Fałsz zdania 2"},
+    "obrazek": "",
+    "opis_obrazka": "Diagram słupkowy. Oś pionowa: czas w minutach (od 0 do 60, co 10). Oś pozioma: dni tygodnia od poniedziałku do soboty (pon., wt., śr., czw., pt., sob.). Dla każdego dnia jeden słupek pokazujący czas nauki.",
+    "podtyp": "PF_PF",
+    "odpowiedz": "PP"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Wypisano ułamki spełniające łącznie następujące warunki:\n• mianownik każdego z nich jest równy 4\n• licznik każdego z nich jest liczbą naturalną większą od mianownika\n• każdy z tych ułamków jest większy od liczby 3 oraz mniejszy od liczby 5.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nWszystkich ułamków spełniających powyższe warunki jest",
+    "opcje": {"A": "sześć.", "B": "siedem.", "C": "osiem.", "D": "dziewięć."},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Średnia arytmetyczna trzech liczb: 12, 14, k, jest równa 16.\n\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.\n\nZdanie 1: Liczba k jest równa 22.\nZdanie 2: Średnia arytmetyczna liczb: 12, 14, k, 11, 17, jest większa od 16.",
+    "opcje": {"P1": "Prawda zdania 1", "F1": "Fałsz zdania 1", "P2": "Prawda zdania 2", "F2": "Fałsz zdania 2"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "PF_PF",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dane są dwie liczby x i y zapisane za pomocą wyrażeń arytmetycznych:\nx = (4/5) · (−4/3)\ny = (4/5) + (−4/3)\n\nUzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.\n\nLiczba y jest liczbą [AB].\n  A. ujemną    B. dodatnią\n\nLiczba x jest [CD] od liczby y.\n  C. mniejsza    D. większa",
+    "opcje": {"A": "ujemną", "B": "dodatnią", "C": "mniejsza", "D": "większa"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "dwa_wybory",
+    "odpowiedz": "BD"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dany jest trapez ABCD, w którym bok AB jest równoległy do boku DC. W tym trapezie poprowadzono odcinek EC równoległy do boku AD, podano miary dwóch kątów oraz oznaczono kąt α (zobacz rysunek).\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nKąt α ma miarę",
+    "opcje": {"A": "55°", "B": "50°", "C": "45°", "D": "20°"},
+    "obrazek": "",
+    "opis_obrazka": "Trapez ABCD: A lewy dolny, B prawy dolny, C prawy górny, D lewy górny; AB równoległy do DC. Z wierzchołka C poprowadzono odcinek EC do punktu E na dolnej podstawie AB, równoległy do boku AD. Przy wierzchołku D zaznaczono kąt 135°, przy wierzchołku C kąt α, a przy punkcie E (między odcinkiem EC a odcinkiem EB) kąt 80°.",
+    "podtyp": "ABCD",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dane jest równanie\n5x = y/w, gdzie x, y, w są różne od 0.\n\nZadaniem Pawła było przekształcanie tego równania tak, aby wyznaczyć x, y, w. Paweł otrzymał trzy równania:\nI. x = y/(5w)\nII. y = 5x/w\nIII. w = y/(5x)\n\nKtóre z równań I–III są poprawnymi przekształceniami równania 5x = y/w? Wybierz właściwą odpowiedź spośród podanych.",
+    "opcje": {"A": "I i II", "B": "II i III", "C": "I i III", "D": "I, II, III"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Oceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.\n\nZdanie 1: Iloczyn 3 · 9^5 jest równy wartości wyrażenia 3^11.\nZdanie 2: Wyrażenie (2^8 · 2^7)/2^10 można zapisać w postaci 2^5.",
+    "opcje": {"P1": "Prawda zdania 1", "F1": "Fałsz zdania 1", "P2": "Prawda zdania 2", "F2": "Fałsz zdania 2"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "PF_PF",
+    "odpowiedz": "PP"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Karolina kupiła jedno pudełko balonów. W tabeli podano informacje dotyczące kolorów balonów oraz ich liczby w tym pudełku.\n\nKolor balonu: czerwony, niebieski, zielony, żółty\nLiczba balonów: 10, 8, 6, 8\n\nKarolina wyjmowała losowo po jednym balonie z pudełka. Pierwsze dwa wyjęte balony były w kolorze czerwonym.\n\nJakie jest prawdopodobieństwo, że trzeci balon losowo wyjęty przez Karolinę będzie w kolorze czerwonym? Wybierz właściwą odpowiedź spośród podanych.",
+    "opcje": {"A": "1/3", "B": "5/16", "C": "4/15", "D": "1/4"},
+    "obrazek": "",
+    "opis_obrazka": "Tabela: nagłówki kolorów (czerwony, niebieski, zielony, żółty) oraz wiersz z liczbą balonów (10, 8, 6, 8).",
+    "podtyp": "ABCD",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nWyrażenie x(x + 4) − 3(2x − 5) można przekształcić równoważnie do postaci",
+    "opcje": {"A": "x^2 + 2x − 5", "B": "x^2 − 2x + 5", "C": "x^2 + 2x − 15", "D": "x^2 − 2x + 15"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Podróż pociągiem z Olsztyna do Gdyni planowo trwa 2 godziny i 54 minuty. Pewnego dnia pociąg wyjechał z Olsztyna punktualnie o wyznaczonej godzinie, ale przyjechał do Gdyni z czterominutowym opóźnieniem o godzinie 17:31.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nPociąg wyjechał z Olsztyna o godzinie",
+    "opcje": {"A": "14:27", "B": "14:41", "C": "14:31", "D": "14:33"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "ABCD",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Na wykresie przedstawiono zależność pola pomalowanej powierzchni od ilości zużytej farby. Pole pomalowanej powierzchni jest wprost proporcjonalne do ilości zużytej farby.\n\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.\n\nZdanie 1: 18 litrów tej farby wystarczy na pomalowanie 180 m² powierzchni.\nZdanie 2: Na pomalowanie 125 m² powierzchni wystarczy 12 litrów tej farby.",
+    "opcje": {"P1": "Prawda zdania 1", "F1": "Fałsz zdania 1", "P2": "Prawda zdania 2", "F2": "Fałsz zdania 2"},
+    "obrazek": "",
+    "opis_obrazka": "Wykres zależności liniowej (prosta przechodząca przez początek układu). Oś pionowa: pole pomalowanej powierzchni w m² (od 0 do 200, co 50). Oś pozioma: ilość zużytej farby w litrach (od 0 do 20, co 5).",
+    "podtyp": "PF_PF",
+    "odpowiedz": "FP"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "W układzie współrzędnych (x, y) zaznaczono pięć punktów P1, P2, P3, P4 oraz P5 (zobacz rysunek). Wszystkie współrzędne tych punktów są liczbami całkowitymi. Punkt P1 ma współrzędne (−1, −2).\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nJeżeli współrzędną x punktu P1 zwiększymy o 4, a współrzędną y tego punktu zwiększymy o 3, to otrzymamy współrzędne punktu",
+    "opcje": {"A": "P2", "B": "P3", "C": "P4", "D": "P5"},
+    "obrazek": "",
+    "opis_obrazka": "Układ współrzędnych z pięcioma zaznaczonymi punktami kratowymi. W górnym rzędzie znajdują się punkty P5 (po lewej) i P4 (po prawej), w środkowym rzędzie P3 (po lewej) i P2 (po prawej), a poniżej osi P1 o współrzędnych (−1, −2).",
+    "podtyp": "ABCD",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Na rysunku przedstawiono prostokąt o bokach długości a i b podzielony na sześć kwadratów.\n\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n\nStosunek długości boków a : b tego prostokąta jest równy",
+    "opcje": {"A": "6 : 5", "B": "5 : 4", "C": "4 : 3", "D": "3 : 2"},
+    "obrazek": "",
+    "opis_obrazka": "Prostokąt o boku poziomym a i boku pionowym b, podzielony na sześć kwadratów (kwadraty różnej wielkości wpisane tak, że całkowicie wypełniają prostokąt).",
+    "podtyp": "ABCD",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "W trójkącie prostokątnym ABC przyprostokątną AC wydłużono o 7 cm, a przyprostokątną AB wydłużono o 12 cm i otrzymano trójkąt prostokątny równoramienny ADE o polu równym 200 cm² (zobacz rysunek).\n\nOceń prawdziwość podanych zdań. Wybierz P, jeśli zdanie jest prawdziwe, albo F – jeśli jest fałszywe.\n\nZdanie 1: Przyprostokątna trójkąta ADE jest równa 20 cm.\nZdanie 2: Pole trójkąta ABC jest równe 52 cm².",
+    "opcje": {"P1": "Prawda zdania 1", "F1": "Fałsz zdania 1", "P2": "Prawda zdania 2", "F2": "Fałsz zdania 2"},
+    "obrazek": "",
+    "opis_obrazka": "Trójkąt prostokątny równoramienny ADE z kątem prostym przy wierzchołku A. Punkt A w lewym dolnym rogu, przyprostokątna pozioma AD i przyprostokątna pionowa AE. Na przyprostokątnej pionowej zaznaczono punkt C tak, że odcinek CE ma długość 7 cm; na przyprostokątnej poziomej zaznaczono punkt B tak, że odcinek BD ma długość 12 cm. Trójkąt ABC (mniejszy, prostokątny przy A) jest wpisany wewnątrz trójkąta ADE.",
+    "podtyp": "PF_PF",
+    "odpowiedz": "PP"
+  },
+  {
+    "id": 15,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "tresc": "Dany jest ostrosłup prawidłowy czworokątny. Pole powierzchni całkowitej tej bryły jest równe P, a jedna ściana boczna ma pole równe (2/9)P.\n\nUzupełnij zdania. Wybierz odpowiedź spośród oznaczonych literami A i B oraz odpowiedź spośród oznaczonych literami C i D.\n\nPole powierzchni bocznej tego ostrosłupa jest równe [AB].\n  A. (6/9)P    B. (8/9)P\n\nPole powierzchni podstawy tego ostrosłupa jest dwa razy [CD] niż pole powierzchni jego jednej ściany bocznej.\n  C. mniejsze    D. większe",
+    "opcje": {"A": "(6/9)P", "B": "(8/9)P", "C": "mniejsze", "D": "większe"},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "dwa_wybory",
+    "odpowiedz": "AD"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "tresc": "Ela i Ania dostały w prezencie po jednym zestawie puzzli o takiej samej liczbie elementów. Ela ułożyła 2/5 swoich puzzli, a Ania 1/3 swoich. Dziewczynki ułożyły łącznie 440 elementów.\n\nOblicz, z ilu elementów składa się jeden zestaw puzzli. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "",
+    "opis_obrazka": "",
+    "podtyp": "obliczenia",
+    "odpowiedz": "600 elementów"
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "tresc": "Prostokąt ABCD podzielono na trzy trójkąty: AED, ACE, ABC (zobacz rysunek). Na rysunku podano również długości dwóch boków trójkąta AED oraz zaznaczono dwa kąty trójkąta ACE, o takiej samej mierze α.\n\nOblicz pole trapezu ABCE. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "",
+    "opis_obrazka": "Prostokąt ABCD: A lewy dolny, B prawy dolny, C prawy górny, D lewy górny. Na górnym boku DC zaznaczono punkt E, dla którego odcinek DE ma długość 15 cm. Bok AD (lewy, pionowy) ma długość 20 cm. Poprowadzono odcinki AE oraz AC, dzielące prostokąt na trójkąty AED, ACE i ABC. Kąt α zaznaczono przy wierzchołku A (w trójkącie ACE) oraz przy wierzchołku C.",
+    "podtyp": "obliczenia",
+    "odpowiedz": "650 cm²"
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "tresc": "Pan Jan sprzedał w swoim sklepie 120 kg truskawek. Połowę masy tych truskawek sprzedał w dużych opakowaniach, 10% masy truskawek – w średnich, a pozostałe truskawki w małych opakowaniach. W tabeli podano informacje dotyczące sprzedaży truskawek w sklepie pana Jana.\n\nSKLEP U JANA\nRodzaj opakowania | Masa truskawek w opakowaniu | Cena opakowania z truskawkami\nduże | 1 kg | 18 zł\nśrednie | 0,5 kg | 10 zł\nmałe | 0,25 kg | 6 zł\n\nOblicz, jaką kwotę otrzymał pan Jan ze sprzedaży wszystkich truskawek. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "",
+    "opis_obrazka": "Tabela 'SKLEP U JANA' z trzema wierszami (duże, średnie, małe) i dwiema kolumnami danych: masa truskawek w opakowaniu (1 kg, 0,5 kg, 0,25 kg) oraz cena opakowania z truskawkami (18 zł, 10 zł, 6 zł).",
+    "podtyp": "obliczenia",
+    "odpowiedz": "2472 zł"
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "tresc": "Z trzech jednakowych klocków w kształcie sześcianu i jednego klocka w kształcie ostrosłupa prawidłowego czworokątnego zbudowano dwie wieże (zobacz rysunek). Krawędź sześcianu ma długość 10 cm. Krawędź podstawy ostrosłupa prawidłowego czworokątnego ma długość 9 cm, a jego objętość jest równa 324 cm³.\n\nOblicz różnicę wysokości obu wież. Zapisz obliczenia.",
+    "opcje": {},
+    "obrazek": "",
+    "opis_obrazka": "Dwie wieże zbudowane z klocków. I wieża: dwa sześciany (krawędź 10 cm) ustawione jeden na drugim, a na nich ostrosłup prawidłowy czworokątny (krawędź podstawy 9 cm). II wieża: dwa sześciany (krawędź 10 cm) ustawione jeden na drugim.",
+    "podtyp": "obliczenia",
+    "odpowiedz": "2 cm"
+  }
+]
