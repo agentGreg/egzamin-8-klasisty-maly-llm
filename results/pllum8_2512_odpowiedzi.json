@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 2.81,
+    "tokens": 158,
+    "tokens_per_s": 56.2,
+    "raw": "W teście z matematyki jest 40 zadań, a suma udziałów procentowych działów wynosi 100%. Aby obliczyć liczbę zadań z arytmetyki, należy wykonać następujące obliczenia:\n\n$$\n\\text{Liczba zadań z arytmetyki} = 40 \\times \\frac{100\\% - 20\\% - 25\\% - 15\\% - 5\\%}{100\\%} = 40 \\times \\frac{35\\%}{100\\%} = 40 \\times \\frac{7}{10} = 28\n$$\n\nOdpowiedź: C. 28",
+    "odpowiedz": ""
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 1.41,
+    "tokens": 79,
+    "tokens_per_s": 56.2,
+    "raw": "Największym wspólnym dzielnikiem liczb 18 i 27 jest 9, a najmniejszą wspólną wielokrotnością liczb 2 i 4 jest 8. Zatem kod do otwarcia szafki Oli to 9833.\n\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.94,
+    "tokens": 49,
+    "tokens_per_s": 52.4,
+    "raw": "<odpowiedz>C</odpowiedz>\n\nWartość y wynosi 0, ponieważ √(25 − 16) = √9 = 3, a 3 − 3 = 0.",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.92,
+    "tokens": 48,
+    "tokens_per_s": 52.0,
+    "raw": "Wartość wyrażenia 2^5 · 3 · 3^4 · 2^3 jest równa wartości wyrażenia\n\n<odpowiedz>AC</odpowiedz>",
+    "odpowiedz": "AC"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.66,
+    "tokens": 30,
+    "tokens_per_s": 45.3,
+    "raw": "Poprawna odpowiedź to: <odpowiedz>0,4x + 0,2y</odpowiedz>",
+    "odpowiedz": "0,4x + 0,2y"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.44,
+    "tokens": 15,
+    "tokens_per_s": 33.9,
+    "raw": "<odpowiedz>ABCD</odpowiedz>",
+    "odpowiedz": "ABCD"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 4.97,
+    "tokens": 304,
+    "tokens_per_s": 61.2,
+    "raw": "W każdym koszu jest 6 jabłek więcej niż pomarańczy, więc jeśli jest 400 owoców, to 400 - 6 = <<400-6=394>>394 pomarańcze. W każdym koszu jest 6 + 394 = <<6+394=400>>400 owoców. Ponieważ w każdym koszu jest 400 owoców, to w 10 koszach jest 10 x 400 = <<10*400=4000>>4000 owoców. Ponieważ w każdym koszu jest 6 jabłek więcej niż pomarańczy, to w 10 koszach jest 10 x 6 = <<10*6=60>>60 jabłek więcej niż pomarańczy. W 10 koszach jest 4000 - 60 = <<4000-60=3940>>3940 pomarańczy. W 10 koszach jest 3940 + 60 = <<3940+60=4000>>4000 owoców. W 10 koszach jest 4000 - 3940 = <<4000-3940=60>>60 jabłek. Łącznie w 10 koszach jest 60 x 10 = <<60*10=600>>600 jabłek. \n\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.45,
+    "tokens": 15,
+    "tokens_per_s": 33.2,
+    "raw": "<odpowiedz>ABCD</odpowiedz>",
+    "odpowiedz": "ABCD"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.53,
+    "tokens": 23,
+    "tokens_per_s": 43.1,
+    "raw": "Liczba z jest równa 1. <odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.44,
+    "tokens": 16,
+    "tokens_per_s": 36.4,
+    "raw": "<odpowiedz>P1F2</odpowiedz>",
+    "odpowiedz": "P1F2"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.52,
+    "tokens": 22,
+    "tokens_per_s": 42.4,
+    "raw": "Miara kąta β jest równa <odpowiedz>C</odpowiedz>.",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.49,
+    "tokens": 16,
+    "tokens_per_s": 32.5,
+    "raw": "<odpowiedz>P1F2</odpowiedz>",
+    "odpowiedz": "P1F2"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.6,
+    "tokens": 25,
+    "tokens_per_s": 41.7,
+    "raw": "Pole kwadratu ABCD jest równe <odpowiedz>64</odpowiedz>.",
+    "odpowiedz": "64"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.85,
+    "tokens": 42,
+    "tokens_per_s": 49.5,
+    "raw": "Pole powierzchni całkowitej otrzymanego prostopadłościanu jest równe <odpowiedz>400</odpowiedz>.",
+    "odpowiedz": "400"
+  },
+  {
+    "id": 15,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "ma_obrazek": false,
+    "czas_s": 2.3,
+    "tokens": 139,
+    "tokens_per_s": 60.3,
+    "raw": "Liczba kartek czerwonych to 37-1,5*37=<<37-1,5*37=20,5>>20,5\nLiczba kartek zielonych to 37-10-20,5=<<37-10-20,5=6,5>>6,5\nLiczba kartek niebieskich to 1,5*37=<<1,5*37=55>>55\nEla przygotowała 55 kartek niebieskich.\n<odpowiedz>Ela przygotowała 55 kartek niebieskich.</odpowiedz>",
+    "odpowiedz": "Ela przygotowała 55 kartek niebieskich."
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": false,
+    "czas_s": 4.16,
+    "tokens": 257,
+    "tokens_per_s": 61.7,
+    "raw": "Droga z Jodłowa do Dębiny ma długość 123 km - 48 km = <<123-48=75>>75 km.\n\nSamochód przejechał drogę z Polanki do Jodłowa w czasie 40 minut, czyli 40 minut / 60 minut = <<40/60=0,67>>0,67 godziny.\n\nDlatego przejazd z Jodłowa do Dębiny trwał dłużej niż godzinę, ponieważ 0,67 godziny to mniej niż 1 godzina, a droga z Jodłowa do Dębiny jest dłuższa.\n\nWYNIK KOŃCOWY: Przejazd samochodu z Jodłowa do Dębiny trwał dłużej niż godzinę, ponieważ droga z Polanki do Jodłowa ma długość 48 km i samochód przejechał ją w czasie 40 minut, a droga z Jodłowa do Dębiny ma długość 75 km.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": true,
+    "czas_s": 3.68,
+    "tokens": 223,
+    "tokens_per_s": 60.6,
+    "raw": "Liczba dziewcząt w turnieju tenisa stołowego to 65 + 15 - 8 = 72 dziewczyny.\n\nLiczba chłopców w turnieju tenisa stołowego to 34.\n\nŁączna liczba uczestników turnieju tenisa stołowego to 72 + 34 = <<72+34=106>>106.\n\nLiczba wszystkich uczestników Dnia Sportu to 15 + 46 + 65 + 16 + 34 = <<15+46+65+16+34=176>>176.\n\nLiczba dzieci, które brały udział w turnieju tenisa stołowego, stanowi 106/176 = 0,6 = 60% wszystkich uczestników Dnia Sportu.\n\nWYNIK KOŃCOWY: Liczba dzieci, które brały udział w turnieju tenisa stołowego, stanowi 60% wszystkich uczestników Dnia Sportu.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "ma_obrazek": true,
+    "czas_s": 11.06,
+    "tokens": 682,
+    "tokens_per_s": 61.6,
+    "raw": "Poniżej rozwiązanie zadania:\n\n1. Obliczamy objętość sześcianu ABCDEFGH:\n$$\n\\text{objętość} = a^3\n$$\n$$\n\\text{objętość} = 3 \\times \\text{pole} \\times a\n$$\n$$\n\\text{pole} = a^2\n$$\n$$\n\\text{objętość} = 3 \\times a^2 \\times a\n$$\n$$\n\\text{objętość} = 3 \\times a^3\n$$\n$$\n\\text{objętość} = 3 \\times 8 = 24\n$$\n\n2. Obliczamy objętość ostrosłupa ACDS:\n$$\n\\text{objętość} = \\frac{1}{3} \\times \\text{pole podstawy} \\times \\text{wysokość}\n$$\n$$\n\\text{pole podstawy} = \\frac{1}{2} \\times \\text{długość boku} \\times \\text{długość przeciwległego boku}\n$$\n$$\n\\text{pole podstawy} = \\frac{1}{2} \\times a \\times a = \\frac{1}{2} \\times a^2\n$$\n$$\n\\text{pole podstawy} = \\frac{1}{2} \\times 8 = 4\n$$\n$$\n\\text{wysokość} = \\text{długość krawędzi ostrosłupa} = a\n$$\n$$\n\\text{objętość} = \\frac{1}{3} \\times 4 \\times a = \\frac{4}{3} \\times a\n$$\n$$\n\\text{objętość} = \\frac{4}{3} \\times 8 = \\frac{32}{3} = 10 \\frac{2}{3}\n$$\n\n3. Obliczamy, ile razy objętość ostrosłupa ACDS jest mniejsza od objętości sześcianu ABCDEFGH:\n$$\n\\frac{\\text{objętość ostrosłupa}}{\\text{objętość sześcianu}} = \\frac{10 \\frac{2}{3}}{24} = \\frac{10 \\frac{2}{3}}{3 \\times 8} = \\frac{10 \\frac{2}{3}}{24} = \\frac{10 \\frac{2}{3}}{10} = \\frac{2}{3}\n$$\n\n4. Wynik:\n$$\n\\text{objętość ostrosłupa ACDS jest mniejsza od objętości sześcianu ABCDEFGH o 2/3}\n$$\n\n<odpowiedz>Objętość ostrosłupa ACDS jest mniejsza od objętości sześcianu ABCDEFGH o 2/3.</odpowiedz>",
+    "odpowiedz": "Objętość ostrosłupa ACDS jest mniejsza od objętości sześcianu ABCDEFGH o 2/3."
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": false,
+    "czas_s": 9.28,
+    "tokens": 575,
+    "tokens_per_s": 62.0,
+    "raw": "Pani Anna chce zmienić swój ogródek w łąkę kwietną. Ogródek ma kształt trapezu, którego podstawy mają długości 18 m i 12 m, a wysokość jest równa 9 m. Aby obliczyć powierzchnię ogródka, należy obliczyć długość jego obwodu. Obwód trapezu oblicza się według wzoru: obwód = (a + b) + 2h, gdzie a i b to długości podstaw, a h to wysokość trapezu. W tym przypadku:\n\n$$\\text{obwód} = (18 \\text{ m} + 12 \\text{ m}) + 2 \\times 9 \\text{ m} = 30 \\text{ m} + 18 \\text{ m} = 48 \\text{ m}$$\n\nPowierzchnię ogródka obliczamy, mnożąc długość obwodu przez wysokość trapezu:\n\n$$\\text{powierzchnia} = 48 \\text{ m} \\times 9 \\text{ m} = 432 \\text{ m}^2$$\n\nJedno opakowanie z nasionami wystarcza na obsianie 25 m^2 powierzchni i kosztuje 23,80 zł. Aby obliczyć, ile złotych musi zapłacić pani Anna za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka, należy podzielić powierzchnię ogródka przez powierzchnię jednego opakowania i pomnożyć przez koszt jednego opakowania:\n\n$$\\frac{432 \\text{ m}^2}{25 \\text{ m}^2} = 17,28 \\text{ opakowań}$$\n\n$$17,28 \\text{ opakowań} \\times 23,80 \\text{ zł} = 410,88 \\text{ zł}$$\n\nPani Anna musi zapłacić 410,88 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka.\n\n<odpowiedz>Pani Anna musi zapłacić 410,88 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka.</odpowiedz>",
+    "odpowiedz": "Pani Anna musi zapłacić 410,88 zł za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka."
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": true,
+    "czas_s": 4.97,
+    "tokens": 298,
+    "tokens_per_s": 60.0,
+    "raw": "Aby obliczyć obwód równoległoboku KLMN, należy najpierw obliczyć długości jego boków. Równoległobok KLMN powstał z prostokąta ABCD o bokach 3 i 9 przez odcięcie trójkąta prostokątnego równoramiennego przy jednym z krótszych boków (3) i doklejenie go po przeciwnej stronie. Oznacza to, że:\n\n   - bok KL równy jest 3 + 3 = 6,\n   - bok LM równy jest 9 - 3 = 6,\n   - bok KN równy jest 3,\n   - bok NM równy jest 9.\n\nObwód równoległoboku KLMN obliczamy według wzoru:\n\n$$Obwód = a + b + c + d$$\n\ngdzie \\(a\\), \\(b\\), \\(c\\), \\(d\\) to długości boków równoległoboku.\n\n$$Obwód = 6 + 6 + 3 + 9 = 24$$\n\n**WYNIK KOŃCOWY:** Obwód równoległoboku KLMN wynosi 24 jednostki.",
+    "odpowiedz": ""
+  }
+]

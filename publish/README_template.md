@@ -71,7 +71,7 @@ Bielik-Minitron 7B został przetestowany na oficjalnym arkuszu CKE z **egzaminu 
 | 7 | Llama-PLLuM 8B | 3/30 (10%) |
 | 7 | PLLuM 12B | 3/30 (10%) |
 
-Pełna metodyka, kod, klucz odpowiedzi i analiza per-zadaniowa: [github.com/matfiz/egzamin-8-klasisty-maly-llm](https://github.com/matfiz/egzamin-8-klasisty-maly-llm)
+Pełna metodyka, kod, klucz odpowiedzi i analiza per-zadaniowa: [github.com/agentGreg/egzamin-8-klasisty-maly-llm](https://github.com/agentGreg/egzamin-8-klasisty-maly-llm)
 
 ## Atrybucja
 
@@ -99,4 +99,4 @@ Jeśli używasz tego modelu w pracy naukowej lub komercyjnej, cytuj oryginalny p
 
 ---
 
-*Wagi MLX przygotowane w ramach benchmarku [Egzamin ósmoklasisty z matematyki 2026 — benchmark małych LLM-ów](https://github.com/matfiz/egzamin-8-klasisty-maly-llm) by [Prosit AS](https://prosit.no).*
+*Wagi MLX przygotowane w ramach benchmarku [Egzamin ósmoklasisty z matematyki 2026 — benchmark małych LLM-ów](https://github.com/agentGreg/egzamin-8-klasisty-maly-llm) by [Prosit AS](https://prosit.no).*

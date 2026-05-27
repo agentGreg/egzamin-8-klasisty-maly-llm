@@ -38,6 +38,10 @@ MODELE: list[tuple[str, Path]] = [
     ("bielik_minitron", ROOT / "results" / "bielik_minitron_odpowiedzi.json"),
     ("pllum", ROOT / "results" / "pllum_odpowiedzi.json"),
     ("pllum12", ROOT / "results" / "pllum12_odpowiedzi.json"),
+    # nowa generacja 2512 (CYFRAGOVPL) — dopisywane przez 04e/04f/04g
+    ("llama_pllum8_2512", ROOT / "results" / "pllum8_2512_odpowiedzi.json"),
+    ("pllum12_2512", ROOT / "results" / "pllum12_2512_odpowiedzi.json"),
+    ("pllum4_2512", ROOT / "results" / "pllum4_2512_odpowiedzi.json"),
 ]
 
 SEDZIA = "claude-opus-4-7"
@@ -50,7 +54,11 @@ def normalize(s: str) -> str:
 def wylusk_zamkniete(raw: str, odp: str) -> str:
     """Wyłuska odpowiedź A/B/C/D (lub kombo AC/BD/PF) z tekstu.
 
-    Preferencje: pole odpowiedz → \\boxed{} → "Odpowiedź: X" / **X**
+    Celowo hojny: poza polem odpowiedz → \\boxed{} → "Odpowiedź: X" / **X" łapie też
+    format GSM8K (`#### X`) oraz odpowiedzi opisowe ("D. 0,6x+0,8y"), które niektóre
+    modele (PLLuM) zwracają, ignorując instrukcję <odpowiedz>. Zwalidowane na 8 modelach
+    (2026-05-27): monotoniczny — żaden model nie traci punktów; jedyny realny zysk to
+    PLLuM-12B zad. 5. Niski wynik PLLuM (3-4/30) NIE jest artefaktem parsowania.
     """
     if odp and re.fullmatch(r"[A-DPF]{1,2}", odp.strip().upper()):
         return odp.strip().upper()
@@ -70,6 +78,18 @@ def wylusk_zamkniete(raw: str, odp: str) -> str:
         m = re.search(pat, raw, re.I | re.M)
         if m:
             return m.group(1).upper()
+
+    # Hojne fallbacki — gdy model olał format <odpowiedz> (np. styl GSM8K).
+    for pat in [
+        r"####\s*([A-DPF]{1,2})\b",
+        r"(?:odpowied[zź]\s*to|wynik|final\w*)\s*[:\-]?\s*\**\s*([A-DPF]{1,2})\b",
+    ]:
+        m = re.search(pat, raw, re.I)
+        if m:
+            return m.group(1).upper()
+    enum = re.findall(r"(?m)^\s*([A-DPF]{1,2})[.):]", raw)  # ostatnia linia typu "D. ..."
+    if enum:
+        return enum[-1].upper()
 
     return (odp or "").strip().upper()
 
@@ -104,11 +124,16 @@ def main() -> None:
     zadania = {z["id"]: z for z in json.loads(ZADANIA.read_text(encoding="utf-8"))}
     klucz = {k["id"]: k for k in json.loads(KLUCZ.read_text(encoding="utf-8"))}
 
-    # załaduj wszystkie modele
+    # pomiń modele bez pliku wyników (np. nieukończona konwersja MLX)
+    global MODELE
+    brakujace = [n for n, s in MODELE if not s.exists()]
+    if brakujace:
+        print(f"Pomijam (brak pliku wyników): {', '.join(brakujace)}")
+    MODELE = [(n, s) for n, s in MODELE if s.exists()]
+
+    # załaduj dostępne modele
     odpowiedzi: dict[str, dict[int, dict]] = {}
     for nazwa, sciezka in MODELE:
-        if not sciezka.exists():
-            sys.exit(f"Brak pliku: {sciezka}")
         odpowiedzi[nazwa] = {r["id"]: r for r in json.loads(sciezka.read_text(encoding="utf-8"))}
 
     client = Anthropic()

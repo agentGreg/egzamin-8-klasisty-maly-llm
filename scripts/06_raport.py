@@ -26,11 +26,20 @@ MODELE = [
     ("gemma4_text", "Gemma 4 E4B IT (4-bit, text-only)", "Gemma4T", ROOT / "results" / "gemma4_text_odpowiedzi.json"),
     ("gemma4_mm", "Gemma 4 E4B IT (4-bit, multimodal)", "Gemma4MM", ROOT / "results" / "gemma4_mm_odpowiedzi.json"),
     ("gemma", "Gemma 3 4B IT (4-bit, multimodal)", "Gemma3MM", ROOT / "results" / "gemma_odpowiedzi.json"),
+    # nowa generacja PLLuM 2512 (CYFRAGOVPL)
+    ("pllum4_2512", "PLLuM 4B Instruct 2512 (Gemma3, 8-bit, text-only)", "PLLuM4·25", ROOT / "results" / "pllum4_2512_odpowiedzi.json"),
+    ("llama_pllum8_2512", "Llama-PLLuM 8B Instruct 2512 (8-bit, text-only)", "PLLuM8·25", ROOT / "results" / "pllum8_2512_odpowiedzi.json"),
+    ("pllum12_2512", "PLLuM 12B Instruct 2512 (8-bit, text-only)", "PLLuM12·25", ROOT / "results" / "pllum12_2512_odpowiedzi.json"),
 ]
 
 
 def main() -> None:
     data = json.loads(OCENA.read_text(encoding="utf-8"))
+
+    # uwzględnij tylko modele obecne w ocenie i z istniejącym plikiem (np. konwersja mogła paść)
+    global MODELE
+    MODELE = [m for m in MODELE if m[0] in data and m[3].exists()]
+
     raw_per_model = {
         nazwa: {r["id"]: r for r in json.loads(p.read_text(encoding="utf-8"))}
         for nazwa, _, _, p in MODELE
@@ -95,7 +104,7 @@ def main() -> None:
     # ===== Raport =====
     raport_md = f"""# Raport — Egzamin Ósmoklasisty z Matematyki, 12 maja 2026
 
-Benchmark ośmiu konfiguracji modeli ~4-12B parametrów uruchamianych lokalnie przez MLX na Apple Silicon.
+Benchmark {len(sorted_models)} konfiguracji modeli ~4-12B parametrów uruchamianych lokalnie przez MLX na Apple Silicon.
 
 ## Wyniki
 
@@ -121,7 +130,7 @@ Format komórek: `odpowiedź (zdobyte_pkt)`. Dla zadań otwartych pole odpowiedz
 - **Wszystkie text-only**: identyczny pipeline — system prompt PL, treść zadania + tekstowy opis rysunku (jeśli dotyczy) + opcje, temperatura 0, max 1500 tokenów.
 - **Gemma 3 multimodal**: ten sam model co Gemma 3 text-only, ale z przekazaniem obrazka PNG.
 - **Ocena zadań otwartych**: Claude Opus 4.7 wg kryteriów CKE (pełna metoda + wynik, błąd rachunkowy, brak postępu).
-- **Parser odpowiedzi**: preferuje `<odpowiedz>` → `\\boxed{{}}` → ostatnie „Odpowiedź: X" → fallback regex.
+- **Parser odpowiedzi (celowo hojny)**: `<odpowiedz>` → `\\boxed{{}}` → „Odpowiedź: X" → format GSM8K `#### X` → odpowiedź opisowa „D. ...". PLLuM ignoruje tag `<odpowiedz>` i liczy free-form (styl GSM8K), więc hojny parser jest wobec niego maksymalnie fair — a i tak osiąga 3–4/30. Niski wynik PLLuM **nie jest artefaktem parsowania**.
 
 ## Uruchamiane modele
 
@@ -131,6 +140,12 @@ Format komórek: `odpowiedź (zdobyte_pkt)`. Dla zadań otwartych pole odpowiedz
 - **PLLuM 12B Instruct** (CYFRAGOVPL): natywny dense PLLuM 12B (nie Llama-based, bazuje na Mistral wg tokenizera), MLX Q6 z `lukagra/PLLuM-12B-instruct-Q6-mlx`.
 - **Gemma 3 4B IT** (Google): 4-bit MLX, w dwóch wariantach — multimodalnym (`mlx-vlm`, z obrazkami) i text-only (`mlx-lm`, z opisami).
 - **Gemma 4 E4B IT** (Google): nowsza edycja edge, 4-bit MLX, uruchomiona text-only przez `mlx-vlm` bez przekazywania obrazków.
+
+### Nowa generacja PLLuM 2512 (grudzień 2025)
+
+- **Llama-PLLuM 8B Instruct 2512** (CYFRAGOVPL): następca 8B z 2412, `LlamaForCausalLM`, 8-bit MLX po lokalnej konwersji.
+- **PLLuM 12B Instruct 2512** (CYFRAGOVPL): następca natywnego 12B, `MistralForCausalLM`, 8-bit MLX po lokalnej konwersji.
+- **PLLuM 4B Instruct 2512** (CYFRAGOVPL): nowy najmniejszy wariant — architektonicznie `Gemma3ForConditionalGeneration`, czyli **zbudowany na Gemmie 3 4B Google'a** + polski post-training. **Nie udało się uruchomić na pipelinie MLX** i pominięto w tabeli: `mlx-vlm` odpada na braku procesora obrazu (repo wydane jako text-only, bez `preprocessor_config.json`), a `mlx-lm` na niezgodności rozmiaru embeddingu w implementacji `gemma3` (oczekuje 262208, wagi mają 262147). Architektura potwierdzona z `config.json`.
 """
     RAPORT.parent.mkdir(parents=True, exist_ok=True)
     RAPORT.write_text(raport_md, encoding="utf-8")

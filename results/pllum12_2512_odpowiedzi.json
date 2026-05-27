@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.69,
+    "tokens": 12,
+    "tokens_per_s": 17.5,
+    "raw": "<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.66,
+    "tokens": 12,
+    "tokens_per_s": 18.2,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.55,
+    "tokens": 12,
+    "tokens_per_s": 22.0,
+    "raw": "<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.55,
+    "tokens": 12,
+    "tokens_per_s": 21.8,
+    "raw": "<odpowiedz>B</odpowiedz>",
+    "odpowiedz": "B"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.58,
+    "tokens": 12,
+    "tokens_per_s": 20.9,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.82,
+    "tokens": 22,
+    "tokens_per_s": 26.8,
+    "raw": "<odpowiedz>AB</odpowiedz><odpowiedz>CD</odpowiedz>",
+    "odpowiedz": "AB"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.54,
+    "tokens": 12,
+    "tokens_per_s": 22.0,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.87,
+    "tokens": 23,
+    "tokens_per_s": 26.3,
+    "raw": "<odpowiedz>AB</odpowiedz>\n<odpowiedz>CD</odpowiedz>",
+    "odpowiedz": "AB"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.52,
+    "tokens": 12,
+    "tokens_per_s": 22.9,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.56,
+    "tokens": 12,
+    "tokens_per_s": 21.6,
+    "raw": "<odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 0.55,
+    "tokens": 12,
+    "tokens_per_s": 21.9,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.64,
+    "tokens": 12,
+    "tokens_per_s": 18.8,
+    "raw": "<odpowiedz>PF</odpowiedz>",
+    "odpowiedz": "PF"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.59,
+    "tokens": 12,
+    "tokens_per_s": 20.4,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.58,
+    "tokens": 12,
+    "tokens_per_s": 20.7,
+    "raw": "<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 15,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "ma_obrazek": false,
+    "czas_s": 37.71,
+    "tokens": 1501,
+    "tokens_per_s": 39.8,
+    "raw": "Oto obliczenia, które pozwolą odpowiedzieć na pytanie:\n\n1. Najpierw obliczamy, ile kartek czerwonych przygotowała Ela, ponieważ od liczby kartek czerwonych zależy liczba kartek niebieskich.\n\n$$ 37 \\text{ kartek białych} = 0,25 \\times 160 \\text{ kartek} $$\n\n$$ 37 \\div 0,25 = 148 $$\n\n$$ 148 \\text{ kartek} - 37 \\text{ kartek białych} = 111 \\text{ kartek} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek białych} $$\n\n$$ 111 \\text{ kartek} = 148 \\text{ kartek} - 37 \\text{ kartek",
+    "odpowiedz": ""
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": false,
+    "czas_s": 7.06,
+    "tokens": 272,
+    "tokens_per_s": 38.5,
+    "raw": "Samochód przejechał drogę z Polanki do Jodłowa w czasie 40 minut, czyli 0,66 godziny (40 minut to 40/60 godziny, a 1 godzina to 60 minut).\n\nPrędkość samochodu na drodze z Jodłowa do Dębiny była taka sama, jak na drodze z Polanki do Jodłowa, a długość tej drogi wynosiła 75 km (123 km - 48 km).\n\nCzas przejazdu samochodu z Jodłowa do Dębiny wynosił 114 minut (75 km / 0,66 godziny = 114 minut).\n\n114 minut to 1,73 godziny (114 minut to 114/60 godziny, a 1 godzina to 60 minut).\n\nPrzejazd samochodu z Jodłowa do Dębiny trwał dłużej niż godzinę.\n\nWYNIK KOŃCOWY: Przejazd samochodu z Jodłowa do Dębiny trwał 1,73 godziny.",
+    "odpowiedz": ""
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": true,
+    "czas_s": 7.3,
+    "tokens": 279,
+    "tokens_per_s": 38.2,
+    "raw": "Łączna liczba dziewcząt uczestniczących w Dniu Sportu wynosi 15 + 65 + 30 = <<15+65+30=100>>100.\nŁączna liczba chłopców uczestniczących w Dniu Sportu wynosi 46 + 16 + 34 = <<46+16+34=96>>96.\nRóżnica między liczbą dziewcząt a liczbą chłopców wynosi 100 - 96 = <<100-96=4>>4.\nLiczba wszystkich uczestników Dnia Sportu wynosi 100 + 96 = <<100+96=196>>196.\nLiczba dzieci biorących udział w turnieju tenisa stołowego wynosi 30.\nProcent dzieci biorących udział w turnieju tenisa stołowego wynosi 30/196 * 100% = 15,25%.\n#### WYNIK KOŃCOWY\n<odpowiedz>Liczba dzieci biorących udział w turnieju tenisa stołowego stanowi 15,25% liczby wszystkich uczestników Dnia Sportu.</odpowiedz>",
+    "odpowiedz": "Liczba dzieci biorących udział w turnieju tenisa stołowego stanowi 15,25% liczby wszystkich uczestników Dnia Sportu."
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "ma_obrazek": true,
+    "czas_s": 10.1,
+    "tokens": 396,
+    "tokens_per_s": 39.2,
+    "raw": "Oto rozwiązanie zadania krok po kroku:\n\n1. **Objętość sześcianu**  \n   Sześcian ma krawędzie długości \\( a \\). Jego objętość obliczamy wzorem:  \n   [\n   V = a^3\n   ]  \n   [\n   V = 1 \\cdot 1 \\cdot 1 = 1 \\text{ jednostka}^3\n   ]  \n\n2. **Objętość ostrosłupa**  \n   Ostrosłup ma podstawę trójkątną o długościach krawędzi \\( a \\), \\( a \\) i \\( a \\). Wysokość ostrosłupa to \\( \\frac{a}{2} \\).  \n   [\n   V = \\frac{1}{3} \\cdot a \\cdot a \\cdot \\frac{a}{2} = \\frac{a^3}{6}\n   ]  \n\n3. **Porównanie objętości**  \n   [\n   \\frac{V_{\\text{ostrosłup}}}{V_{\\text{sześcian}}} = \\frac{\\frac{a^3}{6}}{a^3} = \\frac{1}{6}\n   ]  \n   Zatem objętość ostrosłupa jest **6 razy mniejsza** od objętości sześcianu.  \n\n**WYNIK KOŃCOWY:**  \nObjętość ostrosłupa ACDS jest **6 razy mniejsza** od objętości sześcianu ABCDEFGH.  \n\n<odpowiedz>Objętość ostrosłupa ACDS jest 6 razy mniejsza od objętości sześcianu ABCDEFGH.</odpowiedz>",
+    "odpowiedz": "Objętość ostrosłupa ACDS jest 6 razy mniejsza od objętości sześcianu ABCDEFGH."
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": false,
+    "czas_s": 6.97,
+    "tokens": 276,
+    "tokens_per_s": 39.6,
+    "raw": "Pole powierzchni trapezu obliczamy ze wzoru: \n\n$$P = \\frac{a + b}{2} \\times h$$\n\n$$P = \\frac{18 + 12}{2} \\times 9 = 27 \\times 9 = 243 \\text{ m}^2$$\n\nPani Anna potrzebuje 243 m² / 25 m² = <<243/25=9,72>>9,72 opakowań z nasionami.\n\nKoszt zakupu 9,72 opakowań z nasionami wynosi 9,72 × 23,80 zł = <<9,72*23,80=231,056>>231,056 zł.\n\nPani Anna musi zapłacić za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka 231,06 zł.\n\n<odpowiedz>Pani Anna musi zapłacić za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka 231,06 zł.</odpowiedz>",
+    "odpowiedz": "Pani Anna musi zapłacić za najmniejszą liczbę opakowań z nasionami potrzebnych na obsianie całej powierzchni tego ogródka 231,06 zł."
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": true,
+    "czas_s": 9.29,
+    "tokens": 367,
+    "tokens_per_s": 39.5,
+    "raw": "Oto rozwiązanie zadania krok po kroku:\n\n1. **Obliczenie długości boków równoległoboku KLMN**\n\n   - **Bok poziomy dłuższy (KL, NM)**:\n     - Długość krótszego boku prostokąta ABCD: 3 cm\n     - Długość dłuższego boku prostokąta ABCD: 9 cm\n     - Zgodnie z zadaniem, bok poziomy dłuższy równoległoboku KLMN jest równy długości krótszego boku prostokąta ABCD:\n       [\n       KL = NM = 3 \\text{ cm}\n       ]\n\n   - **Bok ukośny krótszy (KN, LM)**:\n     - Długość dłuższego boku prostokąta ABCD: 9 cm\n     - Zgodnie z zadaniem, bok ukośny krótszy równoległoboku KLMN jest równy długości dłuższego boku prostokąta ABCD:\n       [\n       KN = LM = 9 \\text{ cm}\n       ]\n\n2. **Obliczenie obwodu równoległoboku KLMN**\n\n   - Suma długości wszystkich boków:\n     [\n     Obwód = KL + LM + KN + NM\n     ]\n     [\n     = 3 + 9 + 9 + 3 = 24 \\text{ cm}\n     ]\n\n   - **WYNIK KOŃCOWY**:\n     [\n     Obwód równoległoboku KLMN wynosi 24 \\text{ cm}.\n     ]",
+    "odpowiedz": ""
+  }
+]
