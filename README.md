@@ -27,6 +27,29 @@ Pełna tabela per-zadaniowa + wydajność: [`results/raport.md`](results/raport.
 - **PLLuM nie skaluje się z rozmiarem.** PLLuM 8B (Llama-based) i PLLuM 12B (natywny Mistral-based) dają identyczne 3/30. Problem rodziny PLLuM, nie wersji.
 - Wszystko offline, na Apple Silicon przez MLX, ~3 minuty inferencji per model.
 
+## 🥇 Wagi MLX dla Bielik-Minitron 7B
+
+Skoro Bielik-Minitron 7B wygrał benchmark, a nie miał oficjalnych wag MLX, opublikowałem zestaw kwantyzacji dla społeczności Apple Silicon (za zgodą zespołu SpeakLeash):
+
+| Wariant | Rozmiar | Use case |
+|---|---|---|
+| [`agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit`](https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit) | ~4 GB | edge / MacBook Air, ograniczona pamięć |
+| [`agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit`](https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit) | ~5.5 GB | sweet spot quality/size |
+| [`agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit`](https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit) | ~7.5 GB | high quality, używana w benchmarku |
+| [`agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16`](https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16) | ~14 GB | pełna precyzja, źródło |
+
+```python
+from mlx_lm import load, generate
+
+model, tokenizer = load("agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit")
+
+messages = [{"role": "user", "content": "Wyjaśnij prosto twierdzenie Pitagorasa."}]
+prompt = tokenizer.apply_chat_template(messages, add_generation_prompt=True, tokenize=False)
+print(generate(model, tokenizer, prompt=prompt, max_tokens=400, verbose=True))
+```
+
+Konwersja, README per repo, smoke test i upload: zob. [`publish/`](publish/).
+
 ## Architektura
 
 ```
@@ -71,16 +94,11 @@ EOF
 uv sync
 
 # 4. Konwersja MLX dla modeli bez gotowych wag MLX
-#    (Bielik 4.5B v3 i Gemma 3/4 mają gotowe MLX, te dwa wymagają konwersji)
+#    Bielik 4.5B v3, Bielik-Minitron 7B (agentGreg/...-MLX-*) i Gemma 3/4
+#    mają gotowe MLX. Konwertujemy tylko PLLuM-y:
 uv run python -m mlx_lm convert \
   --hf-path CYFRAGOVPL/Llama-PLLuM-8B-instruct \
   --mlx-path ~/.cache/huggingface/local-mlx/Llama-PLLuM-8B-instruct-mlx-8bit \
-  -q --q-bits 8
-
-# wymaga akceptacji licencji na huggingface.co/speakleash/Bielik-Minitron-7B-v3.0-Instruct
-uv run python -m mlx_lm convert \
-  --hf-path speakleash/Bielik-Minitron-7B-v3.0-Instruct \
-  --mlx-path ~/.cache/huggingface/local-mlx/Bielik-Minitron-7B-mlx-8bit \
   -q --q-bits 8
 
 # 5. Pełen pipeline

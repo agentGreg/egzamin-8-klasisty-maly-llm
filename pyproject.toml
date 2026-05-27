@@ -6,6 +6,7 @@ authors = [{ name = "Grzegorz Brzezinka", email = "greg@prosit.no" }]
 requires-python = ">=3.12"
 dependencies = [
     "anthropic>=0.101.0",
+    "matplotlib>=3.10.9",
     "mlx-lm>=0.31.3",
     "mlx-vlm>=0.5.0",
     "pillow>=12.2.0",

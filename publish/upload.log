@@ -1,0 +1,152 @@
+15:28:45 [INFO] ============================================================
+15:28:45 [INFO] START upload, namespace=agentGreg, mlx-lm=0.31.3
+15:28:45 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit (3.9 GB) ===
+15:28:45 [INFO]   README.md zapisane lokalnie
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:28:46 [INFO]   Repo utworzone (lub istnieje)
+15:28:46 [INFO]   Start upload_large_folder (resume + parallel)...
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:28:46 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/commits/main "HTTP/1.1 200 OK"
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:46 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:48 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/preupload/main "HTTP/1.1 200 OK"
+15:28:48 [INFO] HTTP Request: POST https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit.git/info/lfs/objects/batch "HTTP/1.1 200 OK"
+15:28:48 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/xet-write-token/main "HTTP/1.1 200 OK"
+15:33:57 [INFO] HTTP Request: POST https://huggingface.co/api/validate-yaml "HTTP/1.1 200 OK"
+15:33:59 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit/commit/main "HTTP/1.1 200 OK"
+15:34:06 [INFO]   ✓ https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit
+15:34:06 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit (5.7 GB) ===
+15:34:06 [INFO]   README.md zapisane lokalnie
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 200 OK"
+15:34:07 [INFO]   Repo utworzone (lub istnieje)
+15:34:07 [INFO]   Start upload_large_folder (resume + parallel)...
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:34:07 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/commits/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:07 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:08 [INFO] HTTP Request: POST https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit.git/info/lfs/objects/batch "HTTP/1.1 200 OK"
+15:34:08 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/xet-write-token/main "HTTP/1.1 200 OK"
+15:34:09 [INFO] HTTP Request: POST https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit/preupload/main "HTTP/1.1 200 OK"
+15:34:09 [INFO] HTTP Request: POST https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit.git/info/lfs/objects/batch "HTTP/1.1 200 OK"
+15:41:17 [INFO] ============================================================
+15:41:17 [INFO] START upload, namespace=agentGreg, mlx-lm=0.31.3
+15:41:17 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit (3.9 GB) ===
+15:41:17 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:41:17 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit?blobs=true "HTTP/1.1 200 OK"
+15:41:17 [INFO]   Start `huggingface-cli upload`...
+15:41:18 [ERROR]   FAIL 4bit (exit 1)
+15:41:18 [ERROR]   stdout: 
+15:41:18 [ERROR]   stderr: g version 1.14.0.
+Hint: `hf` is already installed! Use it directly.
+
+Hint: Examples:
+  hf auth login
+  hf download unsloth/gemma-4-31B-it-GGUF
+  hf upload my-cool-model . .
+  hf models ls --search "gemma"
+  hf repos ls --format json
+  hf jobs run python:3.12 python -c 'print("Hello!")'
+  hf --help
+
+
+15:41:18 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit (5.7 GB) ===
+15:41:18 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:41:18 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit?blobs=true "HTTP/1.1 200 OK"
+15:41:18 [INFO]   Start `huggingface-cli upload`...
+15:41:18 [ERROR]   FAIL 6bit (exit 1)
+15:41:18 [ERROR]   stdout: 
+15:41:18 [ERROR]   stderr: se `hf` instead.
+
+Hint: `hf` is already installed! Use it directly.
+
+Hint: Examples:
+  hf auth login
+  hf download unsloth/gemma-4-31B-it-GGUF
+  hf upload my-cool-model . .
+  hf models ls --search "gemma"
+  hf repos ls --format json
+  hf jobs run python:3.12 python -c 'print("Hello!")'
+  hf --help
+
+
+15:41:18 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit (7.4 GB) ===
+15:41:19 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 200 OK"
+15:41:19 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit?blobs=true "HTTP/1.1 200 OK"
+15:41:19 [INFO]   Start `huggingface-cli upload`...
+15:41:19 [ERROR]   FAIL 8bit (exit 1)
+15:41:19 [ERROR]   stdout: 
+15:41:19 [ERROR]   stderr: se `hf` instead.
+
+Hint: `hf` is already installed! Use it directly.
+
+Hint: Examples:
+  hf auth login
+  hf download unsloth/gemma-4-31B-it-GGUF
+  hf upload my-cool-model . .
+  hf models ls --search "gemma"
+  hf repos ls --format json
+  hf jobs run python:3.12 python -c 'print("Hello!")'
+  hf --help
+
+
+15:41:19 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16 (13.9 GB) ===
+15:41:20 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 200 OK"
+15:41:20 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16?blobs=true "HTTP/1.1 200 OK"
+15:41:20 [INFO]   Start `huggingface-cli upload`...
+15:41:20 [ERROR]   FAIL bf16 (exit 1)
+15:41:20 [ERROR]   stdout: 
+15:41:20 [ERROR]   stderr: se `hf` instead.
+
+Hint: `hf` is already installed! Use it directly.
+
+Hint: Examples:
+  hf auth login
+  hf download unsloth/gemma-4-31B-it-GGUF
+  hf upload my-cool-model . .
+  hf models ls --search "gemma"
+  hf repos ls --format json
+  hf jobs run python:3.12 python -c 'print("Hello!")'
+  hf --help
+
+
+15:41:20 [INFO] ============================================================
+15:41:20 [INFO] DONE — uploaded 0/4:
+15:42:22 [INFO] ============================================================
+15:42:22 [INFO] START upload, namespace=agentGreg, mlx-lm=0.31.3
+15:42:22 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit (3.9 GB) ===
+15:42:22 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:42:22 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit?blobs=true "HTTP/1.1 200 OK"
+15:42:22 [INFO]   Start `hf upload`...
+15:42:30 [INFO]   ✓ https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit
+15:42:30 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit (5.7 GB) ===
+15:42:30 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:42:31 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit?blobs=true "HTTP/1.1 200 OK"
+15:42:31 [INFO]   Start `hf upload`...
+15:51:42 [INFO]   ✓ https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit
+15:51:42 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit (7.4 GB) ===
+15:51:42 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+15:51:43 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit?blobs=true "HTTP/1.1 200 OK"
+15:51:43 [INFO]   Start `hf upload`...
+16:06:49 [INFO]   ✓ https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit
+16:06:49 [INFO] === agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16 (13.9 GB) ===
+16:06:49 [INFO] HTTP Request: POST https://huggingface.co/api/repos/create "HTTP/1.1 409 Conflict"
+16:06:49 [INFO] HTTP Request: GET https://huggingface.co/api/models/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16?blobs=true "HTTP/1.1 200 OK"
+16:06:49 [INFO]   Start `hf upload`...
+16:08:46 [INFO]   ✓ https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16
+16:08:46 [INFO] ============================================================
+16:08:46 [INFO] DONE — uploaded 4/4:
+16:08:46 [INFO]   https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-4bit
+16:08:46 [INFO]   https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-6bit
+16:08:46 [INFO]   https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-8bit
+16:08:46 [INFO]   https://huggingface.co/agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-bf16

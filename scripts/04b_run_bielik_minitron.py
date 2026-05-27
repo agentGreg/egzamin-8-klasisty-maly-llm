@@ -6,10 +6,14 @@ parametrów, -33%) przez structured pruning + knowledge distillation, z użyciem
 NVIDIA Model Optimizer i NeMo Framework. Podejście inspirowane techniką
 Minitron, ale base model to Bielik 11B, nie Nemotron. Paper: arxiv.org/abs/2603.11881.
 
-Wymagana akceptacja licencji + HF_TOKEN (model gated na HF).
+Wymagana akceptacja licencji + HF_TOKEN (oryginalny model jest gated na HF).
 Konwersja do MLX:
   uv run python -m mlx_lm convert --hf-path speakleash/Bielik-Minitron-7B-v3.0-Instruct \\
     --mlx-path ~/.cache/huggingface/local-mlx/Bielik-Minitron-7B-mlx-8bit -q --q-bits 8
+
+Alternatywnie (bez gated repo / własnej konwersji), gotowe wagi MLX dostępne:
+  agentGreg/Bielik-Minitron-7B-v3.0-Instruct-MLX-{4,6,8}bit lub -MLX-bf16
+(opublikowane przez autora tego repo za zgodą zespołu SpeakLeash).
 
 Wynik: results/bielik_minitron_odpowiedzi.json
 """
