@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 2.41,
+    "tokens": 92,
+    "tokens_per_s": 38.2,
+    "raw": "Arytmetyka stanowi 20% całego testu, więc liczba zadań z arytmetyki wynosi 20% z 40 = 8. Wycinek arytmetyki na diagramie nie ma podanego procentu, więc liczba zadań z arytmetyki jest sumą tego wycinka i 8.\n<odpowiedz>D</odpowiedz>",
+    "odpowiedz": "D"
+  },
+  {
+    "id": 2,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 2.83,
+    "tokens": 116,
+    "tokens_per_s": 41.0,
+    "raw": "Największy wspólny dzielnik liczb 18 i 27 to 9, a najmniejsza wspólna wielokrotność liczb 2 i 4 to 8. Kod YXXY to 8,9,8 – 8,9,4,8 – 8,9,7,8 – 8,9,6,8, więc właściwym kodem jest 8,9,6,8.\n<odpowiedz>R</odpowiedz>",
+    "odpowiedz": "R"
+  },
+  {
+    "id": 3,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 1.7,
+    "tokens": 65,
+    "tokens_per_s": 38.2,
+    "raw": "√(100 − 64) = 4,6, więc w = 2 − 2 = 0. Wśród danych liczb tylko w daje się sprowadzić do liczby 0, więc odpowiedź to A.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 4,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 1.12,
+    "tokens": 40,
+    "tokens_per_s": 35.8,
+    "raw": "2^5 · 3 · 3^4 · 2^3 = 2^8 · 3^5.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 5,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 2.0,
+    "tokens": 79,
+    "tokens_per_s": 39.6,
+    "raw": "Rasowy kocur ze zniżką 40% to 0,4x złotych, a rasowa kotka ze zniżką 20% to 0,2y złotych. Suma to 0,4x + 0,2y złotych.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 6,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 5.31,
+    "tokens": 225,
+    "tokens_per_s": 42.4,
+    "raw": "Suma pięciu liczb parzystych jest parzysta, więc suma dowolnych dwóch takich liczb jest parzysta. W pudełku pozostały kule ponumerowane liczbami nieparzystymi (od 1 do 11). Suma pięciu liczb nieparzystych jest liczba parzystą, więc suma dowolnych dwóch takich liczb jest parzysta.\n<odpowiedz>AB</odpowiedz>\n\nSuma pięciu liczb całkowitych jest liczba parzystą, więc suma dowolnych dwóch takich liczb jest parzysta. W pudełku pozostały kule ponumerowane liczbami parzystymi (od 1 do 11). Suma pięcięciu liczb parzystych jest liczba parzystą, więc suma dowolnych dwóch takich liczb jest parzysta.\n<odpowiedz>CD</odpowiedz>",
+    "odpowiedz": "AB"
+  },
+  {
+    "id": 7,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 4.75,
+    "tokens": 199,
+    "tokens_per_s": 41.9,
+    "raw": "Niech j to liczba jabłoni, a p liczba pomarańoni. Wtedy 2j + 2p = 400, a j = 6 + p. Z równania 2j + 2p = 400 mamy 2(6 + p) + 2p = 400, czyli 12 + 2p + 2p = 400, więc 2p + 2p − 300 = 0, więc 4p = 300, więc p = 75, a j = 6 + 75 = 81. Wtedy 10 · 81 + 10 · 75 = 810 + 750 = 1600, więc liczba jabłoni łącznie wynosi 1600 / 2 = 800. Wtedy 800 / 6 = 133.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 8,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 1.84,
+    "tokens": 70,
+    "tokens_per_s": 38.0,
+    "raw": "Suma stu kolejnych liczb naturalnych od 1 do 100 jest równa 5050. Wzór na sumę S po poprawnym przekształceniu ma postać S = (1/2)n^2 + 1.\n<odpowiedz>BP</odpowiedz>",
+    "odpowiedz": "BP"
+  },
+  {
+    "id": 9,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 1.77,
+    "tokens": 70,
+    "tokens_per_s": 39.5,
+    "raw": "Średnia arytmetyczna dwóch liczb x i y jest równa 4, a średnia arytmetyczna trzech liczb x, y, z jest równa 5.\n\nLiczba z jest równa 6.\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 10,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 2.33,
+    "tokens": 93,
+    "tokens_per_s": 39.9,
+    "raw": "Pole jednego trójkąta równobocznych jest równe 1/2 · 3 = 6 cm^2, więc zdanie 2 jest prawdziwe. Wysokość trójkąta równoboczny jest równa 2 · 6 = 12 cm, więc zdanie 1 jest fałszywe.\n<odpowiedz>FP</odpowiedz>",
+    "odpowiedz": "FP"
+  },
+  {
+    "id": 11,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": false,
+    "czas_s": 1.35,
+    "tokens": 50,
+    "tokens_per_s": 37.1,
+    "raw": "β = 2α + 70°, więc β = 120° (2 · 50° + 70°). Prawidłowa odpowiedź: C.\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 12,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 2.86,
+    "tokens": 115,
+    "tokens_per_s": 40.2,
+    "raw": "Schronisko S jest w środku układu współrzędnych, więc odległość w linii prostej schroniska od muzeum jest równa odległości w linii prostej schroniska od wieży widokowej.\nOdległość w linii prostej muzeum od wieży widokowej jest większa niż 10 km (11 km), więc zdanie jest fałszywe.\n<odpowiedz>FP</odpowiedz>",
+    "odpowiedz": "FP"
+  },
+  {
+    "id": 13,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 0.87,
+    "tokens": 27,
+    "tokens_per_s": 31.0,
+    "raw": "Pole kwadratu ABCD jest równe 16.\n<odpowiedz>A</odpowiedz>",
+    "odpowiedz": "A"
+  },
+  {
+    "id": 14,
+    "typ": "zamkniete",
+    "punkty_max": 1,
+    "ma_obrazek": true,
+    "czas_s": 5.15,
+    "tokens": 219,
+    "tokens_per_s": 42.5,
+    "raw": "Pole powierzchni całkowitej prostopadłościanu jest równe\n\nOpcje odpowiedzi:\n  A. 350\n  B. 375\n  C. 400\n  D. 450\n\nOpcje odpowiedzi A i D są wykluczone, ponieważ pole powierzchni całkowitej prostopadłościanu jest sumą pali bocznych, więc musi być większe od 350. Podobnie opcja A jest wykluczona, bo 5 × 5 = 25 < 35. Pozostają dwie opcje: C i D. Ponieważ 15 jest podzielny przez 5, to 5 × 5 × 15 = 75 < 100, więc pole powierzchni całkowitej jest mniejszy od 100, więc poprawnym wyrażeniem jest C.\n<odpowiedz>C</odpowiedz>",
+    "odpowiedz": "C"
+  },
+  {
+    "id": 15,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "ma_obrazek": false,
+    "czas_s": 3.41,
+    "tokens": 145,
+    "tokens_per_s": 42.6,
+    "raw": "Niech x oznacza liczbę kartek czerwonych. Wtedy liczba kartek niebieskich wynosi 1,5x, a liczba kartek zielonych wynosi x − 10. Zapisujemy równanie: 1,5x + x − 10 = 160, stąd 2,5x = 170, więc x = 68. Wtedy liczba kartek niebieskich wynosi 1,5 · 68 = 102. Ela przygotowała 102 kartki niebieskie.\n<odpowiedz>102 kartki niebieskie</odpowiedz>",
+    "odpowiedz": "102 kartki niebieskie"
+  },
+  {
+    "id": 16,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": false,
+    "czas_s": 3.76,
+    "tokens": 161,
+    "tokens_per_s": 42.8,
+    "raw": "Czas przejazku drogi z Polanki do Jodłowa to 40 minut = 2/3 h. Prędkość v = droga / czas = 48 km / (2/3 h) = 72 km/h. Czas przejazku drogi z Jodłowa do Dębiny to czas = droga / prędkość = 123 km / 72 km/h = 2 h. Ponieważ 2 h = 12/3 h > 2/3 h, czas przejazku drogi z Jodłowa do Dębiny trwał dłużej niż godzinę.\n<odpowiedz>2 h</odpowiedz>",
+    "odpowiedz": "2 h"
+  },
+  {
+    "id": 17,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": true,
+    "czas_s": 2.75,
+    "tokens": 112,
+    "tokens_per_s": 40.8,
+    "raw": "Liczba wszystkich uczestników Dnia Sportu to 15 + 65 + 46 + 16 + 34 = 140 dzieci. Liczba dzieci uczestniczących w turnieju tenisa stołowego to 34 dzieci. Procent liczby dzieci uczestniczących w turnieju tenisa stołowego to 34/140 × 100 = 24,29%. Zapisz obliczenia.\n<odpowiedz>24,29%</odpowiedz>",
+    "odpowiedz": "24,29%"
+  },
+  {
+    "id": 18,
+    "typ": "otwarte",
+    "punkty_max": 2,
+    "ma_obrazek": true,
+    "czas_s": 5.01,
+    "tokens": 213,
+    "tokens_per_s": 42.5,
+    "raw": "Oznaczmy długość krawędzi sześcianu jako x, a długość krawędzi ostrosłupa jako y. Objętość sześcianu: V = 8x^3, a objętość ostrosłupa: V = 1/3 · 3x · y = x · y. Z równania 8x^3 = x · y otrzymujemy y = 8x^2, więc V = 8x^3 : 8x^2 = 1. Z równania 1/3 · 3x · y = x · y otrzymujemy y = 3x, więc V = 1/3 · 3x · y = 1. Objętość ostrosłupa jest mniejsza 8-krotnie od objętości sześcianu.\n<odpowiedz>8</odpowiedz>",
+    "odpowiedz": "8"
+  },
+  {
+    "id": 19,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": false,
+    "czas_s": 2.23,
+    "tokens": 91,
+    "tokens_per_s": 40.9,
+    "raw": "Powierzchnia trapezu: P = 1/2 · 18 · 12 = 108 m^2. Wymagana liczba opakowań z nasionami to 4 (108 : 25). Koszt czterech takich opakali wynosi 23,80 · 4 = 94,32 zł.\n<odpowiedz>94,32 zł</odpowiedz>",
+    "odpowiedz": "94,32 zł"
+  },
+  {
+    "id": 20,
+    "typ": "otwarte",
+    "punkty_max": 3,
+    "ma_obrazek": true,
+    "czas_s": 4.51,
+    "tokens": 177,
+    "tokens_per_s": 39.2,
+    "raw": "Obwód równoległobka KLMN składa się z długości boków: KL, LM, MN oraz KN. Z równania Pitagorasa długość boków krótszych: KL = LM = 3, a długość boków dłuższych: MN = 9, KN = 6. Obwód v = KL + LM + MN + KN = 3 + 3 + 9 + 6 = 21. Poniżej przedstawiono obliczenia.\n\nObwód równoległobka KLMN jest równy 21.\n\nOpcje odpowiedzi:\n  A. 14\n  B. 19\n  C. 21\n  D. 25\n  E. 32",
+    "odpowiedz": ""
+  }
+]
